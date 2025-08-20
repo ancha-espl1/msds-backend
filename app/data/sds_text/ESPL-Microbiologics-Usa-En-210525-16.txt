@@ -1,0 +1,512 @@
+                                                                         Safety Data Sheet
+
+
+                                                     1. IDENTIFICATION
+
+Product Identifier
+Product Name                           India Ink Control
+Product Code                            100111
+Other means of identification
+SDS #                                  SDS-976-02
+
+Synonyms                               India Ink Positive Control
+
+Recommended use of the chemical and restrictions on use
+Recommended Use                  For laboratory use.
+
+Details of the supplier of the safety data sheet
+Manufacturer Address
+
+Microbiologics
+1040 Manchester Street
+Lexington, KY 40508
+
+Emergency Telephone Number
+Company Phone Number                   Phone: (800) 477-4763
+                                       Fax: (859) 253-1476
+Emergency Telephone (24 hr)            INFOTRAC 1-352-323-3500 (International)
+                                       1-800-535-5053 (North America)
+
+                                             2. HAZARDS IDENTIFICATION
+
+Appearance Opaque to white liquid                    Physical State Liquid                     Odor Organic
+
+Classification
+
+Acute toxicity - Inhalation (Vapors)                                             Category 4
+Skin corrosion/irritation                                                        Category 2
+Serious eye damage/eye irritation                                                Category 1
+Carcinogenicity                                                                  Category 1A
+
+Hazards Not Otherwise Classified (HNOC)
+May be harmful if swallowed
+
+
+Signal Word
+Danger
+
+Hazard Statements
+Harmful if inhaled
+Causes skin irritation
+Causes serious eye damage
+May cause cancer
+
+
+
+
+_____________________________________________________________________________________________
+
+                                                           Page 1 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+
+
+
+
+Precautionary Statements - Prevention
+Obtain special instructions before use
+Do not handle until all safety precautions have been read and understood
+Use personal protective equipment as required
+Avoid breathing dust/fume/gas/mist/vapors/spray
+Use only outdoors or in a well-ventilated area
+Wash face, hands and any exposed skin thoroughly after handling
+
+Precautionary Statements - Response
+If exposed or concerned: Get medical advice/attention
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing
+Immediately call a poison center or doctor/physician
+IF ON SKIN: Wash with plenty of soap and water
+If skin irritation occurs: Get medical advice/attention
+Take off contaminated clothing and wash it before reuse
+IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing
+
+Precautionary Statements - Storage
+Store locked up
+
+Precautionary Statements - Disposal
+Dispose of contents/container to an approved waste disposal plant
+
+
+Other Hazards
+Harmful to aquatic life with long lasting effects
+
+                                  3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+Synonyms                                  India Ink Positive Control
+
+                   Chemical Name                                        CAS No                            Weight-%
+                  Stablizing Medium                                    Proprietary                         <99.0
+
+**If Chemical Name/CAS No is "proprietary" and/or Weight-% is listed as a range, the specific chemical identity and/or percentage
+of composition has been withheld as a trade secret.**
+
+                                 This product is a stabilized bacterial suspension and contains either:
+                                    >1% Cryptococcus Neoformans (Non-viable; Positive Control)
+                                                                   in a
+                                   <99% Stabilizing Solution having an LD50 (rat/oral) of 100 g/kg.
+
+
+
+
+                                                    4. FIRST-AID MEASURES
+
+_____________________________________________________________________________________________
+
+                                                             Page 2 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+First Aid Measures
+
+   General Advice                     If exposed or concerned: Get medical advice/attention.
+
+   Eye Contact                        Immediately flush with plenty of water. After initial flushing, remove any contact lenses and
+                                      continue flushing for at least 15 minutes. Immediately call a poison center or
+                                      doctor/physician.
+
+   Skin Contact                       IF ON SKIN: Wash with plenty of soap and water. If skin irritation occurs: Get medical
+                                      advice/ attention. Take off contaminated clothing and wash it before reuse.
+
+   Inhalation                         IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for
+                                      breathing. Get medical attention if necessary.
+
+   Ingestion                          Give water to conscious/alert person. Never give anything by mouth to an unconscious
+                                      person. Induce vomiting immediately as directed by medical personnel. Call a physician or
+                                      poison control center immediately.
+
+Most important symptoms and effects
+
+   Symptoms                           Causes skin irritation. Causes serious eye damage. Harmful if inhaled. May be harmful if
+                                      swallowed. Repeated exposure may cause symptoms of poisoning.
+
+Indication of any immediate medical attention and special treatment needed
+
+   Notes to Physician                 Treat symptomatically.
+
+                                            5. FIRE-FIGHTING MEASURES
+
+Suitable Extinguishing Media
+Use extinguishing measures that are appropriate to local circumstances and the surrounding environment.
+
+   Unsuitable Extinguishing Media Not determined.
+
+Specific Hazards Arising from the Chemical
+Non-flammable.
+
+Protective equipment and precautions for firefighters
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH (approved or equivalent) and full
+protective gear.
+
+                                      6. ACCIDENTAL RELEASE MEASURES
+
+Personal precautions, protective equipment and emergency procedures
+
+   Personal Precautions               Use personal protective equipment as required.
+
+   Environmental Precautions          See Section 13: DISPOSAL CONSIDERATIONS.
+
+Methods and material for containment and cleaning up
+
+   Methods for Containment            Prevent further leakage or spillage if safe to do so.
+
+   Methods for Clean-Up               Absorb with inert material or sweep up, and then place in suitable container for chemical
+                                      waste. Wash down area and collect water for disposal.
+
+                                             7. HANDLING AND STORAGE
+
+
+_____________________________________________________________________________________________
+
+                                                          Page 3 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+Precautions for safe handling
+
+   Advice on Safe Handling           Handle in accordance with good industrial hygiene and safety practice. Use personal
+                                     protection recommended in Section 8. Avoid contact with skin, eyes or clothing. Obtain
+                                     special instructions before use. Do not handle until all safety precautions have been read
+                                     and understood. Avoid breathing dust/fume/gas/mist/vapors/spray. Use only outdoors or in
+                                     a well-ventilated area. Wash face, hands, and any exposed skin thoroughly after handling.
+
+Conditions for safe storage, including any incompatibilities
+
+   Storage Conditions                Keep container tightly closed and store in a cool, dry and well-ventilated place. Store locked
+                                     up.
+
+   Incompatible Materials            None known based on information supplied.
+
+                               8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+Exposure Guidelines
+
+            Chemical Name                     ACGIH TLV                        OSHA PEL                        NIOSH IDLH
+           Stablizing Medium                 Ceiling: 0.3 ppm                TWA: 0.75 ppm                    IDLH: 20 ppm
+                                                                    (vacated) TWA: 3 ppm       unless   Ceiling: 0.1 ppm 15 min
+                                                                         specified in 1910.1048              TWA: 0.016 ppm
+                                                                      (vacated) STEL: 10 ppm 30
+                                                                    min unless specified in 1910.1048
+                                                                    (vacated) Ceiling: 5 ppm unless
+                                                                         specified in 1910.1048
+                                                                        STEL: 2 ppm see 29 CFR
+                                                                               1910.1048
+
+Appropriate engineering controls
+
+   Engineering Controls              Apply technical measures to comply with the occupational exposure limits. Eyewash
+                                     stations. Showers.
+
+Individual protection measures, such as personal protective equipment
+
+   Eye/Face Protection               Chemical anti-splash safety goggles.
+
+   Skin and Body Protection          Wear protective gloves and protective clothing.
+
+   Respiratory Protection            Ensure adequate ventilation, especially in confined areas. In case of inadequate ventilation
+                                     wear respiratory protection.
+
+   General Hygiene Considerations Handle in accordance with good industrial hygiene and safety practice. Take off all
+                                  contaminated clothing and wash it before reuse. Wash face, hands and any exposed skin
+                                  thoroughly after handling.
+
+                                   9. PHYSICAL AND CHEMICAL PROPERTIES
+
+Information on basic physical and chemical properties
+
+Physical State                       Liquid
+Appearance                           Opaque to white liquid                  Odor                       Organic
+Color                                Opaque to white                         Odor Threshold             Not determined
+
+Property                             Values                                  Remarks • Method
+pH                                   Not determined
+Melting Point/Freezing Point         Not determined
+Boiling Point/Boiling Range          Not determined
+
+_____________________________________________________________________________________________
+
+                                                         Page 4 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+Flash Point                             Non-flammable
+Evaporation Rate                        Not determined
+Flammability (Solid, Gas)               Liquid-not applicable
+Upper Flammability Limits               Not applicable
+Lower Flammability Limit                Not applicable
+Vapor Pressure                          Not determined
+Vapor Density                           Not determined
+Specific Gravity                        Not determined
+Water Solubility                        Not determined
+Solubility in other solvents            Not determined
+Partition Coefficient                   Not determined
+Auto-ignition Temperature               Not determined
+Decomposition Temperature               Not determined
+Kinematic Viscosity                     Not determined
+Dynamic Viscosity                       Not determined
+Explosive Properties                    Not determined
+Oxidizing Properties                    Not determined
+
+                                             10. STABILITY AND REACTIVITY
+
+Reactivity
+Not reactive under normal conditions.
+
+Chemical Stability
+Stable under recommended storage conditions.
+
+Possibility of Hazardous Reactions
+None under normal processing.
+
+Conditions to Avoid
+Keep out of reach of children.
+
+Incompatible Materials
+None known based on information supplied.
+
+Hazardous Decomposition Products
+None known based on information supplied.
+
+                                          11. TOXICOLOGICAL INFORMATION
+
+Information on likely routes of exposure
+
+   Product Information
+
+   Eye Contact                          Causes serious eye damage.
+
+   Skin Contact                         Causes skin irritation.
+
+   Inhalation                           Harmful if inhaled.
+
+   Ingestion                            May be harmful if swallowed.
+
+Component Information
+
+Chemical Name                                Oral LD50                     Dermal LD50          Inhalation LC50
+Water                                    > 90 mL/kg ( Rat )                     -                       -
+ 7732-18-5
+Stablizing Medium                       = 500 mg/kg ( Rat )                     -        = 0.578 mg/L ( Rat ) 4 h = 1000
+                                                                                              mg/m3 ( Rat ) 30 min
+
+_____________________________________________________________________________________________
+
+                                                              Page 5 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+
+Information on physical, chemical and toxicological effects
+
+    Symptoms                                Please see section 4 of this SDS for symptoms.
+
+Delayed and immediate effects as well as chronic effects from short and long-term exposure
+
+    Carcinogenicity                         The table below indicates whether each agency has listed any ingredient as a carcinogen.
+                                            However, the product as a whole has not been tested.
+
+      Chemical Name                     ACGIH                          IARC                     NTP                       OSHA
+     Stablizing Medium                   A2                           Group 1                  Known                        X
+
+    ACGIH (American Conference of Governmental Industrial Hygienists)
+    A2 - Suspected Human Carcinogen
+    IARC (International Agency for Research on Cancer)
+    Group 1 - Carcinogenic to Humans
+    NTP (National Toxicology Program)
+    Known - Known Carcinogen
+    OSHA (Occupational Safety and Health Administration of the US Department of Labor)
+    X - Present
+
+
+
+Numerical measures of toxicity
+Not determined
+
+                                                 12. ECOLOGICAL INFORMATION
+
+Ecotoxicity
+Harmful to aquatic life with long lasting effects.
+
+Component Information
+
+      Chemical Name              Algae/aquatic plants                  Fish                    Toxicity to                Crustacea
+                                                                                            microorganisms
+     Stablizing Medium                                     22.6 - 25.7: 96 h Pimephales    EC50 = 1.2 mg/L 1 h   2: 48 h Daphnia magna mg/L
+                                                                promelas mg/L LC50       EC50 = 16.5 mg/L 30 min     LC50 11.3 - 18: 48 h
+                                                              flow-through 1510: 96 h      EC50 = 3.7 mg/L 5 h   Daphnia magna mg/L EC50
+                                                            Lepomis macrochirus µg/L      EC50 = 5.39 mg/L 72 h             Static
+                                                                 LC50 static 41: 96 h    EC50 = 6.81 mg/L 25 min
+                                                              Brachydanio rerio mg/L     EC50 = 7.26 mg/L 15 min
+                                                           LC50 static 0.032 - 0.226: 96 EC50 = 9.0 mg/L 5 min
+                                                             h Oncorhynchus mykiss
+                                                           mL/L LC50 flow-through 100
+                                                            - 136: 96 h Oncorhynchus
+                                                             mykiss mg/L LC50 static
+                                                           23.2 - 29.7: 96 h Pimephales
+                                                            promelas mg/L LC50 static
+
+Persistence/Degradability
+Not determined.
+
+Bioaccumulation
+Not determined.
+
+Mobility
+
+                            Chemical Name                                                      Partition Coefficient
+                           Stablizing Medium                                                            0.35
+
+
+Other Adverse Effects
+Not determined
+
+_____________________________________________________________________________________________
+
+                                                                  Page 6 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+                                                   13. DISPOSAL CONSIDERATIONS
+
+Waste Treatment Methods
+
+   Disposal of Wastes                         Disposal should be in accordance with applicable regional, national and local laws and
+                                              regulations.
+
+   Contaminated Packaging                     Disposal should be in accordance with applicable regional, national and local laws and
+                                              regulations.
+
+US EPA Waste Number
+
+
+       Chemical Name                       RCRA                 RCRA - Basis for Listing      RCRA - D Series Wastes     RCRA - U Series Wastes
+      Stablizing Medium                    U122                 Included in waste streams:                                       U122
+                                                                 K009, K010, K038, K040,
+                                                                       K156, K157
+
+
+
+California Hazardous Waste Status
+
+                             Chemical Name                                                     California Hazardous Waste Status
+                            Stablizing Medium                                                                 Toxic
+                                                                                                            Ignitable
+
+
+                                                     14. TRANSPORT INFORMATION
+
+Note                                          Please see current shipping paper for most up to date shipping information, including
+                                              exemptions and special circumstances.
+
+DOT                                           Not regulated
+
+IATA                                          Not regulated
+
+IMDG
+   Marine Pollutant                           This material may meet the definition of a marine pollutant
+
+                                                   15. REGULATORY INFORMATION
+
+International Inventories
+ Not determined
+
+Legend:
+   TSCA - United States Toxic Substances Control Act Section 8(b) Inventory
+   DSL/NDSL - Canadian Domestic Substances List/Non-Domestic Substances List
+   EINECS/ELINCS - European Inventory of Existing Chemical Substances/European List of Notified Chemical Substances
+   ENCS - Japan Existing and New Chemical Substances
+   IECSC - China Inventory of Existing Chemical Substances
+   KECL - Korean Existing and Evaluated Chemical Substances
+   PICCS - Philippines Inventory of Chemicals and Chemical Substances
+   AICS - Australian Inventory of Chemical Substances
+
+
+US Federal Regulations
+
+CERCLA
+
+
+          Chemical Name                   Hazardous Substances RQs                   CERCLA/SARA RQ                   Reportable Quantity (RQ)
+
+
+_____________________________________________________________________________________________
+
+                                                                      Page 7 / 8
+SDS-976-01 India Ink Control
+_____________________________________________________________________________________________
+        Stablizing Medium                       100 lb                              100 lb                       RQ 100 lb final RQ
+                                                                                                                 RQ 45.4 kg final RQ
+
+SARA 313
+
+                  Chemical Name                                  CAS No                      Weight-%              SARA 313 - Threshold
+                                                                                                                        Values %
+                 Stablizing Medium -                                                           <99.0                       0.1
+
+
+CWA (Clean Water Act)
+
+
+          Component                    CWA - Reportable       CWA - Toxic Pollutants CWA - Priority Pollutants           CWA - Hazardous
+                                         Quantities                                                                        Substances
+        Stablizing Medium                   100 lb                                                                              X
+              ( <99.0 )
+
+US State Regulations
+
+California Proposition 65
+This product contains the following Proposition 65 chemicals.
+
+                         Chemical Name                                                       California Proposition 65
+                        Stablizing Medium -                                                         Carcinogen
+
+U.S. State Right-to-Know Regulations
+
+         Chemical Name                        New Jersey                      Massachusetts                        Pennsylvania
+        Stablizing Medium                         X                                X                                    X
+
+
+
+                                                  16. OTHER INFORMATION
+
+
+NFPA                        Health Hazards               Flammability             Instability                   Special Hazards
+                            Not determined               Not determined           Not determined                Not determined
+HMIS                        Health Hazards               Flammability             Physical Hazards              Personal Protection
+                            Not determined               Not determined           Not determined                Not determined
+
+Issue Date:                              01-Nov-2004
+Revision Date:                           19-Sept-2020
+Revision Note:                           Updated
+
+
+Disclaimer
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the
+date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+materials or in any process, unless specified in the text.
+
+                                                         End of Safety Data Sheet
+
+
+
+
+_____________________________________________________________________________________________
+
+                                                              Page 8 / 8
+

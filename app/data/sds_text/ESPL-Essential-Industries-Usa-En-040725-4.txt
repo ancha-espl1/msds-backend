@@ -1,0 +1,632 @@
+                          SAFETY DATA SHEET
+                                            OMU Wood Seal
+
+Section 1. Identification
+GHS product identifier           : OMU Wood Seal
+Other means of                   : 230SF
+identification
+Product type                     : Liquid
+
+Relevant identified uses of the substance or mixture and uses advised against
+Not applicable.
+
+Supplier's details               : Essential Industries, Inc.
+                                   P.O. Box 12
+                                   Merton, WI 53056-0012
+                                   Phone: 262-538-1122
+
+Emergency telephone              : 800-843-6174 (24 Hours)
+number (with hours of
+operation)
+
+Section 2. Hazards identification
+OSHA/HCS status                  : This material is considered hazardous by the OSHA Hazard Communication Standard
+                                   (29 CFR 1910.1200).
+Classification of the            : FLAMMABLE LIQUIDS - Category 3
+substance or mixture               SERIOUS EYE DAMAGE/ EYE IRRITATION - Category 2A
+
+GHS label elements
+ Hazard pictograms               :
+
+
+
+
+ Signal word                     : Warning
+ Hazard statements               : Flammable liquid and vapor.
+                                   Causes serious eye irritation.
+ Precautionary statements
+   General                       : Read label before use. Keep out of reach of children. If medical advice is needed,
+                                   have product container or label at hand.
+   Prevention                    : Wear protective gloves. Wear eye or face protection. Keep away from heat, sparks,
+                                   open flames and hot surfaces. - No smoking. Use explosion-proof electrical, ventilating,
+                                   lighting and all material-handling equipment. Use only non-sparking tools. Take
+                                   precautionary measures against static discharge. Keep container tightly closed. Wash
+                                   hands thoroughly after handling.
+   Response                      : IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with
+                                   water or shower. IF IN EYES: Rinse cautiously with water for several minutes.
+                                   Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation
+                                   persists: Get medical attention.
+   Storage                       : Store in a well-ventilated place. Keep cool.
+   Disposal                      : Dispose of contents and container in accordance with all local, regional, national and
+                                   international regulations.
+
+
+Date of issue/Date of revision       : 12/19/2014.   Date of previous issue   : 10/26/2014.        Version   : 0.02           1/11
+
+
+
+                                                                                                             Powered by IHS
+OMU Wood Seal
+
+
+Section 2. Hazards identification
+Hazards not otherwise            : None known.
+classified
+
+Section 3. Composition/information on ingredients
+Substance/mixture                : Mixture
+Other means of                   : Not available
+identification
+
+CAS number/other identifiers
+ CAS number                  : Not applicable
+ Product code                    : 230SF
+Ingredient name                                                                    %                    CAS number
+Stoddard solvent                                                                  10 - 30               8052-41-3
+
+Any concentration shown as a range is to protect confidentiality or is due to batch variation.
+There are no additional ingredients present which, within the current knowledge of the supplier and in the
+concentrations applicable, are classified as hazardous to health or the environment and hence require reporting
+in this section.
+Occupational exposure limits, if available, are listed in Section 8.
+
+Section 4. First aid measures
+Description of necessary first aid measures
+ Eye contact                     : Immediately flush eyes with plenty of water, occasionally lifting the upper and lower
+                                   eyelids. Check for and remove any contact lenses. Continue to rinse for at least 10
+                                   minutes. Get medical attention.
+ Inhalation                      : Remove victim to fresh air and keep at rest in a position comfortable for breathing. If
+                                   not breathing, if breathing is irregular or if respiratory arrest occurs, provide artificial
+                                   respiration or oxygen by trained personnel. It may be dangerous to the person providing
+                                   aid to give mouth-to-mouth resuscitation. Get medical attention if adverse health effects
+                                   persist or are severe. If unconscious, place in recovery position and get medical
+                                   attention immediately. Maintain an open airway. Loosen tight clothing such as a collar,
+                                   tie, belt or waistband.
+ Skin contact                    : Flush contaminated skin with plenty of water. Remove contaminated clothing and
+                                   shoes. Get medical attention if symptoms occur. Wash clothing before reuse. Clean
+                                   shoes thoroughly before reuse.
+ Ingestion                       : Wash out mouth with water. Remove dentures if any. Remove victim to fresh air and
+                                   keep at rest in a position comfortable for breathing. If material has been swallowed and
+                                   the exposed person is conscious, give small quantities of water to drink. Stop if the
+                                   exposed person feels sick as vomiting may be dangerous. Do not induce vomiting
+                                   unless directed to do so by medical personnel. If vomiting occurs, the head should be
+                                   kept low so that vomit does not enter the lungs. Get medical attention if adverse health
+                                   effects persist or are severe. Never give anything by mouth to an unconscious person.
+                                   If unconscious, place in recovery position and get medical attention immediately.
+                                   Maintain an open airway. Loosen tight clothing such as a collar, tie, belt or waistband.
+
+Most important symptoms/effects, acute and delayed
+ Potential acute health effects
+   Eye contact                   : Causes serious eye irritation.
+   Inhalation                    : No known significant effects or critical hazards.
+   Skin contact                  : No known significant effects or critical hazards.
+   Ingestion                     : Irritating to mouth, throat and stomach.
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue    : 10/26/2014.          Version   : 0.02           2/11
+
+
+
+                                                                                                               Powered by IHS
+OMU Wood Seal
+
+
+Section 4. First aid measures
+ Over-exposure signs/symptoms
+   Eye contact                   : Adverse symptoms may include the following:
+                                   pain or irritation
+                                   watering
+                                   redness
+   Inhalation                    : No specific data.
+   Skin contact                  : No specific data.
+   Ingestion                     : No specific data.
+
+Indication of immediate medical attention and special treatment needed, if necessary
+ Notes to physician              : Treat symptomatically. Contact poison treatment specialist immediately if large
+                                   quantities have been ingested or inhaled.
+ Specific treatments             : No specific treatment.
+ Protection of first-aiders      : No action shall be taken involving any personal risk or without suitable training. It may
+                                   be dangerous to the person providing aid to give mouth-to-mouth resuscitation.
+
+See toxicological information (Section 11)
+
+Section 5. Fire-fighting measures
+Extinguishing media
+ Suitable extinguishing          : Use dry chemical, CO₂, water spray (fog) or foam.
+ media
+ Unsuitable extinguishing        : Do not use water jet.
+ media
+
+Specific hazards arising         : Flammable liquid and vapor. In a fire or if heated, a pressure increase will occur and
+from the chemical                  the container may burst, with the risk of a subsequent explosion. Runoff to sewer may
+                                   create fire or explosion hazard. Fire water contaminated with this material must be
+                                   contained and prevented from being discharged to any waterway, sewer or drain.
+ Hazardous thermal               : No specific data.
+ decomposition products
+
+Special protective actions       : Promptly isolate the scene by removing all persons from the vicinity of the incident if
+for fire-fighters                  there is a fire. No action shall be taken involving any personal risk or without suitable
+                                   training. Move containers from fire area if this can be done without risk. Use water
+                                   spray to keep fire-exposed containers cool.
+Special protective               : Fire-fighters should wear appropriate protective equipment and self-contained breathing
+equipment for fire-fighters        apparatus (SCBA) with a full face-piece operated in positive pressure mode.
+
+Section 6. Accidental release measures
+Personal precautions, protective equipment and emergency procedures
+ For non-emergency        : No action shall be taken involving any personal risk or without suitable training.
+ personnel                  Evacuate surrounding areas. Keep unnecessary and unprotected personnel from
+                            entering. Do not touch or walk through spilled material. Shut off all ignition sources.
+                            No flares, smoking or flames in hazard area. Avoid breathing vapor or mist. Provide
+                            adequate ventilation. Wear appropriate respirator when ventilation is inadequate. Put
+                            on appropriate personal protective equipment.
+ For emergency responders : If specialised clothing is required to deal with the spillage, take note of any information
+                            in Section 8 on suitable and unsuitable materials. See also the information in "For non-
+                            emergency personnel".
+
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue   : 10/26/2014.           Version   : 0.02           3/11
+
+
+
+                                                                                                               Powered by IHS
+OMU Wood Seal
+
+
+Section 6. Accidental release measures
+Environmental precautions        : Avoid dispersal of spilled material and runoff and contact with soil, waterways, drains
+                                   and sewers. Inform the relevant authorities if the product has caused environmental
+                                   pollution (sewers, waterways, soil or air). Water polluting material. May be harmful to
+                                   the environment if released in large quantities.
+
+Methods and materials for containment and cleaning up
+ Small spill                     : Stop leak if without risk. Move containers from spill area. Use spark-proof tools and
+                                   explosion-proof equipment. Dilute with water and mop up if water-soluble. Alternatively,
+                                   or if water-insoluble, absorb with an inert dry material and place in an appropriate waste
+                                   disposal container. Dispose of via a licensed waste disposal contractor.
+ Large spill                     : Stop leak if without risk. Move containers from spill area. Use spark-proof tools and
+                                   explosion-proof equipment. Approach release from upwind. Prevent entry into sewers,
+                                   water courses, basements or confined areas. Wash spillages into an effluent treatment
+                                   plant or proceed as follows. Contain and collect spillage with non-combustible,
+                                   absorbent material e.g. sand, earth, vermiculite or diatomaceous earth and place in
+                                   container for disposal according to local regulations (see Section 13). Dispose of via a
+                                   licensed waste disposal contractor. Contaminated absorbent material may pose the
+                                   same hazard as the spilled product. Note: see Section 1 for emergency contact
+                                   information and Section 13 for waste disposal.
+
+Section 7. Handling and storage
+Precautions for safe handling
+ Protective measures             : Put on appropriate personal protective equipment (see Section 8). Do not ingest. Avoid
+                                   contact with eyes, skin and clothing. Avoid breathing vapor or mist. Avoid release to
+                                   the environment. Use only with adequate ventilation. Wear appropriate respirator when
+                                   ventilation is inadequate. Do not enter storage areas and confined spaces unless
+                                   adequately ventilated. Keep in the original container or an approved alternative made
+                                   from a compatible material, kept tightly closed when not in use. Store and use away
+                                   from heat, sparks, open flame or any other ignition source. Use explosion-proof
+                                   electrical (ventilating, lighting and material handling) equipment. Use only non-sparking
+                                   tools. Take precautionary measures against electrostatic discharges. Empty containers
+                                   retain product residue and can be hazardous. Do not reuse container.
+ Advice on general               : Eating, drinking and smoking should be prohibited in areas where this material is
+ occupational hygiene              handled, stored and processed. Workers should wash hands and face before eating,
+                                   drinking and smoking. Remove contaminated clothing and protective equipment before
+                                   entering eating areas. See also Section 8 for additional information on hygiene
+                                   measures.
+
+Conditions for safe storage,     : Store in accordance with local regulations. Store in a segregated and approved area.
+including any                      Store in original container protected from direct sunlight in a dry, cool and well-ventilated
+incompatibilities                  area, away from incompatible materials and food and drink. Eliminate all ignition
+                                   sources. Separate from oxidizing materials. Keep container tightly closed and sealed
+                                   until ready for use. Containers that have been opened must be carefully resealed and
+                                   kept upright to prevent leakage. Do not store in unlabeled containers. Use appropriate
+                                   containment to avoid environmental contamination.
+
+Section 8. Exposure controls/personal protection
+Control parameters
+ Occupational exposure limits
+
+
+
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue   : 10/26/2014.            Version   : 0.02           4/11
+
+
+
+                                                                                                                Powered by IHS
+OMU Wood Seal
+
+
+Section 8. Exposure controls/personal protection
+  Ingredient name                                                             Exposure limits
+  Stoddard solvent                                                           ACGIH TLV (United States, 6/2013).
+                                                                              TWA: 100 ppm 8 hours.
+                                                                              TWA: 525 mg/m³ 8 hours.
+                                                                             OSHA PEL 1989 (United States, 3/1989).
+                                                                              TWA: 100 ppm 8 hours.
+                                                                              TWA: 525 mg/m³ 8 hours.
+                                                                             NIOSH REL (United States, 10/2013).
+                                                                              TWA: 350 mg/m³ 10 hours.
+                                                                              CEIL: 1800 mg/m³ 15 minutes.
+                                                                             OSHA PEL (United States, 2/2013).
+                                                                              TWA: 500 ppm 8 hours.
+                                                                              TWA: 2900 mg/m³ 8 hours.
+
+
+Appropriate engineering          : Use only with adequate ventilation. Use process enclosures, local exhaust ventilation or
+controls                           other engineering controls to keep worker exposure to airborne contaminants below any
+                                   recommended or statutory limits. The engineering controls also need to keep gas,
+                                   vapor or dust concentrations below any lower explosive limits. Use explosion-proof
+                                   ventilation equipment.
+Environmental exposure           : Emissions from ventilation or work process equipment should be checked to ensure
+controls                           they comply with the requirements of environmental protection legislation. In some
+                                   cases, fume scrubbers, filters or engineering modifications to the process equipment
+                                   will be necessary to reduce emissions to acceptable levels.
+
+Individual protection measures
+ Hygiene measures            : Wash hands, forearms and face thoroughly after handling chemical products, before
+                               eating, smoking and using the lavatory and at the end of the working period.
+                               Appropriate techniques should be used to remove potentially contaminated clothing.
+                               Wash contaminated clothing before reusing. Ensure that eyewash stations and safety
+                               showers are close to the workstation location.
+ Eye/face protection         : Safety eyewear complying with an approved standard should be used when a risk
+                               assessment indicates this is necessary to avoid exposure to liquid splashes, mists,
+                               gases or dusts. If contact is possible, the following protection should be worn, unless
+                               the assessment indicates a higher degree of protection: chemical splash goggles.
+ Skin protection
+   Hand protection               : Chemical-resistant, impervious gloves complying with an approved standard should be
+                                   worn at all times when handling chemical products if a risk assessment indicates this is
+                                   necessary. Considering the parameters specified by the glove manufacturer, check
+                                   during use that the gloves are still retaining their protective properties. It should be
+                                   noted that the time to breakthrough for any glove material may be different for different
+                                   glove manufacturers. In the case of mixtures, consisting of several substances, the
+                                   protection time of the gloves cannot be accurately estimated.
+   Body protection               : Personal protective equipment for the body should be selected based on the task being
+                                   performed and the risks involved and should be approved by a specialist before
+                                   handling this product. When there is a risk of ignition from static electricity, wear anti-
+                                   static protective clothing. For the greatest protection from static discharges, clothing
+                                   should include anti-static overalls, boots and gloves.
+   Other skin protection         : Appropriate footwear and any additional skin protection measures should be selected
+                                   based on the task being performed and the risks involved and should be approved by a
+                                   specialist before handling this product.
+ Respiratory protection          : Use a properly fitted, air-purifying or air-fed respirator complying with an approved
+                                   standard if a risk assessment indicates this is necessary. Respirator selection must be
+                                   based on known or anticipated exposure levels, the hazards of the product and the safe
+                                   working limits of the selected respirator.
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue   : 10/26/2014.           Version   : 0.02           5/11
+
+
+
+                                                                                                               Powered by IHS
+OMU Wood Seal
+
+
+Section 9. Physical and chemical properties
+Appearance
+ Physical state                                    : Liquid
+ Color                                             : Amber
+Odor                                               : Solvent
+Odor threshold                                     : Not available
+pH                                                 : Not applicable
+Melting point                                      : 0°C (32°F)
+Boiling point                                      : 100°C (212°F)
+Flash point                                        : Closed cup: 40.56°C (105°F)
+Evaporation rate                                   : Not available
+Flammability (solid, gas)                          : Not available
+Lower and upper explosive                          : Not available
+(flammable) limits
+Vapor pressure                                     : <4 kPa (<30 mm Hg) [room temperature]
+Vapor density                                      : <1 [Air = 1]
+Specific gravity                                   : 0.84 g/cm³
+Solubility                                         : Not available
+
+Partition coefficient: n-                          : Not available
+octanol/water
+Auto-ignition temperature                          : Not available
+Viscosity                                          : Not available
+VOC content                                        : 546 g/l
+VOCs are calculated following the requirements under 40 CFR, Part 59, Subpart C for Consumer Products and Subpart D for Architectural Coatings.
+
+
+Section 10. Stability and reactivity
+Reactivity                                         : No specific test data related to reactivity available for this product or its ingredients.
+
+Chemical stability                                 : The product is stable.
+
+Possibility of hazardous                           : Under normal conditions of storage and use, hazardous reactions will not occur.
+reactions
+
+
+Conditions to avoid                                : Avoid all possible sources of ignition (spark or flame). Do not pressurize, cut, weld,
+                                                     braze, solder, drill, grind or expose containers to heat or sources of ignition.
+
+Incompatible materials                             : Reactive or incompatible with the following materials:
+                                                     oxidizing materials
+
+Hazardous decomposition                            : Under normal conditions of storage and use, hazardous decomposition products should
+products                                             not be produced.
+
+
+
+
+Date of issue/Date of revision                          : 12/19/2014.       Date of previous issue                     : 10/26/2014.              Version   : 0.02           6/11
+
+
+
+                                                                                                                                                            Powered by IHS
+OMU Wood Seal
+
+
+Section 11. Toxicological information
+Information on toxicological effects
+ Acute toxicity
+  Product/ingredient name         Result                                     Species                  Dose               Exposure
+  Stoddard solvent               LD50 Dermal                                 Rabbit               >3 g/kg                -
+                                 LD50 Oral                                   Rat                  >5 g/kg                -
+ Irritation/Corrosion
+  Product/ingredient name         Result                            Species              Score           Exposure            Observation
+  Stoddard solvent               Eyes - Mild irritant               Human                -               100 parts per       -
+                                                                                                         million
+                                 Eyes - Moderate irritant           Rabbit               -               24 hours 500        -
+                                                                                                         milligrams
+ Sensitization
+  Not available.
+ Mutagenicity
+ Not available.
+ Carcinogenicity
+ Not available.
+ Reproductive toxicity
+ Not available.
+ Teratogenicity
+ Not available.
+ Specific target organ toxicity (single exposure)
+ Not available.
+
+ Specific target organ toxicity (repeated exposure)
+ Not available.
+
+ Aspiration hazard
+ Not available.
+
+
+Information on the likely        : Not available
+routes of exposure
+Potential acute health effects
+ Eye contact                   : Causes serious eye irritation.
+ Inhalation                      : No known significant effects or critical hazards.
+ Skin contact                    : No known significant effects or critical hazards.
+ Ingestion                       : Irritating to mouth, throat and stomach.
+
+Symptoms related to the physical, chemical and toxicological characteristics
+ Eye contact                : Adverse symptoms may include the following:
+                              pain or irritation
+                              watering
+                              redness
+ Inhalation                 : No specific data.
+ Skin contact               : No specific data.
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue            : 10/26/2014.            Version       : 0.02           7/11
+
+
+
+                                                                                                                             Powered by IHS
+OMU Wood Seal
+
+
+Section 11. Toxicological information
+ Ingestion                       : No specific data.
+
+Delayed and immediate effects and also chronic effects from short and long term exposure
+ Short term exposure
+  Potential immediate        : Not available
+  effects
+   Potential delayed effects     : Not available
+ Long term exposure
+  Potential immediate          : Not available
+  effects
+  Potential delayed effects : Not available
+ Potential chronic health effects
+ Not available.
+   General                       : No known significant effects or critical hazards.
+   Carcinogenicity               : No known significant effects or critical hazards.
+   Mutagenicity                  : No known significant effects or critical hazards.
+   Teratogenicity                : No known significant effects or critical hazards.
+   Developmental effects         : No known significant effects or critical hazards.
+   Fertility effects             : No known significant effects or critical hazards.
+
+Numerical measures of toxicity
+ Acute toxicity estimates
+ Not available.
+
+
+
+
+Section 12. Ecological information
+Toxicity
+Not available.
+
+
+Persistence and degradability
+Not available.
+
+Bioaccumulative potential
+Product/ingredient name          LogPow                               BCF                    Potential
+Stoddard solvent                 3.16 to 7.06                         -                      high
+
+
+Mobility in soil
+ Soil/water partition            : Not available
+ coefficient (KOC)
+
+Other adverse effects            : No known significant effects or critical hazards.
+
+
+
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue   : 10/26/2014.     Version   : 0.02           8/11
+
+
+
+                                                                                                         Powered by IHS
+OMU Wood Seal
+
+
+Section 13. Disposal considerations
+Disposal methods                       : The generation of waste should be avoided or minimized wherever possible. Disposal
+                                         of this product, solutions and any by-products should at all times comply with the
+                                         requirements of environmental protection and waste disposal legislation and any
+                                         regional local authority requirements. Dispose of surplus and non-recyclable products
+                                         via a licensed waste disposal contractor. Waste should not be disposed of untreated to
+                                         the sewer unless fully compliant with the requirements of all authorities with jurisdiction.
+                                         Waste packaging should be recycled. Incineration or landfill should only be considered
+                                         when recycling is not feasible. This material and its container must be disposed of in a
+                                         safe way. Care should be taken when handling emptied containers that have not been
+                                         cleaned or rinsed out. Empty containers or liners may retain some product residues.
+                                         Vapor from product residues may create a highly flammable or explosive atmosphere
+                                         inside the container. Do not cut, weld or grind used containers unless they have been
+                                         cleaned thoroughly internally. Avoid dispersal of spilled material and runoff and contact
+                                         with soil, waterways, drains and sewers.
+
+Section 14. Transport information
+                                     DOT Classification                            IMDG                          IATA
+UN number                        Not regulated                        UN1993                          UN1993
+
+UN proper shipping               -                                    FLAMMABLE LIQUID, N.            FLAMMABLE LIQUID, N.O.
+name                                                                  O.S. (Naphtha                   S. (Naphtha (petroleum),
+                                                                      (petroleum), heavy              heavy alkylate, Stoddard
+                                                                      alkylate, Stoddard solvent)     solvent)
+Transport hazard                 -                                    3                               3
+class(es)
+
+
+
+
+Packing group                    -                                    III                             III
+Environmental                    No.                                  Yes.                            No.
+hazards
+Additional                       Classified as a                      The marine pollutant mark       The environmentally
+information                      combustible liquid in bulk           is not required when            hazardous substance mark
+                                 containers >119 gallons              transported in sizes of ≤5      may appear if required by
+                                 (domestic ground                     L or ≤5 kg.                     other transportation
+                                 shipments only).                                                     regulations.
+
+
+Special precautions for user : Transport within user’s premises: always transport in closed containers that are
+                               upright and secure. Ensure that persons transporting the product know what to do in the
+                               event of an accident or spillage.
+
+Transport in bulk according            : Not available.
+to Annex II of MARPOL
+73/78 and the IBC Code
+
+
+
+
+Date of issue/Date of revision            : 12/19/2014.   Date of previous issue      : 10/26/2014.         Version   : 0.02           9/11
+
+
+
+                                                                                                                      Powered by IHS
+OMU Wood Seal
+
+
+Section 15. Regulatory information
+U.S. Federal regulations                 : United States inventory (TSCA 8b): All components are listed or exempted.
+
+ Clean Air Act Section 112               : Not listed
+ (b) Hazardous Air
+ Pollutants (HAPs)
+ SARA 311/312
+  Classification             : Fire hazard
+                               Immediate (acute) health hazard
+   Composition/information on ingredients
+   Name                                                  %              Fire   Sudden           Reactive   Immediate      Delayed
+                                                                        hazard release of                  (acute)        (chronic)
+                                                                               pressure                    health         health
+                                                                                                           hazard         hazard
+   Stoddard solvent                                      10 - 30        Yes.       No.          No.        Yes.           No.
+
+State regulations
+ International regulations
+Canada inventory                         : All components are listed or exempted.
+
+Section 16. Other information
+Hazardous Material Information System (U.S.A.)
+  Health                    * 2
+
+  Flammability                                2
+  Physical hazards                            0
+
+
+  Caution: HMIS® ratings are based on a 0-4 rating scale, with 0 representing minimal hazards or risks, and 4
+  representing significant hazards or risks Although HMIS® ratings are not required on SDSs under 29 CFR 1910.
+  1200, the preparer may choose to provide them. HMIS® ratings are to be used with a fully implemented HMIS®
+  program. HMIS® is a registered mark of the National Paint & Coatings Association (NPCA). HMIS® materials
+  may be purchased exclusively from J. J. Keller (800) 327-6868.
+  The customer is responsible for determining the PPE code for this material.
+National Fire Protection Association (U.S.A.)
+
+                                     2       Flammability
+                  Health         2       0        Instability/Reactivity
+                                             Special
+
+  Reprinted with permission from NFPA 704-2001, Identification of the Hazards of Materials for Emergency
+  Response Copyright ©1997, National Fire Protection Association, Quincy, MA 02269. This reprinted material is
+  not the complete and official position of the National Fire Protection Association, on the referenced subject
+  which is represented only by the standard in its entirety.
+  Copyright ©2001, National Fire Protection Association, Quincy, MA 02269. This warning system is intended to
+  be interpreted and applied only by properly trained individuals to identify fire, health and reactivity hazards of
+  chemicals. The user is referred to certain limited number of chemicals with recommended classifications in
+  NFPA 49 and NFPA 325, which would be used as a guideline only. Whether the chemicals are classified by NFPA
+  or not, anyone using the 704 systems to classify chemicals does so at their own risk.
+History
+ Date of printing                        : 12/19/2014.
+
+Date of issue/Date of revision                : 12/19/2014.   Date of previous issue     : 10/26/2014.       Version   : 0.02           10/11
+
+
+
+                                                                                                                       Powered by IHS
+OMU Wood Seal
+
+
+Section 16. Other information
+ Date of issue/Date of           : 12/19/2014.
+ revision
+ Date of previous issue          : 10/26/2014.
+Key to abbreviations             : ATE = Acute Toxicity Estimate
+                                   BCF = Bioconcentration Factor
+                                   GHS = Globally Harmonized System of Classification and Labelling of Chemicals
+                                   IATA = International Air Transport Association
+                                   IBC = Intermediate Bulk Container
+                                   IMDG = International Maritime Dangerous Goods
+                                   LogPow = logarithm of the octanol/water partition coefficient
+                                   MARPOL 73/78 = International Convention for the Prevention of Pollution From Ships,
+                                   1973 as modified by the Protocol of 1978. ("Marpol" = marine pollution)
+                                   UN = United Nations
+References                       : Not available
+   Indicates information that has changed from previously issued version.
+Notice to reader
+ To the best of our knowledge, the information contained herein is accurate. However, neither the above-named
+ supplier, nor any of its subsidiaries, assumes any liability whatsoever for the accuracy or completeness of the
+ information contained herein.
+ Final determination of suitability of any material is the sole responsibility of the user. All materials may present
+ unknown hazards and should be used with caution. Although certain hazards are described herein, we cannot
+ guarantee that these are the only hazards that exist.
+
+
+
+
+Date of issue/Date of revision      : 12/19/2014.   Date of previous issue   : 10/26/2014.      Version   : 0.02           11/11
+
+
+
+                                                                                                          Powered by IHS
+

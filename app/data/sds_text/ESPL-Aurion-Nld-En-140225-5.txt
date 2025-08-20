@@ -1,0 +1,249 @@
+
+
+AURION	CWFS	Gelatin	(40%)
+Safety	Data	Sheet:	CWFSGelatin-05/3
+
+Section	1:	Product	and	Company	Identification
+
+1.1	Product	identifiers
+Product	name:	Aurion	CWFS	Gelatin	(40%)
+Product	codes:	900.033,	900.033-100
+
+1.2	Relevant	identified	uses	of	the	substance	or	mixture
+Identified	uses:	Laboratory	chemicals
+
+1.3	Company	information
+Manufacturer:	Aurion	ImmunoGold	Reagents	&	Accessories
+Binnenhaven	5,	6709	PD	Wageningen,	The	Netherlands
+Phone:	+31-317-415094,	Fax:	+31-317-415955,	Email:	info@aurion.nl
+Chamber	of	Commerce	09068171	Arnhem.	The	Netherlands
+
+1.4	Emergency	phone	number
+Emergency	Phone	#	112	or	911
+
+Preparation	date:	November	21,	2023
+SDS	number:	CWFSGelatin-05/3
+
+Section	2:	Hazards	Identification
+
+2.1	Classification	of	the	substance	or	mixture
+Not	a	hazardous	substance	or	mixture	according	to	Regulation	(EC)	No.	1272/2008
+
+2.2.	Label	elements
+Not	a	hazardous	substance	or	mixture	according	to	regulation	(EC)	No.	1272/2008
+
+2.3.	Other	hazards
+None
+
+Section	3:	Composition	/	Ingredients
+
+3.2	Mixtures
+No	components	need	to	be	disclosed	according	to	applicable	regulations
+
+Section	4:	First	Aid	Measures
+
+4.1	Description	of	first	aid	measures
+Eye	Contact:	Flush	with	copious	amounts	of	water	for	at	least	15	minutes.
+Assure	adequate	flushing	by	separating	the	eyelids	with	fingers.	Consult	a	physician.
+Skin	Contact:	Flush	with	copious	amounts	of	water	for	at	least	15	minutes.
+Remove	contaminated	clothing	and	shoes.	Consult	a	physician.
+Ingestion:	Wash	out	mouth	with	water,	provided	person	is	conscious.	Consult	a	physician.
+Inhalation:	Move	to	fresh	air.	If	breathing	becomes	difficult,	consult	a	physician.
+
+4.2	Most	important	symptoms	and	effects
+See	section	2.2	and	section	11
+
+4.3.	Indication	of	any	immediate	medical	attention	and	special	treatment
+No	data	available
+
+
+N/A=	Not	applicable	                                                                                                     1
+SDS	CWFSGelatin-05
+
+
+
+
+Section	5:	Fire	Fighting	Measures
+
+5.1	Extinguishing	Methods
+Use	extinguishing	media	appropriate	to	surrounding	fire	conditions.
+
+5.2.	Specific	Hazard(s)
+N/A
+
+5.3.	Special	Fire	Fighting	Procedures
+Wear	self-contained	breathing	apparatus	and	protective	clothing	if	necessary
+
+5.4	Further	information
+No	data	available
+
+Section	6:	Accidental	Release	Measures
+
+6.1	Personal	precautions,	protective	equipment	and	emergency	procedures
+Use	personal	protective	equipment.	Avoid	breathing	vapors,	mist	or	gas,	Ensure	adequate	ventilation.
+For	personal	protection	see	section	8.
+
+6.2	Environmental	precautions
+Prevent	further	leakage	or	spillage	if	safe	to	do.	Discharge	into	the	environment	must	be	avoided.
+
+6.3	Methods	and	materials	for	containment	and	cleaning	up
+Absorb	on	sand	or	vermiculite	and	place	in	closed	containers	for	disposal.
+Wash	spill	site	after	material	pickup	is	complete	with	copious	amounts	of	water.
+
+6.4	Reference	to	other	sections
+For	disposal	see	section	13
+
+Section	7:	Handling	and	Storage
+
+7.1	Precautions	for	safe	handling
+Avoid	contact	with	skin	and	eyes.	Avoid	inhalation	of	vapor	or	mist.
+For	precautions	see	section	2.2.
+
+7.2	Conditions	for	safe	storage
+Minimum	/	Maximum	Storage	Temperatures:	0	-	8°C	(273	-	281K)
+Avoid	freezing.
+Storage:	Store	in	a	refrigerator
+Containers	which	are	opened	must	be	carefully	resealed	and	kept	upright	to	prevent	leakage
+
+Section	8:	Exposure	Controls	/	Personal	Protection
+
+8.1	Control	parameters
+
+8.2	Exposure	controls
+
+Handle	in	accordance	with	Good	Laboratory	Practice
+Wash	hands	before	breaks	and	end	of	workday
+
+Personal	protective	equipment
+Eye	Protection:	Use	equipment	for	eye	protection	tested	and	approved	under	appropriate	government	standards	such	as	EN	166
+Protective	Gloves:	Chemical-resistant	gloves	that	meet	Regulation	(EU)	2016/425	and	standard	EN	374
+Body	protection:	Impermeable	clothing,	lab	coat
+Respiratory	protection:	N/A
+Control	of	environmental	exposure:	Prevent	further	leakage	or	spillage	if	safe	to	do	so.
+Discharge	in	the	environment	should	be	avoided.
+
+
+N/A=	Not	applicable	                                                                                                                 2
+SDS	CWFSGelatin-05
+
+
+
+
+Section	9:	Physical	and	Chemical	Properties
+
+9.1	Information	on	basic	physical	and	chemical	properties
+Appearance:	Liquid,	brown,	clear
+No	other	data	available
+
+9.2	Other	safety	information
+No	data	available
+
+Section	10:	Stability	and	Reactivity
+
+10.1	Reactivity
+No	data	available
+
+10.2	Chemical	stability
+Stable	under	recommended	storage	conditions
+
+10.3	Possibility	of	hazardous	reactions
+No	data	available
+
+10.4	Conditions	to	avoid
+No	data	available
+
+10.5	Incompatible	materials
+Strong	oxidizing	reagents,	strong	reducing	agents
+
+10.6	Hazardous	decomposition	products
+No	data	available,	in	the	event	of	fire	see	section	5.
+
+Section	11:	Toxicological	Information
+
+11.1	Information	on	toxicological	effects
+The	toxicological	properties	have	not	been	thoroughly	investigated.
+Carcinogenicity:	No	component	of	this	product	present	at	concentrations	greater	than	or	equal	to	0.1%	is	identified	as	probable,
+possible	or	confirmed	human	carcinogen	by	IARC
+
+11.2	Information	on	other	hazards
+This	product	does	not	contain	any	known	or	suspected	endocrine	disruptors
+
+Section	12:	Ecological	information
+
+12.1	Toxicity
+No	data	available
+
+12.2	Persistance	and	degradability
+No	data	available
+
+12.3	Bioaccumulative	potential
+No	data	available
+
+12.4	Mobility	in	soil
+No	data	available
+
+12.5	Results	of	PBT	and	vPvB	assessment
+PBT/vPvB	assessment	not	available	as	chemical	safety	assessment	not	required/not	conducted
+
+12.6	Endocrine	disrupting	properties
+This	product	does	not	contain	any	known	or	suspected	endocrine	disruptors
+
+12.7	Other	adverse	effects
+Harmful	to	aquatic	life
+
+
+N/A=	Not	applicable	                                                                                                                      3
+SDS	CWFSGelatin-05
+
+
+
+
+Section	13:	Disposal	Considerations
+
+13.1	Waste	treatment	methods
+Product:	Offer	surplus	and	non-recyclable	solutions	to	a	licensed	disposal	company
+Contaminated	packaging:	Dispose	of	as	unused	product
+
+Section	14:	Transportation	Information
+
+14.1	UN	number
+ADR/RID:	-	         	         	         IMDG:	-	  	         	          	         IATA:	-
+
+14.2	UN	proper	shipping	name
+ADR/RID:	           Not	dangerous	goods
+IMDG:	    	         Not	dangerous	goods
+IATA:	    	         Not	dangerous	goods
+
+14.3	Transport	hazard	classes
+ADR/RID:	-	         	         	         IMDG:	-	  	         	          	         IATA:	-
+
+14.4	Packaging	group
+ADR/RID:	-	         	         	         IMDG:	-	  	         	          	         IATA:	-
+
+14.5	Environmental	hazards
+ADR/RID:	no	        	         	         IMDG	Marine	pollutant:	no	     	         IATA:	no
+
+14.6	Special	precautions	for	user:	-
+Section	15:	Regulatory	Information
+
+15.1	Safety,	health	and	environmental	regulations/legislation	specific	for	the	substance	or	mixture
+This	safety	data	sheet	complies	with	the	requirements	of	Regulation	(EC)	No.	1907/2006
+Commission	Regulation	(EC)	2020/878	amending	Annex	II	to	Regulation	(EC)	No	1907/2006
+
+Section	16:	Other	Information
+
+Laboratory	reagent.	For	research	use	only.	Not	for	diagnostic	or	therapeutic	use.
+AURION	makes	no	warranty	of	any	kind	regarding	the	information	furnished	herein.	These	data	are	based	on	our	present	knowledge.
+However,	they	shall	not	constitute	a	guarantee	for	any	specific	product	features	and	shall	not	establish	a	legally	valid	contractual
+relationship.
+Users	should	independently	determine	the	suitability	and	completeness	of	information	from	all	sources.	While	this	data	is	presented	in
+good	faith	and	believed	to	be	accurate,	it	should	be	considered	only	as	a	supplement	to	other	information	gathered	by	the	user.	It	is	the
+user’s	responsibility	to	assure	the	proper	use	and	disposal	of	these	materials	as	well	as	the	safety	and	health	of	all	personnel	who	may
+work	with	or	otherwise	come	in	contact	with	these	materials.
+
+
+
+
+
+N/A=	Not	applicable	                                                                                                                              4
+SDS	CWFSGelatin-05

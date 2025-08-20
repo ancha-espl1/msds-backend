@@ -1,0 +1,360 @@
+ Safety Data Sheet
+                              NON-Hazardous, NON-Dangerous Goods
+
+1. MATERIAL AND SUPPLY COMPANY IDENTIFICATION
+
+
+Product name:   Mobiltrans HD 30 Dyed Blue
+Synonyms                                                                          Product Code
+Mobiltrans HD 30 Dyed Blue                                                        5150
+
+Recommended use: Hydraulic fluid, manual transmission fluid
+
+Supplier:           Ampol Australia Petroleum Pty Ltd
+ABN:                17 000 032 128
+Street Address:     29 - 33 Bourke Road
+                    Alexandria NSW 2015
+                    Australia
+Telephone:          (02) 9250 5000
+Facsimile:          (02) 9250 5742
+
+Emergency Telephone number:         1800 033 111
+
+
+2. HAZARDS IDENTIFICATION
+
+Based on available information, this material is not classified as hazardous according to criteria of Safe
+Work Australia GHS 7.
+
+Poison Schedule: Not Applicable
+
+DANGEROUS GOOD CLASSIFICATION
+
+Not classified as Dangerous Goods by the criteria of the "Australian Code for the Transport of Dangerous Goods
+by Road & Rail" and the "New Zealand NZS5433: Transport of Dangerous Goods on Land".
+
+Classified as a C2 (COMBUSTIBLE LIQUID) for the purpose of storage and handling, in accordance with the
+requirements of AS 1940. Refer to State Regulations for storage and transport requirements.
+
+
+3. COMPOSITION INFORMATION
+
+CHEMICAL ENTITY                                                              CAS NO               PROPORTION
+
+Highly refined mineral oil(s)                                                -                           >60 %
+Ingredients determined to be non-hazardous                                   -                          Balance
+                                                                                                  ____________
+                                                                                                          100%
+
+
+4. FIRST AID MEASURES
+
+If poisoning occurs, contact a doctor or Poisons Information Centre (Phone Australia 131 126, New Zealand 0800
+764 766).
+
+Inhalation: Remove victim from exposure - avoid becoming a casualty. Remove contaminated clothing and
+loosen remaining clothing. Allow patient to assume most comfortable position and keep warm. Keep at rest until
+fully recovered. Seek medical advice if effects persist.
+
+Skin Contact: If skin or hair contact occurs, remove contaminated clothing and flush skin and hair with running
+ Product Name: Mobiltrans HD 30 Dyed Blue                                          Reference No: AAP0085901
+ Issued: 2021-04-27                                   Version: 1.1                                   Page 1 of 6
+ Safety Data Sheet
+water. If swelling, redness, blistering or irritation occurs seek medical assistance.
+
+Eye contact: If in eyes wash out immediately with water. In all cases of eye contamination it is a sensible
+precaution to seek medical advice.
+
+Ingestion: Rinse mouth with water. If swallowed, do NOT induce vomiting. Give a glass of water to drink.
+Never give anything by the mouth to an unconscious patient. If vomiting occurs give further water. Seek medical
+advice.
+
+PPE for First Aiders: Wear safety shoes, overalls, gloves, safety glasses. Available information suggests that
+gloves made from nitrile rubber should be suitable for intermittent contact. However, due to variations in glove
+construction and local conditions, the user should make a final assessment. Always wash hands before smoking,
+eating, drinking or using the toilet. Wash contaminated clothing and other protective equipment before storing or
+re-using.
+
+Notes to physician: Treat symptomatically.
+
+
+5. FIRE FIGHTING MEASURES
+
+Hazchem Code: Not applicable.
+
+Suitable extinguishing media: If material is involved in a fire use water fog (or if unavailable fine water spray),
+alcohol resistant foam, standard foam, dry agent (carbon dioxide, dry chemical powder).
+
+Specific hazards: Combustible liquid.
+
+Fire fighting further advice: On burning or decomposing may emit toxic fumes. Fire fighters to wear self-
+contained breathing apparatus and suitable protective clothing if risk of exposure to vapour or products of
+combustion or decomposition.
+
+
+6. ACCIDENTAL RELEASE MEASURES
+
+SMALL SPILLS
+Wear protective equipment to prevent skin and eye contamination. Avoid inhalation of vapours or dust. Wipe up
+with absorbent (clean rag or paper towels). Collect and seal in properly labelled containers or drums for disposal.
+
+LARGE SPILLS
+Clear area of all unprotected personnel. Slippery when spilt. Avoid accidents, clean up immediately. Wear
+protective equipment to prevent skin and eye contamination and the inhalation of vapours. Work up wind or
+increase ventilation. Contain - prevent run off into drains and waterways. Use absorbent (soil, sand or other inert
+material). Collect and seal in properly labelled containers or drums for disposal. If contamination of crops,
+sewers or waterways has occurred advise local emergency services.
+
+Dangerous Goods - Initial Emergency Response Guide No: Not applicable
+
+
+7. HANDLING AND STORAGE
+
+Handling: Avoid eye contact and repeated or prolonged skin contact. Avoid inhalation of vapour, mist or
+aerosols.
+
+Storage: Store in a cool, dry, well-ventilated place and out of direct sunlight. Store away from foodstuffs. Store
+away from incompatible materials described in Section 10. Store away from sources of heat and/or ignition.
+Keep container standing upright. Keep containers closed when not in use - check regularly for leaks.
+
+Classified as a C2 (COMBUSTIBLE LIQUID) for the purpose of storage and handling, in accordance with the
+requirements of AS 1940. Refer to State Regulations for storage and transport requirements.
+
+Product Name: Mobiltrans HD 30 Dyed Blue                                                Reference No: AAP0085901
+Issued: 2021-04-27                                      Version: 1.1                                     Page 2 of 6
+ Safety Data Sheet
+8. EXPOSURE CONTROLS / PERSONAL PROTECTION
+
+National occupational exposure limits:
+
+                                                             TWA                     STEL             NOTICES
+                                                       ppm      mg/m3          ppm       mg/m3
+
+ Oil mist, refined mineral                               -            5          -           -            -
+
+As published by Safe Work Australia.
+
+TWA - The time-weighted average airborne concentration over an eight-hour working day, for a five-day working
+week over an entire working life.
+
+STEL (Short Term Exposure Limit) - the average airborne concentration over a 15 minute period which should not
+be exceeded at any time during a normal eight-hour workday.
+
+These Exposure Standards are guides to be used in the control of occupational health hazards. All atmospheric
+contamination should be kept to as low a level as is workable. These exposure standards should not be used as
+fine dividing lines between safe and dangerous concentrations of chemicals. They are not a measure of relative
+toxicity.
+
+If the directions for use on the product label are followed, exposure of individuals using the product should not
+exceed the above standard. The standard was created for workers who are routinely, potentially exposed during
+product manufacture.
+
+Biological Limit Values: As per the "National Model Regulations for the Control of Workplace Hazardous
+Substances (Safe Work Australia)" the ingredients in this material do not have a Biological Limit Allocated.
+
+Engineering Measures: Ensure ventilation is adequate to maintain air concentrations below Exposure
+Standards. Use only in well ventilated areas. Use with local exhaust ventilation or while wearing appropriate
+respirator. Vapour heavier than air - prevent concentration in hollows or sumps. Do NOT enter confined spaces
+where vapour may have collected.
+
+Personal Protection Equipment: SAFETY SHOES, OVERALLS, GLOVES, SAFETY GLASSES.
+
+Personal protective equipment (PPE) must be suitable for the nature of the work and any hazard associated with
+the work as identified by the risk assessment conducted.
+
+When handling individual retail packs no personal protection equipment is required.
+
+Wear safety shoes, overalls, gloves, safety glasses. Available information suggests that gloves made from nitrile
+rubber should be suitable for intermittent contact. However, due to variations in glove construction and local
+conditions, the user should make a final assessment. Always wash hands before smoking, eating, drinking or
+using the toilet. Wash contaminated clothing and other protective equipment before storing or re-using.
+
+Hygiene measures: Keep away from food, drink and animal feeding stuffs. When using do not eat, drink or
+smoke. Wash hands prior to eating, drinking or smoking. Avoid contact with clothing. Avoid eye contact and
+repeated or prolonged skin contact. Avoid inhalation of vapour, mist or aerosols. Ensure that eyewash stations
+and safety showers are close to the workstation location.
+
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+ Form:                  Liquid
+ Colour:                Blue
+ Odour:                 Characteristic
+
+ Solubility:                                  Immiscible in water
+ Specific Gravity:                            0.893 @ 15°C
+
+Product Name: Mobiltrans HD 30 Dyed Blue                                              Reference No: AAP0085901
+Issued: 2021-04-27                                     Version: 1.1                                    Page 3 of 6
+ Safety Data Sheet
+ Relative Vapour Density (air=1):              >1
+ Vapour Pressure (20 °C):                      <0.013 kPa @ 20ºC
+ Flash Point (°C):                             >218
+ Flammability Limits (%):                      0.9 - 7.0
+ Autoignition Temperature (°C):                N Av
+ Melting Point/Range (°C):                     N Av
+ Boiling Point/Range (°C):                     >316
+ pH:                                           N App
+ Viscosity:                                    100 cSt @ 40°C
+ Total VOC (g/Litre):                          N Av
+
+                                 (Typical values only - consult specification sheet)
+                                  N Av = Not available, N App = Not applicable
+
+
+10. STABILITY AND REACTIVITY
+
+Chemical stability: This material is thermally stable when stored and used as directed.
+
+Conditions to avoid: Elevated temperatures and sources of ignition.
+
+Incompatible materials: Oxidising agents.
+
+Hazardous decomposition products: Oxides of carbon and nitrogen, smoke and other toxic fumes.
+
+Hazardous reactions: No known hazardous reactions.
+
+
+11. TOXICOLOGICAL INFORMATION
+
+No adverse health effects expected if the product is handled in accordance with this Safety Data Sheet and the
+product label. Symptoms or effects that may arise if the product is mishandled and overexposure occurs are:
+
+Acute Effects
+
+Inhalation: Material may be an irritant to mucous membranes and respiratory tract.
+
+Skin contact: Contact with skin may result in irritation.
+
+Ingestion: Swallowing can result in nausea, vomiting and irritation of the gastrointestinal tract.
+
+Eye contact: May be an eye irritant.
+
+Acute toxicity
+
+Inhalation: This material has been classified as not hazardous for acute inhalation exposure. Acute toxicity
+estimate (based on ingredients): LC50 > 20.0 mg/L for vapours or LC50 > 5.0 mg/L for dust and mist.
+
+Skin contact: This material has been classified as not hazardous for acute dermal exposure. Acute toxicity
+estimate (based on ingredients): LD50 > 2,000 mg/Kg bw
+
+Ingestion: This material has been classified as not hazardous for acute ingestion exposure. Acute toxicity
+estimate (based on ingredients): LD50 > 2,000 mg/Kg bw
+
+Corrosion/Irritancy: Eye: this material has been classified as not corrosive or irritating to eyes. Skin: this
+material has been classified as not corrosive or irritating to skin.
+
+Sensitisation: Inhalation: this material has been classified as not a respiratory sensitiser. Skin: this material has
+been classified as not a skin sensitiser.
+
+
+Product Name: Mobiltrans HD 30 Dyed Blue                                               Reference No: AAP0085901
+Issued: 2021-04-27                                      Version: 1.1                                     Page 4 of 6
+ Safety Data Sheet
+Aspiration hazard: This material has been classified as not an aspiration hazard.
+
+Specific target organ toxicity (single exposure): This material has been classified as not a specific hazard to
+target organs by a single exposure.
+
+Chronic Toxicity
+
+Mutagenicity: This material has been classified as not a mutagen.
+
+Carcinogenicity: This material has been classified as not a carcinogen.
+
+Reproductive toxicity (including via lactation): This material has been classified as not a reproductive
+toxicant.
+
+Specific target organ toxicity (repeat exposure): This material has been classified as not a specific hazard to
+target organs by repeat exposure.
+
+
+12. ECOLOGICAL INFORMATION
+
+Avoid contaminating waterways.
+
+Acute aquatic hazard: This material has been classified as not hazardous for acute aquatic exposure. Acute
+toxicity estimate (based on ingredients): > 100 mg/L
+
+Long-term aquatic hazard: This material has been classified as not hazardous for chronic aquatic exposure.
+Non-rapidly or rapidly degradable substance for which there are adequate chronic toxicity data available OR in
+the absence of chronic toxicity data, Acute toxicity estimate (based on ingredients): >100 mg/L, where the
+substance is not rapidly degradable and/or BCF < 500 and/or log Kow < 4.
+
+Ecotoxicity: No information available.
+
+Persistence and degradability: No information available.
+
+Bioaccumulative potential: No information available.
+
+Mobility: No information available.
+
+
+13. DISPOSAL CONSIDERATIONS
+
+Persons conducting disposal, recycling or reclamation activities should ensure that appropriate personal
+protection equipment is used, see "Section 8. Exposure Controls and Personal Protection" of this SDS.
+
+If possible material and its container should be recycled. If material or container cannot be recycled, dispose in
+accordance with local, regional, national and international Regulations.
+
+
+14. TRANSPORT INFORMATION
+
+ROAD AND RAIL TRANSPORT
+Not classified as Dangerous Goods by the criteria of the "Australian Code for the Transport of Dangerous Goods
+by Road & Rail" and the "New Zealand NZS5433: Transport of Dangerous Goods on Land".
+
+MARINE TRANSPORT
+Not classified as Dangerous Goods by the criteria of the International Maritime Dangerous Goods Code (IMDG
+Code) for transport by sea.
+
+AIR TRANSPORT
+Not classified as Dangerous Goods by the criteria of the International Air Transport Association (IATA) Dangerous
+Product Name: Mobiltrans HD 30 Dyed Blue                                             Reference No: AAP0085901
+Issued: 2021-04-27                                     Version: 1.1                                     Page 5 of 6
+ Safety Data Sheet
+Goods Regulations for transport by air.
+
+15. REGULATORY INFORMATION
+
+This material is not subject to the following international agreements:
+Montreal Protocol (Ozone depleting substances)
+The Stockholm Convention (Persistent Organic Pollutants)
+The Rotterdam Convention (Prior Informed Consent)
+Basel Convention (Hazardous Waste)
+
+This material is subject to the following international agreements:
+
+International Convention for the Prevention of Pollution from Ships (MARPOL)
+         • Annex I - Oil
+
+This material/constituent(s) is covered by the following requirements:
+
+The Standard for the Uniform Scheduling of Medicines and Poisons (SUSMP) established under the Therapeutic
+Goods Act (Commonwealth): Not Applicable.
+
+AICIS Status: Formulations where all components AIIC listed.
+
+
+16. OTHER INFORMATION
+
+ Reason for issue:     Revised
+
+This information was prepared in good faith from the best information available at the time of issue. It is based on
+the present level of research and to this extent we believe it is accurate. However, no guarantee of accuracy is
+made or implied and since conditions of use are beyond our control, all information relevant to usage is offered
+without warranty. The manufacturer will not be held responsible for any unauthorised use of this information or for
+any modified or altered versions.
+
+If you are an employer it is your duty to tell your employees, and any others that may be affected, of any hazards
+described in this sheet and of any precautions that should be taken.
+
+Safety Data Sheets are updated frequently. Please ensure you have a current copy.
+
+
+
+
+Product Name: Mobiltrans HD 30 Dyed Blue                                             Reference No: AAP0085901
+Issued: 2021-04-27                                     Version: 1.1                                     Page 6 of 6
+

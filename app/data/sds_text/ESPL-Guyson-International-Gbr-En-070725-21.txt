@@ -1,0 +1,335 @@
+     Safety Data Sheet according to Regulation (EC) No 1907/2006
+1. IDENTIFICATION OF THE SUBSTANCE / PREPARATION AND OF THE
+COMPANY / UNDERTAKING
+
+
+Product name:                                SAFTIGRIT PINK (PREMIUM)
+Contains:                                    Pink Fused Aluminium Oxide
+Intended Use:                                Blast cleaning abrasive for aerospace applications.
+
+Supplier:                                    Guyson International Ltd.
+                                             Snaygill Industrial Estate,
+                                             Skipton, North Yorkshire.
+                                             BD23 2QR
+
+                                             Tel:            +44 (0)1756 799911
+                                             E-mail          info@guyson.co.uk
+Emergency contact number:                                    +44 (0)1756 799911
+
+2. HAZARDS IDENTIFICATION
+
+Environment:                                 Not subject to labelling requirements under the
+                                             CLP regulation (EC) No 1272/2008.
+
+
+The material is not considered hazardous in normal use but the following potential
+hazards should be recognised.
+
+Dust – inhalation
+Skin irritation in susceptible individuals
+Noxious fumes may evolve during fire
+
+3. COMPOSITION / INFORMATION ON INGREDIENTS
+
+There are no CAS or EC numbers for fused alumina in its entirety. Numbers for the
+constituent parts/compounds are shown below.
+
+ITEM                     CONTENT (%)                  CAS NO.              EINECS NO.
+Al 2 O 3                 98.75                        1344-28-1            215-691-6
+TiO 2                    0.1 max                      13463-67-7           236-675-5
+SiO2                     0.5 max                      7631-86-9            231-545-4
+Fe2O3                    0.1 max                      1309-37-1            215-168-2
+CaO &                    0.05 max                     1313-59-3            215-208-9
+MgO                      0.05 max                     12136-45-7           235-227-6
+
+Na2O &                   1.0 max                      1313-59-3            215-208-9
+K2O                      1.0 max                      12136-45-7           235-227-6
+
+GHSM001 HS41 A                     Revision Date: Nov 2020                         Issue 2         Page 1 of 7
+     Safety Data Sheet according to Regulation (EC) No 1907/2006
+Pb                         5ppm max                 7439-92-1
+Acid extractable           0.3max                   NA                       NA
+Fe2O3
+Acid extractable Pb        20ppm max                NA                       NA
+4. FIRST AID MEASURES
+
+The product may cause temporary mechanical irritation to the eyes, nose, throat and
+lungs.
+
+Eye contact                                           Remove contact lenses and rinse the
+                                                      eyes with open eye lids for 10 minutes
+                                                      under running water.
+
+Skin contact                                          Wash off with soap & water.
+Inhalation                                            Provide the affected person with fresh air
+                                                      consult a doctor in case of irritation of the
+                                                      respiratory tract.
+
+Ingestion                                             Rinse out mouth and drink water. Do
+                                                      NOT induce vomiting.
+
+Advice to physician:                                  No specific advice. Treat according to
+                                                      symptoms present.
+
+5. FIRE FIGHTING MEASURES
+
+Extinguishing media                                 Adapt extinguishing measures to
+                                                    environment.
+
+Unsuitable extinguishing media                      None known.
+
+Unusual fire & explosive hazards                    This product will not ignite as a dust in its
+                                                    own right in any suspended dust
+                                                    concentrations.
+                                                    The product is an inert thermal resistant
+                                                    electro mineral up to its physical
+                                                    decomposition point.
+
+                                                    Consideration of dust explosion levels must
+                                                    however be considered where a substrate
+                                                    being processed creates a possible
+                                                    explosive dust. In this instance refer to the
+                                                    component/metal/substrate suppliers data
+                                                    pertaining to its respective characteristics.
+
+Specific hazards                                    None known.
+Advice for fire-fighters                            Wear self-contained breathing apparatus
+                                                    and protective clothing.
+
+GHSM001 HS41 A                      Revision Date: Nov 2020                          Issue 2          Page 2 of 7
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal precautions                            Ensure adequate ventilation.
+                                                Avoid breathing dust. Use appropriate
+                                                personal protective equipment.
+
+Environmental protection                        Make sure spills can be contained.
+                                                Do not allow to enter into surface water or
+                                                drains.
+                                                Do not allow to enter into soil/subsoil.
+
+Spill clean-up methods                          Ventilate the area thoroughly.
+                                                Vacuum or sweep up material and place in
+                                                a suitable container for re-cycling or
+                                                disposal.
+
+References to other sections                    Section1 - Emergency contact information
+                                                Section 8 - Personal protective equipment
+                                                Section 13 - Waste Disposal
+
+
+7. HANDLING AND STORAGE
+
+Precautions for safe handling                   Fused alumina is not classified and no
+                                                protective measures are needed for safe
+                                                handling.
+                                                Prevent formation of dust.
+                                                Use only in well ventilated areas.
+                                                Wear personal protective clothing.
+                                                Wash hands and face before breaks and
+                                                after work.
+
+Conditions for safe storage                     Keep dry. No other special requirements.
+8. EXPOSURE CONTROL / PERSONAL PROTECTION
+
+
+Engineering Measures:                           Preferred methods of use are either in a
+                                                blast cabinet with a dust collector or in a
+                                                closed-circuit blasting system.
+
+                                                If a blast room is used it must have a dust
+                                                extraction system to keep dust levels
+                                                below the occupational exposure limits.
+
+Occupational Exposure Limits                    All dusts have been assigned exposure
+                                                limits. The following information has been
+                                                taken from Guidance Note EH40/2005 from
+                                                the Health and Safety Executive.
+
+GHSM001 HS41 A                  Revision Date: Nov 2020                          Issue 2      Page 3 of 7
+    Safety Data Sheet according to Regulation (EC) No 1907/2006
+
+
+
+ Formula     CONTENT     CAS NO.             EINECS NO.       Inhalable        Respirable
+             (%)
+ Al 2 O 3    98.75       1344-28-1           215-691-6        10 mg/m³         4 mg/m³
+ SiO 2       0.5         7699-41-4           231-716-3        6 mg/m³          2.4 mg/m³
+ SiC                 -   409-21-2            206-991-8             -                -
+ CaO         0.01        1305-78-8           215-138-9               -                -
+ MgO         0.05        1309-48-4           215-171-9               -                -
+ TiO 2       0.1         13463-67-7          236-675-5        10 mg/m³         4 mg/m³
+ Fe 2 O 3    0.1         1309-37-1           215-168-2               -         5 mg/m³
+ Na 2 O      1.0         1313-59-3           215-208-9               -              -
+ K2O         1.0         12136-45-7          235-227-6
+ Pb          5ppm        7439-92-1           231-100-4          0.15 mg/m3            -
+
+
+Industrial hygiene                              Wash hands before breaks and at end of
+                                                work.
+
+Personal Protective Equipment                   Blast cabinet
+
+
+
+
+Hand protection                                 Gloves - appropriate gauntlets
+
+Eye protection
+                                                Safety glasses or tight-fitting protective
+                                                goggles. EN 166
+
+
+Respiratory equipment                           Normally, no personal respiratory protection
+                                                is necessary. A breathing mask is to be
+                                                worn when handling dust or cleaning out
+                                                the system. (FFP2 or FFP3)
+
+Body protection                                 With normal use body protection by half or
+                                                full-body coverall and boots is required.
+
+Personal Protective Equipment
+                                                Blast Room
+
+
+                                                Blasting operatives should wear a CE
+                                                marked approved blasting helmet.
+
+                                                Operatives should always wear appropriate
+                                                gauntlets.
+
+
+
+GHSM001 HS41 A                  Revision Date: Nov 2020                          Issue 2       Page 4 of 7
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+                                                Operatives should wear a purpose
+                                                designed blasters’ suit.
+
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+Appearance                                        Solid Pink angular particles.
+Odour                                             Odourless.
+Explosion hazard                                  The product is not explosive, however
+                                                  formation of explosive air / dust mixtures
+                                                  is possible.
+
+Melting point (°C)                                Approx. 2,100
+pH-value                                          NMA (Not meaningfully applicable).
+Flash point (°C)                                  Not determined as product is not
+                                                  flammable.
+Ignition temperature                              Not determined as product is not
+                                                  flammable.
+Water soluble                                     Insoluble in water.
+Specific gravity                                  Approx. 3.9 to 4.1 g/cm3.
+
+
+10. STABILITY AND REACTIVITY
+
+Reactivity                                        Not applicable.
+
+Chemical stability                                Stable under normal conditions
+
+Possibility of hazardous reactions                No hazardous reactions known.
+
+Conditions to avoid                               Excessive thermal exposure to
+                                                  decomposition points
+
+Incompatible Materials                            None known
+
+Hazardous Decomposition Products                  None, products change from solids to
+                                                  liquids with no adverse decomposition.
+
+
+11. TOXICOLOGICAL INFORMATION
+
+Laboratory Data:                                These materials have been tested for
+                                                toxicity in line with REACH requirements for
+                                                submission of the technical dossier as part
+                                                of the registration for High Volume
+                                                Industrial Substance. They are not
+                                                classified under EC directives.
+
+
+GHSM001 HS41 A                  Revision Date: Nov 2020                           Issue 2      Page 5 of 7
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+Human Data:                                    The human data available is compiled as
+                                               part of the REACH Registration technical
+                                               Dossier under joint submission for
+                                               Aluminium Oxides. It is not classified under
+                                               EC Directives and exposure controls should
+                                               be adhered to, ref section 8.
+
+
+12. ECOLOGICAL INFORMATION
+
+Assessment:                                     Handled correctly these products pose no
+                                                serious environmental hazard.
+
+Test Results:                                   These products do not contain any
+                                                substances that are classified under EC
+                                                legislation for environmental effects.
+
+13. DISPOSAL CONSIDERATIONS
+
+The abrasive must be disposed of in accordance with national legislation and local
+regulations.
+
+The material as supplied is classed as a non-hazardous inert solid waste.
+
+Spent abrasive used as a blasting medium must be disposed of under classification 12 01
+16 (waste blasting material containing dangerous substances) or 12 01 17 (waste blasting
+material other than those mentioned in 12 01 16).
+
+The waste producer must determine if hazardous substances in the coating being
+removed are likely to cause the waste to be hazardous.
+
+14. TRANSPORT INFORMATION
+
+
+Land Transport (ADR/RID)                       Not classified according to Transport
+                                               Regulations for Hazardous/Dangerous
+                                               Goods
+
+Marine Transport (IMO/IMD)                     Not classified according to Transport
+                                               Regulations for Hazardous/Dangerous
+                                               Goods
+
+Air Transport                                  Not classified according to Transport
+                                               Regulations for Hazardous/Dangerous
+                                               Goods
+
+15. REGULARITY INFORMATION
+
+
+
+GHSM001 HS41 A                 Revision Date: Nov 2020                       Issue 2          Page 6 of 7
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+Safety, health and environmental                  The product is not hazardous according to
+regulations/legislation specific for              Directive 67/548/CE and 1272/2008/CE.
+substance or mixture.
+                                                  This product has been REACH registered
+                                                  under submission number JL942654-25
+                                                  and REACH Registration number 01-
+                                                  2119529248-35-0096.
+
+Labelling Requirement                             Not subject to labelling in accordance with
+                                                  current regulations.
+
+16. OTHER INFORMATION
+
+Disclaimer
+
+It remains the users own responsibility to ensure that the information contained is
+appropriate for the use of this product.
+The information contained herein is to the best of our knowledge accurate, however, as
+circumstances and conditions in which it may be used are beyond our control, we do not
+accept liability for any loss or damage, however arising, which results directly or indirectly
+from the use of such information.
+
+
+
+
+GHSM001 HS41 A                    Revision Date: Nov 2020                        Issue 2         Page 7 of 7
+

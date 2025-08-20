@@ -1,0 +1,189 @@
+Safety Data Sheet
+1. IDENTIFICATION OF THE MATERIAL AND SUPPLIER
+Product Name:                         189 Fluro Liquid Suspension Concentrate
+Product Code:                         189
+Recommended Use:                      Agriculture (tracing additive for spray testing).
+Supplier:                             Topline Paint Pty Ltd t/as Shipway Spescoat
+ABN:                                  65 007 626 191
+Street Address:                       33 Aldershot Road Lonsdale SA 5160 Australia
+Telephone Number:                     +61 8 8384 1188
+Email:                                sds@toplinepaint.com.au
+
+2. HAZARDS IDENTIFICATION
+This material is non-hazardous according to criteria of Safe Work Australia; NON HAZARDOUS SUBSTANCE.
+Classified as Dangerous Goods by the criteria of the Australian Dangerous Goods Code (ADG Code) for Transport by Road and
+Rail; NOT DANGEROUS GOODS.
+ Signal Word (s):                                None
+ Classification of the substance or              None
+ Mixture:
+ Hazard Statement (s):                           None
+ Pictograms:
+
+
+
+
+ Precautionary Statement Prevention:             P233 Keep container tightly closed.
+                                                 P281 Use personal protective equipment as required.
+ Precautionary Statement Response:               None
+ Precautionary Statement Storage:                None
+ Precautionary Statement Disposal:               P501 Dispose of contents / container in according to local regulations.
+
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+                  Components                                    CAS Number                                   Proportion
+     Fluorescent pigment (US FDA approved)                       Proprietary                                    50%
+                     Water                                       7732-18-5                                      45%
+   Ingredients determined not to be hazardous                                                                 To 100%
+
+4. FIRST AID MEASURES
+For advice, contact a Poisons Information Centre 131 126 or a doctor.
+Inhalation: Remove the source of contamination or move the victim to fresh air. Ensure airways are clear and have a qualified person
+give oxygen through facemask if breathing is difficult. Seek immediate medical attention.
+Skin Contact: Remove contaminated clothing. Wash affected areas with copious amounts of soap and water. Ensure contaminated
+clothing is washed before re-use or discard. Seek medical attention.
+Eye Contact: If contact with the eye(s) occur, wash with copious amounts of water, holding eyelid(s) open. Take care not to rinse
+contaminated water into the non-affected eye. If irritation develops, seek medical attention.
+Ingestion: DO NOT induce vomiting. Immediately wash mouth out with water. Seek immediate medical attention.
+Further Medical Treatment: Symptomatic treatment and supportive therapy as indicated.
+
+5. FIRE FIGHTING MEASURES
+Not classed as flammable. If involved in a fire, it may emit noxious and toxic fumes.
+Extinguishing media: Use extinguishing media suitable for surrounding area.
+
+Fire Fighting: Wear breathing apparatus plus protective gloves for fire only. Prevent, by any means available, spillage from entering
+drains or watercourses. Cool fire exposed containers with water spray from a protected location. DO NOT approach containers
+suspected to be hot. Use fire fighting procedures suitable for surrounding area.
+
+Fire/Explosion Hazard: This material is not readily combustible under normal conditions. However, it will break down under fire
+conditions and the organic component may burn. Not considered to be a significant fire risk. Heat may cause expansion or
+decomposition with violent rupture of containers. Decomposes on heating and may produce toxic fumes of carbon monoxide. May
+emit acrid smoke.
+
+
+189 Fluro Liquid Suspension                                   Page 1 of 3                                         Issued: 11/05/2022
+Concentrate
+Safety Data Sheet
+6. ACCIDENTAL RELEASE MEASURES
+Emergency procedures: Remove all sources of ignition. Increase ventilation. Evacuate all unnecessary personnel. Wear full
+protective equipment and clothing to minimize exposure. If possible, contain the spill.
+
+Methods and materials for containment and clean up: Place inert, noncombustible, absorbent material onto spillage. Use clean
+non-sparking tools to collect the material and place into a suitable labelled container. If large quantities of this material enter the
+waterways contact the Environmental Protection Authority, or your local Waste Management Authority.
+
+7. HANDLING AND STORAGE
+Conditions for safe storage: Limit all unnecessary personal contact. Wear protective clothing when risk of exposure occurs. Use in
+a well-ventilated area. Avoid contact with incompatible materials. When handling, DO NOT eat, drink, or smoke. Keep containers
+securely sealed when not in use. Avoid physical damage to containers. Always wash hands with soap and water after handling. Work
+clothes should be cleaned separately. Use in a well-ventilated area.
+
+Precautions for safe handling: Store in original containers. Keep containers securely sealed. Store in a cool, dry, well-ventilated
+area. DO NOT allow freeze. Store away from incompatible materials.
+
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Occupational Exposure Limits: No exposure standards have been established for this material by the National Occupational Health
+And Safety Commission (NOHSC). However, all exposure should be kept to the least possible levels as over-exposure to any
+chemical may result in enhancement of pre-existing adverse medical conditions and/or allergic reactions. Exposure standards for
+individual constituents are listed above.
+
+Engineering controls: Ensure ventilation is adequate and that air concentrations of components are controlled below quoted
+Exposure Standards. Keep containers closed when not in use. Vapour heavier than air – prevent concentration in hollows or sumps.
+DO NOT enter confined spaces where vapour may have collected. Where vapours or mists are generated, particularly in enclosed
+areas, and natural ventilation is inadequate, a flameproof exhaust ventilation system is recommended.
+
+Personal Protective Equipment:
+Respiratory Protection: Avoid breathing of vapours/mists. Where ventilation is inadequate and vapours/mists are generated, the use
+of an approved respirator with filter complying with AS/NZS 1715 and AS/NZS 1716 is recommended; however final choice of
+appropriate breathing protection is dependent upon actual airborne concentrations and the type of breathing protection required will
+vary according to individual circumstances. Expert advice may be required to make this decision. Reference should be made to
+Australian Standards AS/NZS 1715- Selection, Use and Maintenance of Respiratory Protective Devices; and AS/NZS 1716-
+Respiratory Protective Devices.
+Eye Protection: Chemical safety glasses or face shield recommended as appropriate. Final choice of appropriate eye/face protection will
+vary according to individual circumstances including methods of handling or engineering controls as determined by appropriate risk
+assessments. Eye protection should conform to Australian/New Zealand Standard AS/NZS 1337- Eye Protectors for Industrial Applications.
+
+Hand Protection: General protective gloves recommended as appropriate. Final choice of appropriate glove type will vary according
+to individual circumstances, including methods of handling or engineering controls as determined by appropriate risk assessments.
+Refer to AS/NZS 2161 Occupational protective gloves- Selection, use and maintenance.
+
+Other Information: Biological Limit Values: No biological limit allocated.
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+ Appearance                         Milky liquid                        Volatile Component           35-40% w/w
+ Decomposition Temperature          Not available                       Melting Point                Not available
+ Boiling Point                      100°C water                         Vapour Pressure              As for Water
+ Flammability                                                           Flash Point                  Non-Flammable
+ Specific Gravity                   1.1                                 Solubility in Water          Soluble
+ Viscosity                          Not available                       Flammable Limits LEL         Not applicable
+ Evaporation Rate                   As for Water                        Flammable Limits UEL         Not applicable
+ Ignition Temperature               Not applicable                      pH Value                     8-10
+
+10. STABILITY AND REACTIVITY
+Chemical stability: Stable under normal conditions of storage and handling.
+
+Conditions to avoid: Avoid exposure to heat.
+
+Incompatible materials: Strong oxidising agents.
+
+
+
+189 Fluro Liquid Suspension                                 Page 2 of 3                                        Issued: 11/05/2022
+Concentrate
+Safety Data Sheet
+11. TOXICOLOGICAL INFORMATION
+No adverse health effects expected if the product is handled in accordance with this Safety Data Sheet and the product label.
+Symptoms or effects that may arise if the product is mishandled and overexposure occurs are:
+
+Ingestion: This liquid is discomforting and may be harmful if swallowed. Ingestion may result in nausea, abdominal irritation, paint and
+vomiting.
+
+Eye contact: The liquid may produce eye discomfort and can cause temporary impairment of vision and/or transient eye inflammation,
+ulceration.
+
+Skin contact: The liquid is mildly discomforting to the skin and can cause skin reactions which may lead to dermatitis.
+
+Inhalation: The vapour/mist is mildly discomforting to the upper respiratory tract.
+
+Long Term Effects: Prolonged and repeated skin contact may cause drying with cracking, irritation and possible dermatitis following.
+As with any chemical product, contact with unprotected bare skin: inhalation of vapour, mist or dust in workplace atmosphere: or
+ingestion in any form, should be avoided by observing good occupational work practice.
+
+Toxicological Data: No toxicology data is available for this product.
+
+12. ECOLOGICAL INFORMATION
+Ecotoxicity: No data is available for this material.
+
+Persistence degradability and mobility: No data is available for this material.
+
+Aquatic toxicity: No data is available for this material.
+
+13. DISPOSAL CONSIDERATIONS
+Disposal methods: Refer to State Territory Land Waste Management Authority. Dispose of material through a licensed waste
+contractor. Advise flammable nature.
+
+14. TRANSPORT INFORMATION
+Road and Rail Transport              Not Classified as Dangerous Goods by the criteria of the Australian Dangerous Goods Code
+                                     (ADG Code) for Transport by Road and Rail; NOT DANGEROUS GOODS.
+ UN No:                            None allocated.                      ADG Packaging Method:          None allocated.
+ Class-primary:                    None allocated.                      ADG EPG Number:                None allocated.
+ Packing Group:                    None allocated.                      ADG IERG Number:               None allocated.
+ Proper Shipping Name:             None allocated.
+ Hazchem Code:                     None allocated.
+
+
+15. REGULATORY INFORMATION
+Classification: This material is non-hazardous according to criteria of Safe Work Australia; NON HAZARDOUS SUBSTANCE.
+All the constituents of this material are listed on the Australian Inventory of Chemical Substances (AICS).
+
+16. OTHER INFORMATION
+This SDS summarizes to our best knowledge at the date of issue, the chemical health and safety hazards of the material and general
+guidance on how to safely handle the material in the workplace. Since Topline Paint Pty Ltd cannot anticipate or control the conditions
+under which the product may be used, each user must, prior to usage, assess and control the risks arising from its use of the material.
+Persons dealing with the products to which this information refers do so entirely at their own risk. Topline Paint Pty. Ltd. will accept no
+responsibility whatsoever for the consequences of the use or misuse of this product.
+
+
+
+
+189 Fluro Liquid Suspension                                    Page 3 of 3                                         Issued: 11/05/2022
+Concentrate
+

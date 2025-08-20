@@ -1,0 +1,467 @@
+                                              GFP Lyophilized Biological Material Preparations
+                                              Safety Data Sheet
+
+SECTION 1: Identification
+1.1.       Product identifier
+Product name                                              : GFP Lyophilized Biological Material Preparations
+Trade names                                               : UV-BioTAG™
+1.2.       Recommended use and restrictions on use
+Used for microbiological quality control.
+
+1.3.       Supplier
+Microbiologics, Inc.
+200 Cooper Avenue North
+Saint Cloud, MN 56303
++1.320.253.1640
+
+
+1.4.       Emergency telephone number
+24 hour Emergency Number: United States: +1.866.928.0789 or +1.215-207-0061 (Carechem)
+                                   Canada: +1.800.579.7421 or +1.202.464.2554 (Carechem)
+
+SECTION 2: Hazard identification
+2.1.       Classification of the substance or mixture
+Classification (GHS- CAN/US)
+Not classified
+2.2.       GHS Label elements, including precautionary statements
+GHS-CAN/US labeling
+No labeling applicable
+
+2.3.       Other hazards
+No additional information available
+2.4.       Unknown acute toxicity
+No data available
+
+SECTION 3: Composition/Information on ingredients
+3.1.       Substances
+Not applicable
+3.2.       Mixtures
+ Name                                  Product identifier          %           GHS-CAN Classification              GHS-US classification
+ Phosphoric acid, potassium salt       (CAS No) 7778-77-0          15 - 35     Not classified                      Not classified
+ (1:1)
+ Glucose                               (CAS No) 50-99-7            20 - 35     Not classified                      Not classified
+ Skim milk (Bovine - USA origin)       None                        15 - 20     Not classified                      Not classified
+ Gelatin                               (CAS No) 9000-70-8          15 - 20     Not classified                      Not classified
+ Water                                 (CAS No) 7732-18-5          7 - 12      Not classified                      Not classified
+ L-Ascorbic acid                       (CAS No) 50-81-7            1-5         Not classified                      Not classified
+
+Full text of hazard classes and H-statements : see section 16
+
+
+SECTION 4: First-aid measures
+4.1.       Description of first aid measures
+First-aid measures after inhalation                       : Avoid the production of aerosols. If inhalation occurs, move to an area of fresh air and seek
+                                                            medical advice.
+First-aid measures after skin contact                     : Non-irritant. If skin contact occurs, wash with an appropriate biocidal solution.
+First-aid measures after eye contact                      : Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to
+                                                            do. Continue rinsing. If irritation persists, get medical advice/attention.
+First-aid measures after ingestion                        : Avoid hand to mouth contact. If ingested, seek medical advice.
+4.2.       Most important symptoms and effects, both acute and delayed
+Symptoms/injuries after inhalation                        : Inhalation of infectious materials may result in infection.
+Symptoms/injuries after skin contact                      : Causes severe skin burns.
+
+SDS.2135.ENG.NA Rev C                                                        English                                                                Page 1/7
+2019.JUN.24
+GFP Lyophilized Biological Material Preparations
+Safety Data Sheet
+Symptoms/injuries after eye contact                : Causes severe eye damage.
+Symptoms/injuries after ingestion                  : May be harmful if swallowed.
+4.3.      Indication of any immediate medical attention and special treatment needed
+No additional information available
+
+SECTION 5: Firefighting measures
+5.1.      Extinguishing media
+Suitable extinguishing media                       : Use suitable extinguishing media for surrounding fire.
+Unsuitable extinguishing media                     : None.
+5.2.      Special hazards arising from the substance or mixture
+Fire hazard                                        : None.
+Explosion hazard                                   : None.
+5.3.      Advice for firefighters
+Protection during firefighting                     : Firefighters should wear full protective gear.
+
+SECTION 6: Accidental release measures
+6.1.      Personal precautions, protective equipment and emergency procedures
+6.1.1.    For non-emergency personnel
+Notify all people working in the immediate area of the incident. Do not leave the area unattended (unless you are the only individual in the area).
+Designate another employee to divert traffic from the incident area. Use disposable gloves, moisture impervious aprons, and other protective
+clothing must be dictated by the standard operational procedures of each individual laboratory.
+6.1.2.    For emergency responders
+No additional information available
+6.2.      Environmental precautions
+Avoid release to the environment.
+6.3.      Methods and material for containment and cleaning up
+For containment                                    : Stop the flow of material, if this is without risk.
+Methods for cleaning up                            : Biohazard Spill Kits are available from commercial sources, or can be made with the following
+                                                     materials:
+                                                     • A bottle of an aqueous germicidal solution
+                                                     • One pair of disposable gloves
+                                                     • Forceps
+                                                     • One biohazard bag with closure
+                                                     • One stack or roll of paper towels
+                                                     Note: A sharps biohazard container should also be available for the collection of any broken
+                                                     material that could cause a cut or puncture wound (e.g. broken glass vial or tube).
+
+
+                                                     Procedure:
+                                                     1. After notifying all employees in the immediate area, collect the biohazard spill kit and
+                                                     immediately return to the area.
+                                                     2. Put on the disposable gloves, and any other personal protective equipment as dictated by
+                                                     regulatory requirements or laboratory procedures.
+                                                     3. To avoid injury due to broken material, such as packaging or labware, use the forceps to pick
+                                                     up as much material as possible, and carefully place the materials into the sharps biohazard
+                                                     container.
+                                                     4. Cover area with paper towels to decrease spread of spill and the creation of an aerosol.
+                                                     5. Saturate the spill area with germicidal solution. Keep the spill area moist with the germicidal
+                                                     solution for the appropriate amount of time as indicated on the germicidal solution used.
+                                                     6. Wipe up the area with the paper towels. Place all used paper towels in the biohazard bag.
+                                                     7. Following the cleanup, carefully remove the gloves, and place them into the biohazard bag.
+                                                     8. Seal the biohazard bag.
+
+6.4.      Reference to other sections
+No additional information available
+
+
+
+
+SDS.2135.ENG.NA Rev C                                               English                                                                    Page 2/7
+2019.JUN.24
+GFP Lyophilized Biological Material Preparations
+Safety Data Sheet
+SECTION 7: Handling and storage
+7.1.         Precautions for safe handling
+Precautions for safe handling                     : Proper technologies must be employed to avoid exposure and contact with microorganism
+                                                    growth, and rehydrated pellet suspensions. The microbiology laboratory must be equipped, and
+                                                    have the facilities to receive, process, maintain, store and dispose of biohazard material. The
+                                                    microbiology laboratory personnel using these devices must be trained, experienced, and
+                                                    demonstrate proficiency in processing, maintaining, storing and disposing of biohazard
+                                                    material.
+7.2.         Conditions for safe storage, including any incompatibilities
+Storage conditions                                : Product must be stored at 2°C-8°C in the original sealed container. Product contains viable
+                                                    microorganisms that may, under certain circumstances, produce disease, or may contain
+                                                    inactivated biological material.
+
+
+SECTION 8: Exposure controls/personal protection
+8.1.         Control parameters
+No additional information available
+
+8.2.         Exposure controls
+Appropriate engineering controls                  : Local exhaust and general ventilation must be adequate to meet exposure standards. Restrict
+                                                    access to the area. Use under the direct supervision of, persons trained and competent in
+                                                    microbiological techniques. Good laboratory practices must be observed and followed.
+Hand protection                                   : Wear general protective gloves.
+Eye protection                                    : Safety glasses with side shields.
+Skin and body protection                          : Wear moisture impervious aprons and safety footwear.
+Respiratory protection                            : When undertaking procedures that are likely to give rise to infectious aerosols, a Class 1
+                                                    microbiological biological safety cabinet should be used. If exposure limits are exceeded or
+                                                    irritation is experienced, NIOSH approved respiratory protection should be worn.
+
+SECTION 9: Physical and chemical properties
+9.1.         Information on basic physical and chemical properties
+Physical state                                    : Solid
+Odor                                              : Odorless
+Odor threshold                                    : No data available
+pH                                                : No data available
+Melting point                                     : No data available
+Freezing point                                    : No data available
+Boiling point                                     : No data available
+Flash point                                       : No data available
+Relative evaporation rate (butyl acetate=1)       : No data available
+Flammability (solid, gas)                         : No data available
+Vapor pressure                                    : No data available
+Relative vapor density at 20 °C                   : No data available
+Relative density                                  : No data available
+Solubility                                        : No data available
+Log Pow                                           : No data available
+Auto-ignition temperature                         : No data available
+Decomposition temperature                         : No data available
+Viscosity, kinematic                              : No data available
+Viscosity, dynamic                                : No data available
+Explosion limits                                  : No data available
+Explosive properties                              : No data available
+Oxidizing properties                              : No data available
+
+9.2.         Other information
+No additional information available
+
+SECTION 10: Stability and reactivity
+10.1.        Reactivity
+No additional information available
+10.2.        Chemical stability
+Stable under normal ambient and anticipated storage and handling conditions.
+SDS.2135.ENG.NA Rev C                                            English                                                                   Page 3/7
+2019.JUN.24
+GFP Lyophilized Biological Material Preparations
+Safety Data Sheet
+10.3.      Possibility of hazardous reactions
+Will not occur.
+10.4.      Conditions to avoid
+Avoid inhalation of infectious aerosols or ingestion.
+10.5.      Incompatible materials
+Many chemicals may kill the organism enclosed. There are no additional hazards created by incompatible materials.
+10.6.      Hazardous decomposition products
+When stored as directed, the biological material preparations are stable until the last day of the stated month of the expiration date. The length of
+storage does not affect the risk of infection.
+
+SECTION 11: Toxicological information
+11.1.      Information on toxicological effects
+Acute toxicity (oral)                               : Not classified
+Acute toxicity (dermal)                             : Not classified
+Acute toxicity (inhalation)                         : Not classified
+
+
+ Water (7732-18-5)
+ LD50 oral rat                                          > 90 ml/kg
+ L-Ascorbic acid (50-81-7)
+ LD50 oral rat                                          11900 mg/kg
+ Glucose (50-99-7)
+ LD50 oral rat                                          25800 mg/kg
+ Phosphoric acid, potassium salt (1:1) (7778-77-0)
+ LD50 oral rat                                  3200 mg/kg
+Skin corrosion/irritation                           : Causes severe skin burns and eye damage.
+Serious eye damage/irritation                       : Causes serious eye damage.
+Respiratory or skin sensitization                   : Not classified
+Germ cell mutagenicity                              : Not classified
+Carcinogenicity                                     : Not classified
+
+
+Reproductive toxicity                               : Not classified
+
+
+Specific target organ toxicity – single exposure    : Not classified
+Specific target organ toxicity – repeated           : Not classified
+exposure
+
+Aspiration hazard                                   : Not classified
+
+
+SECTION 12: Ecological information
+12.1.      Toxicity
+Aquatic acute                                       : Not classified
+Aquatic chronic                                     : Not classified
+
+12.2.      Persistence and degradability
+No additional information available
+
+12.3.      Bioaccumulative potential
+No additional information available
+
+12.4.      Mobility in soil
+No additional information available
+
+12.5.      Other adverse effects
+Ozone                                               : Not classified
+Effect on the ozone layer                           : No additional information available.
+
+
+
+
+SDS.2135.ENG.NA Rev C                                                 English                                                                  Page 4/7
+2019.JUN.24
+GFP Lyophilized Biological Material Preparations
+Safety Data Sheet
+SECTION 13: Disposal considerations
+13.1.    Disposal methods
+Product/Packaging disposal recommendations   : Dispose of contents/container in accordance with local/regional/national/international
+                                               regulations.
+
+SECTION 14: Transport information
+14.1.    Basic shipping description
+ In accordance with TDG
+TDG
+UN-No. (TDG)                                 : UN3373
+TDG Primary Hazard Classes                   : 6.2 - Class 6.2 - Infectious Substances
+Transport document description               : UN3373 BIOLOGICAL SUBSTANCE, CATEGORY B, 6.2
+Proper Shipping Name (TDG)                   : BIOLOGICAL SUBSTANCE, CATEGORY B
+
+
+Hazard labels (TDG)                          : 6.2 - Infectious substances
+
+
+
+
+TDG Special Provisions                       : 38 - A person must not handle, offer for transport or transport these dangerous goods in a large
+                                               means of containment if they are in direct contact with the large means of containment.
+Explosive Limit and Limited Quantity Index   : 0
+Excepted quantities (TDG)                    : E0
+Passenger Carrying Road Vehicle or Passenger : 4 kg,4L
+Carrying Railway Vehicle Index
+
+
+UN-No. (TDG)                                 : UN2814
+TDG Primary Hazard Classes                   : 6.2 - Class 6.2 - Infectious Substances
+Transport document description               : UN2814 INFECTIOUS SUBSTANCE, AFFECTING HUMANS, 6.2
+Proper Shipping Name (TDG)                   : INFECTIOUS SUBSTANCE, AFFECTING HUMANS
+
+
+Hazard labels (TDG)                          : 6.2 - Infectious substances
+
+
+
+
+TDG Special Provisions                       : 16 - 1) The technical name of the most dangerous substance related to the primary class must
+                                               be shown, in parentheses, on the shipping document following the shipping name in
+                                               accordance with clause 3.5(1)(c)(i)(A) of Part 3, Documentation. The technical name must also
+                                               be shown, in parentheses, on a small means of containment or on a tag following the shipping
+                                               name in accordance with subsections 4.11(2) and (3) of Part 4, Dangerous Goods Safety
+                                               Marks.
+                                               2) subsection (1), the technical name for the following dangerous goods is not required to be
+                                               shown on a shipping document or on a small means of containment when Canadian law for
+                                               domestic transport or an international convention for international transport prohibits the
+                                               disclosure of the technical: a) UN1544, ALKALOID SALTS, SOLID, N.O.S. or ALKALOIDS,
+                                               SOLID, N.O.S; b) UN1851, MEDICINE, LIQUID, TOXIC, N.O.S; c) UN3140, ALKALOID
+                                               SALTS, LIQUID, N.O.S. or ALKALOIDS, LIQUID, N.O.S; d) UN3248, MEDICINE, LIQUID,
+                                               FLAMMABLE, TOXIC, N.O.S; or e) UN3249, MEDICINE, SOLID, TOXIC, N.O.S. An example
+                                               in Canada is the “Food and Drugs Act”.
+                                               38 - A person must not handle, offer for transport or transport these dangerous goods in a large
+                                               means of containment if they are in direct contact with the large means of containment.
+                                               84 - The infectious substances identified in subsection 7.1(7) of Part 7, Emergency Response
+                                               Assistance Plan, require an emergency response assistance plan.
+ERAP Index                                   : See SP84
+Explosive Limit and Limited Quantity Index   : 0
+Excepted quantities (TDG)                    : E0
+Passenger Carrying Road Vehicle or Passenger : 0.05 kg,0.05 L
+Carrying Railway Vehicle Index
+
+
+SDS.2135.ENG.NA Rev C                                       English                                                                     Page 5/7
+2019.JUN.24
+GFP Lyophilized Biological Material Preparations
+Safety Data Sheet
+
+14.2.     Transport information/DOT
+
+DOT
+DOT NA no.                                         : UN3373
+UN-No.(DOT)                                        : 3373
+Transport document description                     : UN3373 Biological substance, Category B, 6.2
+Proper Shipping Name (DOT)                         : Biological substance, Category B
+Contains Statement Field Selection (DOT)           :
+Class (DOT)                                        : 6.2 - Class 6.2 - Infectious substance (etiologic agent) 49 CFR 173.134
+Division (DOT)                                     : 6.2
+Dangerous for the environment                      : No
+DOT Special Provisions (49 CFR 172.102)            : A82 - The quantity limits in columns (9A) and (9B) do not apply to human or animal body parts,
+                                                     whole organs or whole bodies known to contain or suspected of containing an infectious
+                                                     substance.
+DOT Packaging Exceptions (49 CFR 173.xxx)          : 134
+DOT Packaging Non Bulk (49 CFR 173.xxx)            : 199
+DOT Packaging Bulk (49 CFR 173.xxx)                : None
+DOT Quantity Limitations Passenger aircraft/rail   : 4 L or 4 kg
+(49 CFR 173.27)
+DOT Quantity Limitations Cargo aircraft only (49 : 4 L or 4 kg
+CFR 175.75)
+DOT Vessel Stowage Location                        : A - The material may be stowed ‘‘on deck’’ or ‘‘under deck’’ on a cargo vessel and on a
+                                                     passenger vessel.
+DOT Vessel Stowage Other                           : 40 - Stow ‘‘clear of living quarters’’
+Emergency Response Guide (ERG) Number              : 158
+
+Other information                                  : No supplementary information available.
+
+
+DOT NA no.                                         : UN2814
+UN-No.(DOT)                                        : 2814
+DOT Symbols                                        : G - Identifies PSN requiring a technical name
+Transport document description                     : UN2814 Infectious substances, affecting humans, 6.2
+Proper Shipping Name (DOT)                         : Infectious substances, affecting humans
+Contains Statement Field Selection (DOT)           :
+Class (DOT)                                        : 6.2 - Class 6.2 - Infectious substance (etiologic agent) 49 CFR 173.134
+Division (DOT)                                     : 6.2
+Hazard labels (DOT)                                : 6.2 - Infectious substance
+
+
+
+
+Dangerous for the environment                      : No
+DOT Special Provisions (49 CFR 172.102)            : A82 - The quantity limits in columns (9A) and (9B) do not apply to human or animal body parts,
+                                                     whole organs or whole bodies known to contain or suspected of containing an infectious
+                                                     substance.
+DOT Packaging Exceptions (49 CFR 173.xxx)          : 134
+DOT Packaging Non Bulk (49 CFR 173.xxx)            : 196
+DOT Packaging Bulk (49 CFR 173.xxx)                : None
+DOT Quantity Limitations Passenger aircraft/rail   : 50 mL or 50 g
+(49 CFR 173.27)
+DOT Quantity Limitations Cargo aircraft only (49 : 4 L or 4 kg
+CFR 175.75)
+DOT Vessel Stowage Location                        : B - (i) The material may be stowed ‘‘on deck’’ or ‘‘under deck’’ on a cargo vessel and on a
+                                                     passenger vessel carrying a number of passengers limited to not more than the larger of 25
+                                                     passengers, or one passenger per each 3 m of overall vessel length; and (ii) ‘‘On deck only’’ on
+                                                     passenger vessels in which the number of passengers specified in paragraph (k)(2)(i) of this
+                                                     section is exceeded.
+DOT Vessel Stowage Other                           : 40 - Stow ‘‘clear of living quarters’’
+Emergency Response Guide (ERG) Number              : 158
+
+Other information                                  : No supplementary information available.
+
+
+SDS.2135.ENG.NA Rev C                                              English                                                                  Page 6/7
+2019.JUN.24
+GFP Lyophilized Biological Material Preparations
+Safety Data Sheet
+14.3.        Air and sea transport
+IMDG
+UN-No. (IMDG)                                                      : 3373
+Proper Shipping Name (IMDG)                                        : BIOLOGICAL SUBSTANCE, CATEGORY B
+Transport document description (IMDG)                              : UN 3373 BIOLOGICAL SUBSTANCE, CATEGORY B, 6.2
+Class (IMDG)                                                       : 6.2 - Infectious substances
+
+UN-No. (IMDG)                                                      : 2814
+Proper Shipping Name (IMDG)                                        : INFECTIOUS SUBSTANCE, AFFECTING HUMANS
+Transport document description (IMDG)                              : UN 2814 INFECTIOUS SUBSTANCE, AFFECTING HUMANS, 6.2
+Class (IMDG)                                                       : 6.2 - Infectious substances
+
+IATA
+UN-No. (IATA)                                                      : 3373
+Proper Shipping Name (IATA)                                        : Biological substance, category b
+Transport document description (IATA)                              : UN 3373 Biological substance, category b, 6.2
+Class (IATA)                                                       : 6.2 - Infectious Substances
+
+UN-No. (IATA)                                                      : 2814
+Proper Shipping Name (IATA)                                        : Infectious substance, affecting humans
+Transport document description (IATA)                              : UN 2814 Infectious substance, affecting humans, 6.2
+Class (IATA)                                                       : 6.2 - Infectious Substances
+
+SECTION 15: Regulatory information
+15.1. Canada National regulations
+
+  Water (7732-18-5)
+  Listed on the Canadian DSL (Domestic Sustances List)
+
+  L-Ascorbic acid (50-81-7)
+  Listed on the Canadian DSL (Domestic Sustances List)
+  Gelatin (9000-70-8)
+  Listed on the Canadian DSL (Domestic Sustances List)
+  Glucose (50-99-7)
+  Listed on the Canadian DSL (Domestic Sustances List)
+  Phosphoric acid, potassium salt (1:1) (7778-77-0)
+  Listed on the Canadian DSL (Domestic Sustances List)
+
+15.2. US Federal regulations
+
+
+  Water (7732-18-5)
+  Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+  L-Ascorbic acid (50-81-7)
+  Listed on the United States TSCA (Toxic Substances Control Act) inventory
+  Gelatin (9000-70-8)
+  Listed on the United States TSCA (Toxic Substances Control Act) inventory
+  EPA TSCA Regulatory Flag                        XU - XU - indicates a substance exempt from reporting under the Inventory Update Reporting
+                                                  Rule, i.e, Partial Updating of the TSCA Inventory Data Base Production and Site Reports (40
+                                                  CFR 710(C)).
+  Glucose (50-99-7)
+  Listed on the United States TSCA (Toxic Substances Control Act) inventory
+  Phosphoric acid, potassium salt (1:1) (7778-77-0)
+  Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+15.3. US State regulations
+No additional information available
+
+SECTION 16: Other information
+This information is based on our current knowledge and is intended to describe the product for the purposes of health, safety and environmental requirements o nly. It should not therefore be
+construed as guaranteeing any specific property of the product
+
+
+
+SDS.2135.ENG.NA Rev C                                                                   English                                                                                           Page 7/7
+2019.JUN.24
+

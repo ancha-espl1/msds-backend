@@ -1,0 +1,203 @@
+Safety Data Sheet
+
+
+1. IDENTIFICATION OF THE MATERIAL AND SUPPLIER
+Product Name:                        105 Two in One Primer
+Recommended Use:                     Paint / Coating.
+Supplier:                            Topline Paint Pty Ltd t/as Shipway Spescoat
+ABN:                                 65 007 626 191
+Street Address:                      33 Aldershot Road Lonsdale SA 5160 Australia
+Telephone Number:                    +61 8 8384 1188
+Email:                               sds@toplinepaint.com.au
+
+2. HAZARDS IDENTIFICATION
+This material is hazardous according to criteria of Safe Work Australia; HAZARDOUS SUBSTANCE.
+Classified as Dangerous Goods by the criteria of the Australian Dangerous Goods Code (ADG Code) for Transport by Road and
+Rail; DANGEROUS GOODS.
+ Signal Word (s):                                  DANGER.
+ Classification of the substance or mixture:       Flammable Liquid - Category 2
+                                                   Serious Eye Damage / Irritation - Category 2A
+ Hazard Statement (s):                             H225 Highly flammable liquid and vapour.
+                                                   H302 Harmful if swallowed.
+                                                   H317 May cause an allergic skin reaction.
+                                                   H319 Causes serious eye irritation.
+                                                   H332 Harmful if inhaled.
+ Pictograms:
+
+
+
+
+                                                                                                                    FLAMMABLE
+                                                                                                                      LIQUID
+                                                                                                                         3
+ Precautionary Statement Prevention:               P210 Keep away from heat/sparks/open flames/hot surfaces. No Smoking.
+                                                   P233 Keep container tightly closed.
+                                                   P240 Ground/Bond container and receiving equipment.
+                                                   P241 Use explosion-proof electrical/ventilating/lighting/.../equipment.
+                                                   P242 Use only non-sparking tools.
+                                                   P243 Take precautionary measures against static discharge.
+                                                   P281 Use personal protective equipment as required.
+ Precautionary Statement Response:                 P303+P361+P353 If on skin (or hair): Remove/Take off immediately all contaminated
+                                                   clothing. Rinse skin with water/shower.
+                                                   P370+P378 In case of fire: Use Foam, dry agent (carbon dioxide, dry chemical
+                                                   powder) for extinction.
+ Precautionary Statement Storage:                  P403+P235 Store in a well-ventilated place. Keep cool.
+ Precautionary Statement Disposal:                 P501 Dispose of contents / container in according to local regulations.
+Poisons Schedule: S5
+
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+                  Components                                 CAS Number                                Proportion
+                      Xylene                                  1330-20-7                                  10-30%
+               Methyl Ethyl Ketone                             78-93-3                                   10-30%
+    Solvent naphtha (petroleum), light aliphatic              64742-89-8                                  1-10%
+                     Toluene                                   108-88-3                                   1-10%
+                      Ethanol                                  64-17-5                                    1-10%
+                  n-Butyl Acetate                              123-86-4                                   1-10%
+                   Ethyl Acetate                               141-78-6                                   1-10%
+        Nitrocellulose (< 12.2% Nitrogen)                     9004-70-0                                   1-10%
+              Butyl benzyl phthalate                           85-68-7                                     <2%
+                 Cyclohexanone                                 108-94-1                                    <1%
+   Ingredients determined not to be hazardous                                                           To 100%
+
+4. FIRST AID MEASURES
+For advice, contact a Poisons Information Centre 131 126 or a doctor.
+Inhalation: Remove affected person from contaminated area and seek medical advice. If not breathing apply artificial respiration
+and seek urgent medical advice.
+Skin Contact: Remove contaminated clothing. Wash affected areas with copious amounts of soap and water. Ensure
+contaminated clothing is washed before re-use or discard. Seek medical attention.
+
+105 Two in One Primer                                     Page 1 of 3                                      Issued: 11/05/2022
+Safety Data Sheet
+
+
+4. FIRST AID MEASURES cont.
+Eye Contact: If contact with the eye(s) occur, wash with copious amounts of water, holding eyelid(s) open. If irritation develops,
+seek medical attention.
+Ingestion: DO NOT induce vomiting. Give a glass of water. Seek immediate medical attention.
+Further Medical Treatment: Symptomatic treatment and supportive therapy as indicated.
+
+5. FIRE FIGHTING MEASURES
+Classed as flammable. If involved in a fire, it may emit noxious and toxic fumes.
+Extinguishing media: Use Foam, CO2, or powder to extinguish fire.
+Fire Fighting: Highly flammable liquid. Keep containers cool with water spray. On burning will emit toxic fumes. Fire fighters to
+wear self-contained breathing apparatus if risk of exposure to vapour or products of combustion.
+Fire/Explosion Hazard: Flammable liquid. Combustion products include oxides of carbon. Keep storage tanks, pipelines, fire
+exposed surfaces etc cool with water spray. Shut off any leak if safe to do so and remove sources of re-ignition. Vapour/air mixtures
+may ignite explosively and flashback along the vapour trail may occur.
+
+6. ACCIDENTAL RELEASE MEASURES
+Emergency procedures: Remove all sources of ignition. Increase ventilation. Evacuate all unnecessary personnel. Wear full protective
+equipment and clothing to minimize exposure. If possible, contain the spill. Place inert, noncombustible, absorbent material onto spillage. Use
+clean non-sparking tools to collect the material and place into a suitable labelled container. If large quantities of this material enter the
+waterways contact the Environmental Protection Authority, or your local Waste Management Authority.
+
+7. HANDLING AND STORAGE
+Conditions for safe storage: Highly flammable liquid for storage and handling purposes. Keep tightly closed in a dry, cool, well-
+ventilated area, out of direct sunlight. Avoid sparks, flames, and other ignition sources. Store away from incompatible materials. DO
+NOT pressurize, cut, heat or weld containers as they may contain hazardous residues. For information on the design of the store-
+room reference should be made to Australian Standard AS1940 – The storage and handling of flammable and combustible liquids.
+Reference should also be made to all Local, State and Federal Regulations.
+Precautions for safe handling: Repeated or prolonged exposure to this material should be avoided to lessen the possibility of
+disorders. Use in a well-ventilated area. Prohibit sources of sparks, ignition, and naked flames. Wear appropriate protective equipment.
+It is essential that all who encounter this material, maintain high standards of personal hygiene i.e., washing hands prior to eating,
+drinking, smoking, or going to the toilet. Buildup of vapour or mist in the working atmosphere must be prevented. Ensure ventilation is
+adequate. DO NOT enter confined spaces where vapour or mist may have collected. Keep containers closed when not in use. Prevent
+accumulation of static electricity and earth all equipment.
+Corrosiveness: Not corrosive to metals.
+
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Occupational Exposure Limits: None established for this product.
+Engineering controls: Use only with adequate ventilation. Local exhaust ventilation or flameproof fume cupboards may be necessary
+for some operations. Use of closed or semi-closed processes e.g., Lidded tanks can reduce exposure.
+Personal Protective Equipment:
+Respiratory Protection: Avoid breathing of vapours/mists. Where ventilation is inadequate and vapours/mists are generated, the use of an
+approved respirator with filter complying with AS/NZS 1715 and AS/NZS 1716 is recommended; however final choice of appropriate breathing
+protection is dependent upon actual airborne concentrations and the type of breathing protection required will vary according to individual
+circumstances. Expert advice may be required to make this decision. Reference should be made to Australian Standards AS/NZS 1715-
+Selection, Use and Maintenance of Respiratory Protective Devices; and AS/NZS 1716- Respiratory Protective Devices.
+Eye Protection: Chemical safety glasses or face shield recommended as appropriate. Final choice of appropriate eye/face protection will
+vary according to individual circumstances including methods of handling or engineering controls as determined by appropriate risk
+assessments. Eye protection should conform to Australian/New Zealand Standard AS/NZS 1337- Eye Protectors for Industrial Applications.
+Hand Protection: Impervious gloves recommended as appropriate. Final choice of appropriate glove type will vary according to
+individual circumstances, including methods of handling or engineering controls as determined by appropriate risk assessments.
+Refer to AS/NZS 2161 Occupational protective gloves- Selection, use and maintenance.
+Other Information: No exposure standards have been established for this material by the National Occupational Health and Safety Commission
+(NOHSC). However, all exposure should be kept to the least possible levels as over-exposure to any chemical may result in enhancement of pre-
+existing adverse medical conditions and/or allergic reactions. Exposure standards for individual constituents are listed above.
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+ Appearance                           Coloured, viscous liquid                              Volatile Component             50% w/w
+ Decomposition Temperature            Not available                                         Melting Point                  Not available
+ Flammability                         Highly Flammable. Keep away from heat,                Specific Gravity               1.15
+                                      sparks, or naked flames.
+ Flash Point                          7°C (from solvent with the lowest flash point)        Solubility in Water            Insoluble
+ Vapour Pressure                      70mm of Hg (20°C)                                     Ignition Temperature           Not applicable
+ Boiling Point                        Approx 80°C                                           Flammable Limits LEL           1.1% v/v
+ pH Value                             Not applicable                                        Flammable Limits UEL           7.70% v/v
+105 Two in One Primer                                           Page 2 of 3                                          Issued: 11/05/2022
+Safety Data Sheet
+
+10. STABILITY AND REACTIVITY
+Chemical stability: Stable. Reacts with oxidising agents.
+Conditions to avoid: Strong oxidising agents.
+
+11. TOXICOLOGICAL INFORMATION
+No adverse health effects expected if the product is handled in accordance with this Safety Data Sheet and the product label.
+Symptoms or effects that may arise if the product is mishandled and overexposure occurs are:
+Ingestion: Harmful if swallowed. May cause irritation to the gastrointestinal system. Systems may include nausea, vomiting,
+diarrhea, headache, abdominal pain, CNS depression, seizures, loss of coordination.
+Eye contact: Will cause irritation to eye which can result in redness, swelling, itching, stinging and excessive tearing.
+Skin contact: Harmful in contact with skin. Absorption through the skin, with symptoms paralleling those following ingestion
+exposures. Will cause irritation to skin, which can result in redness and itching.
+Inhalation: Harmful by inhalation. Will cause irritation to the mucous membrane and upper airways, especially where vapours or mists are
+generated. Symptoms included sneezing, coughing, wheezing, shortness of breath, headache, drowsiness, dizziness, nausea, and vomiting.
+Long Term Effects: Prolonged and repeated exposure through skin contact, inhalation of this material will result in harmful effects
+including central nervous system effects, possibly leading to unconsciousness or death. Repeated or prolonged exposure may also
+cause skin dryness and cracking, leading to skin irritation and possible dermatitis. Possible risk or irreversible effects. May cause
+harm to the unborn child. Possible risk of impaired fertility. Danger of cumulative effects.
+Toxicological Data: No toxicology data is available for this product.
+
+12. ECOLOGICAL INFORMATION
+Ecotoxicity: No data is available for this material.
+Persistence degradability and mobility: No data is available for this material.
+Aquatic toxicity: Avoid contaminating waterways.
+
+13. DISPOSAL CONSIDERATIONS
+Disposal methods: Refer to State Territory Land Waste Management Authority. Dispose of material through a licensed waste
+contractor. Advise flammable nature.
+
+14. TRANSPORT INFORMATION
+Road and Rail Transport            Classified as Dangerous Goods by the criteria of the Australian Dangerous Goods Code (ADG
+                                   Code) for Transport by Road and Rail; DANGEROUS GOODS.
+This material is a Class 3 - Flammable Liquid according to The Australian Code for the Transport of Dangerous Goods by Road
+and Rail. Class 3 - Flammable Liquids are incompatible in a placard load with any of the following:
+-        Class 1, Explosives
+-        Class 2.1, Flammable Gases, if both the Class 3 and Class 2.1 dangerous goods are in bulk
+-        Class 2.3, Toxic Gases
+-        Class 4.2 Spontaneously Combustible Substances
+-        Class 5.1 Oxidising Agents and Class 5.2, Organic Peroxides
+-        Class 6 Toxic Substances (where the flammable liquid is nitromethane)
+-        Class 7 Radioactive Substances.
+ UN No:                            1263                               ADG Packaging Method:            5.9.3RT1
+ Class-primary:                    3                                  ADG EPG Number:                  3C1
+ Packing Group:                    II                                 ADG IERG Number:                 16
+ Proper Shipping Name:             PAINT
+ Hazchem Code:                     3Y
+
+15. REGULATORY INFORMATION
+Classification: This material is hazardous according to criteria of Safe Work Australia; HAZARDOUS SUBSTANCE.
+Poisons Schedule: S5
+Packaging & Labelling: Labelling requirements of the Standard for Uniform Scheduling of Drugs and Poison do not apply to a poison
+that is packed and sold solely for industrial, laboratory or manufacturing purposes; however, it is labelled in accordance with the
+National Occupational Health and Safety Commission’s “National Code of Practice for the Labelling of Workplace Substances”.
+All the constituents of this material are listed on the Australian Inventory of Chemical Substances (AICS).
+
+16. OTHER INFORMATION
+This MSDS summarizes to our best knowledge at the date of issue, the chemical health and safety hazards of the material and general
+guidance on how to safely handle the material in the workplace. Since Topline Paint Pty Ltd cannot anticipate or control the conditions
+under which the product may be used, each user must, prior to usage, assess and control the risks arising from its use of the material.
+Persons dealing with the products to which this information refers do so entirely at their own risk. Topline Paint Pty. Ltd. will accept no
+responsibility whatsoever for the consequences of the use or misuse of this product.
+
+105 Two in One Primer                                         Page 3 of 3                                         Issued: 11/05/2022
+

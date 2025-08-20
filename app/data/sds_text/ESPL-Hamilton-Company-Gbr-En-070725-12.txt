@@ -1,0 +1,495 @@
+                                                                                                                                          Revision date: 4/4/2023
+                                                SAFETY DATA SHEET                                                                         Version:            6.2
+                                                according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]   Replaces version: 6.1
+                                                                                                                                          Language:        en-GB
+
+                                                pH Buffer 4.01 colourless                                                                 Date of print: 6/4/2023
+
+                                                Material number 2388XX                                                                    Page:            1 of 8
+
+
+
+                     SECTION 1: Identification of the substance/mixture and of the
+                                         company/undertaking
+1.1 Product identifier
+Trade name:                    pH Buffer 4.01 colourless
+
+                               This safety data sheet pertains to the following products:
+                               10074856
+                               238826
+                               238827
+                               238833
+                               238951
+UFI:                           0H90-H09J-V007-G24U
+
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+General use:                   Buffer solution, calibration solution
+
+1.3 Details of the supplier of the safety data sheet
+Company name:                  Hamilton Sales & Service UK Ltd.
+Street/POB-No.:                Unit 1 Forge Mills Park
+                               Coleshill
+Postal Code, city:             Birmingham B46 1JH
+                               Great Britain
+WWW:                           www.hamiltoncompany.com
+Department responsible for information:
+                               After-sales service
+                               E-mail: techsupport.pa.ch@hamilton.ch
+                               Compliance
+                               Qualisys GmbH, Germany
+                               E-mail: hamilton@qualisys.eu
+Additional information:        Manufacturer
+                               Hamilton Bonaduz AG
+                               Via Crusch 8
+                               7402 Bonaduz, Switzerland
+
+1.4 Emergency telephone number
+                               GIZ-Nord, Göttingen, Germany,
+                               Telephone: +49 551-19240
+
+
+
+                                               SECTION 2: Hazards identification
+2.1 Classification of the substance or mixture
+Classification according to EC regulation 1272/2008 (CLP)
+                               This mixture is classified as not hazardous.
+
+2.2 Label elements
+Labelling (CLP)
+Hazard statements:             not applicable
+Precautionary statements:      not applicable
+
+
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                              with Qualisys SUMDAT
+                                                                                                                                                  Revision date: 4/4/2023
+                                                      SAFETY DATA SHEET                                                                           Version:            6.2
+                                                      according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]     Replaces version: 6.1
+                                                                                                                                                  Language:        en-GB
+
+                                                      pH Buffer 4.01 colourless                                                                   Date of print: 6/4/2023
+
+                                                      Material number 2388XX                                                                      Page:            2 of 8
+
+
+
+Special labelling
+                                 EUH208               Contains Mixture of 5-chloro-2-methyl-2H-isothiazolin-3-one and
+                                                      2-methyl-2H-isothiazol-3-one (3:1). May produce an allergic reaction.
+                                 EUH210               Safety data sheet available on request.
+
+2.3 Other hazards
+                                 Special danger of slipping by leaking/spilling product.
+Endocrine disrupting properties, Results of PBT and vPvB assessment:
+                                 No data available
+
+
+
+                                 SECTION 3: Composition/information on ingredients
+3.1 Substances: not applicable
+
+3.2 Mixtures
+Chemical characterisation:       Aqueous solution with Potassium hydrogen phthalate
+Hazardous ingredients:
+
+ Identifiers                 Designation                                                                                                        Content
+                             Classification
+ list no. 911-418-6 Mixture of 5-chloro-2-methyl-2H-isothiazolin-3-one and                                                                      < 0.0015 %
+ CAS 55965-84-9 2-methyl-2H-isothiazol-3-one (3:1)
+                             Acute Tox. 3; H301. Acute Tox. 2; H310. Acute Tox. 2; H330.
+                             Skin Corr. 1C; H314. Eye Dam. 1; H318. Skin Sens. 1A; H317.
+                             Aquatic Acute 1; H400. Aquatic Chronic 1; H410. (EUH071).
+                             Specific concentration limits (SCL):
+                             Skin Corr. 1C; H314: C ≥ 0.6 % / Skin Irrit. 2; H315: 0.06 % ≤ C < 0.6 % / Eye Dam. 1; H318: C ≥
+                             0.6 % / Eye Irrit. 2; H319: 0.06 ≤ C < 0.6 %
+                             Skin Sens. 1A; H317: C ≥ 0.0015 %
+                             M-factors:
+                             Aquatic Acute 1: M = 100. Aquatic Chronic 1: M = 100.
+Full text of H- and EUH-statements: see section 16.
+
+
+
+
+                                                        SECTION 4: First aid measures
+4.1 Description of first aid measures
+General information:             If medical advice is needed, have product container or label at hand.
+                                 Take off contaminated clothing and wash it before reuse.
+In case of inhalation:           Move victim to fresh air. In case of respiratory difficulties seek medical attention.
+Following skin contact:          Remove residues with soap and water.
+                                 In case of skin reactions, consult a physician.
+After eye contact:               With eyelids open, wash out eyes for several minutes under flowing water. Remove contact
+                                 lenses, if present and easy to do. Continue rinsing. In case of troubles or persistent symptoms,
+                                 consult an opthalmologist.
+After swallowing:                Rinse mouth and drink large quantities of water.
+                                 If you feel unwell, seek medical advice.
+4.2 Most important symptoms and effects, both acute and delayed
+                                 May cause allergic reactions in already sensitized persons.
+4.3 Indication of any immediate medical attention and special treatment needed
+                                 Treat symptomatically.
+
+
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                                      with Qualisys SUMDAT
+                                                                                                                                              Revision date: 4/4/2023
+                                                    SAFETY DATA SHEET                                                                         Version:            6.2
+                                                    according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]   Replaces version: 6.1
+                                                                                                                                              Language:        en-GB
+
+                                                    pH Buffer 4.01 colourless                                                                 Date of print: 6/4/2023
+
+                                                    Material number 2388XX                                                                    Page:            3 of 8
+
+
+
+                                                    SECTION 5: Firefighting measures
+5.1 Extinguishing media
+Suitable extinguishing media:    Product is non-combustible. Extinguishing materials should therefore be selected according to
+                                 surroundings.
+5.2 Special hazards arising from the substance or mixture
+                                 Fires in the immediate vicinity may cause the development of dangerous vapours.
+5.3 Advice for firefighters
+Special protective equipment for firefighters:
+                                 In case of surrounding fires: Wear self-contained breathing apparatus.
+Additional information:          Hazchem-Code: -
+                                 Use fine water spray to cool endangered containers.
+                                 Do not allow water used to extinguish fire to enter drains, ground or waterways.
+                                 Fire residuals and contaminated extinguishing water must be disposed of in accordance with
+                                 the regulations of the local authorities.
+
+
+
+                                                 SECTION 6: Accidental release measures
+6.1 Personal precautions, protective equipment and emergency procedures
+                                 Avoid contact with skin and eyes. Wear appropriate protective equipment. Take off contaminated
+                                 clothing and wash it before reuse.
+6.2 Environmental precautions
+                                 Do not allow to penetrate into soil, waterbodies or drains.
+6.3 Methods and material for containment and cleaning up
+                                 Soak up with absorbent materials such as sand, siliceus earth, acid- or universal binder. Store
+                                 in special closed containers and dispose of according to ordinance. Wash spill area with plenty
+                                 of water.
+Additional information:          Special danger of slipping by leaking/spilling product.
+6.4 Reference to other sections
+                                 Refer additionally to section 8 and 13.
+
+
+                                                    SECTION 7: Handling and storage
+7.1 Precautions for safe handling
+Advices on safe handling:        Provide adequate ventilation. Avoid contact with skin and eyes. Wear appropriate protective
+                                 equipment. Take off contaminated clothing and wash it before reuse.
+                                 Wash hands thoroughly after handling.
+
+7.2 Conditions for safe storage, including any incompatibilities
+Requirements for storerooms and containers:
+                                 Keep container tightly closed. Store at room temperature.
+                                 Protect from frost.
+                                 Store containers in upright position.
+Hints on joint storage:          Keep away from food, drink and animal feedingstuffs.
+                                 keep away from acids and alkalis
+7.3 Specific end use(s)
+                                 No information available.
+
+
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                                  with Qualisys SUMDAT
+                                                                                                                                          Revision date: 4/4/2023
+                                                SAFETY DATA SHEET                                                                         Version:            6.2
+                                                according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]   Replaces version: 6.1
+                                                                                                                                          Language:        en-GB
+
+                                                pH Buffer 4.01 colourless                                                                 Date of print: 6/4/2023
+
+                                                Material number 2388XX                                                                    Page:            4 of 8
+
+
+
+                                     SECTION 8: Exposure controls/personal protection
+8.1 Control parameters
+Additional information:           Contains no substances with occupational exposure limit values.
+
+8.2 Exposure controls
+                                  Provide good ventilation and/or an exhaust system in the work area.
+
+Personal protection equipment
+Occupational exposure controls
+Respiratory protection:           Provide adequate ventilation.
+Hand protection:                  Protective gloves according to EN 374.
+                                  Glove material: Nitrile rubber or butyl caoutchouc (butyl rubber).
+                                  Breakthrough time: >480 min.
+                                  Observe glove manufacturer's instructions concerning penetrability and breakthrough time.
+Eye protection:                   Tightly sealed goggles according to EN 166.
+Body protection:                  Wear suitable protective clothing.
+General protection and hygiene measures:
+                                  Do not breathe vapours. Do not get in eyes, on skin, or on clothing.
+                                  Do not eat, drink or smoke when using this product.
+                                  Wash hands thoroughly after handling. Take off contaminated clothing and wash it before reuse.
+
+Environmental exposure controls
+                                  Refer to "6.2 Environmental precautions".
+
+
+
+                                           SECTION 9: Physical and chemical properties
+9.1 Information on basic physical and chemical properties
+Appearance:                                     Physical state at 20 °C and 101.3 kPa: liquid
+                                                Colour: colourless
+Odour:                                          Odourless
+Odour threshold:                                No data available
+pH:                                             at 20 °C: 4.0
+Melting point/freezing point:                   No data available
+Initial boiling point and boiling range:        approx. 100 °C
+Flash point/flash point range:                  No data available
+Evaporation rate:                               No data available
+Flammability:                                   No data available
+Explosion limits:                               No data available
+Vapour pressure:                                No data available
+Vapour density:                                 No data available
+Density:                                        at 20 °C: approx. 1.0 g/mL
+Water solubility:                               at 20 °C: Completely miscible
+Partition coefficient: n-octanol/water:         No data available
+Auto-ignition temperature:                      No data available
+Decomposition temperature:                      No data available
+Viscosity, kinematic:                           No data available
+Explosive properties:                           No data available
+Oxidizing characteristics:                      No data available
+
+
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                              with Qualisys SUMDAT
+                                                                                                                                          Revision date: 4/4/2023
+                                                SAFETY DATA SHEET                                                                         Version:            6.2
+                                                according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]   Replaces version: 6.1
+                                                                                                                                          Language:        en-GB
+
+                                                pH Buffer 4.01 colourless                                                                 Date of print: 6/4/2023
+
+                                                Material number 2388XX                                                                    Page:            5 of 8
+
+
+
+9.2 Other information
+Solid content:                                  0.9 - 1.9 %
+Water content:                                  98.1 - 99.1 %
+
+
+
+                                             SECTION 10: Stability and reactivity
+10.1 Reactivity
+                            Refer to subsection "Possilbility of hazardous reactions".
+
+10.2 Chemical stability
+                            Stable under recommended storage conditions.
+
+10.3 Possibility of hazardous reactions
+                            No hazardous reaction when handled and stored according to provisions.
+
+10.4 Conditions to avoid
+                            Protect from frost.
+
+10.5 Incompatible materials
+                            Strong acids and alkalis
+
+10.6 Hazardous decomposition products
+                            No decomposition when used properly.
+Thermal decomposition:      No data available
+
+
+
+                                          SECTION 11: Toxicological information
+11.1 Information on toxicological effects
+Toxicological effects:      The statements are derived from the properties of the single components. No toxicological data
+                            is available for the product as such.
+                            Acute toxicity (oral): Lack of data.
+                            Acute toxicity (dermal): Lack of data.
+                            Acute toxicity (inhalative): Lack of data.
+                            Skin corrosion/irritation: Lack of data.
+                            Serious eye damage/irritation: Lack of data.
+                            Sensitisation to the respiratory tract: Lack of data.
+                            Skin sensitisation: Based on available data, the classification criteria are not met.
+                            Contains Mixture of 5-chloro-2-methyl-2H-isothiazolin-3-one and 2-methyl-2H-isothiazol-3-one
+                            (3:1). May produce an allergic reaction.
+                            Germ cell mutagenicity/Genotoxicity: Lack of data.
+                            Carcinogenicity: Lack of data.
+                            Reproductive toxicity: Lack of data.
+                            Effects on or via lactation: Lack of data.
+                            Specific target organ toxicity (single exposure): Lack of data.
+                            Specific target organ toxicity (repeated exposure): Lack of data.
+                            Aspiration hazard: Lack of data.
+
+
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                              with Qualisys SUMDAT
+                                                                                                                                             Revision date: 4/4/2023
+                                                   SAFETY DATA SHEET                                                                         Version:            6.2
+                                                   according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]   Replaces version: 6.1
+                                                                                                                                             Language:        en-GB
+
+                                                   pH Buffer 4.01 colourless                                                                 Date of print: 6/4/2023
+
+                                                   Material number 2388XX                                                                    Page:            6 of 8
+
+
+
+                                               SECTION 12: Ecological information
+12.1 Toxicity
+Further details:                  No data available
+
+12.2 Persistence and degradability
+Further details:                  No data available
+
+12.3 Bioaccumulative potential
+Partition coefficient: n-octanol/water:
+                                  No data available
+
+12.4 Mobility in soil
+                                  No data available
+
+12.5 Results of PBT and vPvB assessment
+                                  No data available
+
+12.6 Other adverse effects
+General information:              Do not allow to enter undiluted resp. in large quantities into surface water or into drains.
+
+
+
+                                             SECTION 13: Disposal considerations
+13.1 Waste treatment methods
+Product
+Waste key number:                 06 03 14 =   Solid salts and solutions, which contain neither heavy metals nor cyanides
+Recommendation:                   Dispose of waste according to applicable legislation.
+
+Package
+Waste key number:                 15 01 02 =   Plastic packaging
+Recommendation:                   Dispose of waste according to applicable legislation. Non-contaminated packages may be
+                                  recycled.
+
+
+
+                                               SECTION 14: Transport information
+14.1 UN number
+ADR/RID, IMDG, IATA-DGR:          not applicable
+
+14.2 UN proper shipping name
+ADR/RID, IMDG, IATA-DGR:          Not restricted
+
+14.3 Transport hazard class(es)
+ADR/RID, IMDG, IATA-DGR:          not applicable
+
+14.4 Packing group
+ADR/RID, IMDG, IATA-DGR:          not applicable
+
+14.5 Environmental hazards
+Marine pollutant:                 no
+
+14.6 Special precautions for user
+                                  No dangerous good in sense of these transport regulations.
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                                 with Qualisys SUMDAT
+                                                                                                                                                    Revision date: 4/4/2023
+                                                    SAFETY DATA SHEET                                                                               Version:            6.2
+                                                    according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]         Replaces version: 6.1
+                                                                                                                                                    Language:        en-GB
+
+                                                    pH Buffer 4.01 colourless                                                                       Date of print: 6/4/2023
+
+                                                    Material number 2388XX                                                                          Page:            7 of 8
+
+
+
+14.7 Transport in bulk according to Annex II of Marpol and the IBC Code
+                              No data available
+
+
+
+                                                SECTION 15: Regulatory information
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+National regulations - Great Britain
+Hazchem-Code:                 -
+                              No data available
+
+15.2 Chemical Safety Assessment
+                              For this mixture a chemical safety assessment is not required.
+
+
+
+                                                      SECTION 16: Other information
+Further information
+Wording of the H-phrases under paragraph 2 and 3:
+                              EUH208 = Contains Mixture of 5-chloro-2-methyl-2H-isothiazolin-3-one and
+                              2-methyl-2H-isothiazol-3-one (3:1). May produce an allergic reaction.
+                              EUH210 = Safety data sheet available on request.
+                              H301 = Toxic if swallowed.
+                              H310 = Fatal in contact with skin.
+                              H314 = Causes severe skin burns and eye damage.
+                              H317 = May cause an allergic skin reaction.
+                              H318 = Causes serious eye damage.
+                              H330 = Fatal if inhaled.
+                              H400 = Very toxic to aquatic life.
+                              H410 = Very toxic to aquatic life with long lasting effects.
+                              EUH071 = Corrosive to the respiratory tract.
+Abbreviations and acronyms:   ADN: European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways
+                              ADR: European Agreement concerning the International Carriage of Dangerous Goods by Road
+                              Aquatic Acute: Hazardous to the aquatic environment - acute
+                              Aquatic Chronic: Hazardous to the aquatic environment - chronic
+                              AS/NZS: Australian Standards/New Zealand Standards
+                              CAS: Chemical Abstracts Service
+                              CFR: Code of Federal Regulations
+                              CLP: Classification, Labelling and Packaging
+                              DMEL: Derived minimal effect level
+                              DNEL: Derived no-effect level
+                              EC: European Community
+                              EN: European Standard
+                              EQ: Excepted quantities
+                              Eye Dam.: Eye damage
+                              IATA: International Air Transport Association
+                              IATA-DGR: International Air Transport Association – Dangerous Goods Regulations
+                              IBC Code: International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk
+                              IMDG Code: International Maritime Dangerous Goods Code
+                              MARPOL: Maritime Pollution: The International Convention for the Prevention of Pollution from Ships
+                              M-factor: Multiplication factor
+                              Mixture of 5-chloro-2-methyl-2H-isothiazolin-3-one and 2-methyl-2H-isothiazol-3-one (3:1)Acute Tox.: Acute toxicity
+                              OSHA: Occupational Safety and Health Administration
+                              PBT: Persistent, bioaccumulative and toxic
+                              PNEC: Predicted no-effect concentration
+                              RID: Regulations Concerning the International Carriage of Dangerous Goods by Rail
+                              Skin Corr.: Skin corrosion
+                              Skin Sens.: Skin sensitisation
+                              TRGS: Technical Rules for Hazardous Substances
+                              vPvB: Very persistent and very bioaccumulative
+
+Reason of change:             Changes in section 1: Article No.
+Date of first version:        11/6/2014
+Department issuing data sheet
+Contact person:               see section 1: Department responsible for information
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                                        with Qualisys SUMDAT
+                                                                                                                                                               Revision date: 4/4/2023
+                                                     SAFETY DATA SHEET                                                                                         Version:            6.2
+                                                     according to Regulation (EC) No 1907/2006, as retained and amended in UK law [UK REACH]                   Replaces version: 6.1
+                                                                                                                                                               Language:        en-GB
+
+                                                     pH Buffer 4.01 colourless                                                                                 Date of print: 6/4/2023
+
+                                                     Material number 2388XX                                                                                    Page:             8 of 8
+
+
+The information in this data sheet has been established to our best knowledge and was up-to-date at time of revision. It does not represent a guarantee for the properties of the product described
+in terms of the legal warranty regulations.
+
+
+
+                                                                                                                    Most recent product information is available at:
+                                                                                                                                     http://sumdat.net/my6unwa6
+
+
+
+
+Document number 608569/07, printed by HAMILTON Great Britain                                                                                                    with Qualisys SUMDAT
+

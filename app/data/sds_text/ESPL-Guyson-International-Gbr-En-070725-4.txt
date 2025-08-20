@@ -1,0 +1,299 @@
+     Safety Data Sheet according to Regulation (EC) No 1907/2006
+1. IDENTIFICATION OF THE SUBSTANCE / PREPARATION AND OF THE
+COMPANY / UNDERTAKING
+
+
+Product name:                           FLEXGRIT
+Contains:                               Iron Beads
+Intended Use:                           Blast cleaning abrasive for industrial use.
+Supplier:                               Guyson International Ltd.
+                                        Snaygill Industrial Estate,
+                                        Skipton, North Yorkshire.
+                                        BD23 2QR
+
+                                        Tel:               +44 (0)1756 799911
+                                        E-mail             info@guyson.co.uk
+Emergency contact number:                                  +44 (0)1756 799911
+
+
+2. HAZARDS IDENTIFICATION
+
+
+
+Classification:                         Not classified.
+
+
+
+Environment:                            Exposure by of fine powders in large quantities,
+                                        may produce symptoms called metal fume fever
+                                        which last 24/48 hours.
+
+
+
+3. COMPOSITION / INFORMATION ON INGREDIENTS
+
+ITEM                  CONTENT (%)                CAS NO.                EINECS NO.
+Fe                    98.50 min.                 7439-89-6              231-096-4
+
+
+Risk phrases          None known.
+
+
+4. FIRST AID MEASURES
+
+The product may cause temporary mechanical irritation to the eyes, nose, throat and
+lungs.
+
+
+
+
+GHSM001 HS14                   Revision Date: April 2020                        Issue 8    Page 1 of 6
+    Safety Data Sheet according to Regulation (EC) No 1907/2006
+Eye contact                                       Remove contact lenses and rinse the eyes
+                                                  with open eye lids for 10 minutes under
+                                                  running water.
+
+Skin contact                                      Wash off with soap & water. Obtain medical
+                                                  advice if irritation occurs.
+
+Inhalation                                        Move the exposed person to fresh air at
+                                                  once. Perform artificial respiration if
+                                                  necessary. Obtain medical attention as
+                                                  soon as possible.
+
+Ingestion                                         Not normally considered a health hazard.
+                                                  Rinse mouth carefully with water. If any
+                                                  symptoms persist obtain medical advice.
+
+Advice to physician:                              No specific advice. Treat according to
+                                                  symptoms present.
+
+5. FIRE FIGHTING MEASURES
+
+Extinguishing media                               Dry powder extinguisher
+Unsuitable extinguishing media                    No data available
+
+Unusual fire & explosive hazards                  Consideration of dust explosion levels must
+                                                  be considered where the material or
+                                                  substrate being processed creates a
+                                                  possible explosive dust. In this instance
+                                                  refer to the component/metal/substrate
+                                                  suppliers data pertaining to its respective
+                                                  characteristics.
+
+Specific hazards                                  None known.
+Advice for fire-fighters                          Wear self-contained breathing apparatus
+                                                  and protective clothing.
+
+
+6. ACCIDENTAL RELEASE MEASURES
+
+Personal precautions                              Ensure adequate ventilation.
+                                                  Avoid breathing dust. Use appropriate
+                                                  personal protective equipment.
+
+Environmental protection                          Make sure spills can be contained.
+                                                  Do not allow to enter into surface water or
+                                                  drains. Do not allow to enter into soil /
+                                                  subsoil.
+
+
+
+GHSM001 HS14                     Revision Date: April 2020                       Issue 8        Page 2 of 6
+     Safety Data Sheet according to Regulation (EC) No 1907/2006
+Spill clean-up methods                           Ventilate the area thoroughly.
+                                                 Vacuum or sweep up material and place in
+                                                 a suitable container for re-cycling or
+                                                 disposal.
+
+References to other sections                     Section1 - Emergency contact information
+                                                 Section 8 - Personal protective equipment
+                                                 Section 13 - Waste Disposal
+
+7. HANDLING AND STORAGE
+
+Precautions for safe handling                    Prevent formation of dust.
+
+                                                 Use only in well ventilated areas.
+
+                                                 Wear personal protective clothing.
+
+                                                 Wash hands and face before breaks and
+                                                 after work.
+
+Conditions for safe storage                      Covered, dry and naturally ventilated area.
+
+                                                 Avoid placing material on the floor.
+
+                                                 It is advisable to use material within 6
+                                                 months from its forwarding date.
+
+                                                 Do not stack.
+
+8. EXPOSURE CONTROL / PERSONAL PROTECTION
+
+Engineering Measures:                            Preferred methods of use are either in a
+                                                 blast cabinet with a dust collector or in a
+                                                 closed-circuit blasting system.
+
+                                                 If a blast room is used it must have a dust
+                                                 extraction system to keep dust levels
+                                                 below the occupational exposure limits.
+Occupational Exposure Limits
+Formula     CONTENT       CAS NO.           EINECS NO.        Inhalable        Respiratable
+            (%)
+Fe          98.50 min.    7439-89-6         231-096-4         10 mg/m³         5 mg/m³
+
+
+
+Industrial hygiene                               Wash hands before breaks and at end of
+                                                 work.
+
+Personal Protective Equipment                    Blast cabinet
+
+
+GHSM001 HS14                    Revision Date: April 2020                         Issue 8      Page 3 of 6
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+
+
+
+Hand protection                                     Gloves - appropriate gauntlets
+
+Eye protection
+                                                    Safety glasses or tight-fitting protective
+                                                    goggles. EN 166
+
+Respiratory equipment                               Normally, no personal respiratory protection
+                                                    is necessary. A breathing mask is to be
+                                                    worn when handling dust or cleaning out
+                                                    the system. (FFP2 or FFP3)
+
+Body protection                                     With normal use body protection by half or
+                                                    full-body coverall and boots is required.
+
+Personal Protective Equipment                       Blast Room
+                                                    Blasting operatives should wear a CE
+                                                    marked approved blasting helmet.
+
+                                                    Operatives should always wear appropriate
+                                                    gauntlets.
+                                                    Operatives should wear a purpose
+                                                    designed blasters’ suit.
+
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+Appearance                                          Solid, Grey / black powder, metallic.
+Odour                                               Odourless.
+Melting point (°C)                                  1530
+Apparent density                                    2.5 - 4.0 g/cm³.
+Specific weight                                     7.87 g/cm³.
+Ignition temperature in air (°C)                    290 in layer, 320 in cloud.
+Reaction temperature in N 2 (°C)                    200 in layer.
+Minimum explosion concentration in air              120 g/cm³.
+
+Spontaneous flammability                            No.
+Water solubility                                    No.
+
+
+
+
+GHSM001 HS14                       Revision Date: April 2020                         Issue 8       Page 4 of 6
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+10. STABILITY AND REACTIVITY
+
+Reactivity                                       NA.
+
+Chemical stability                               Stable under normal conditions
+
+Possibility of hazardous reactions               Halogens, halides, strong concentrated
+                                                 acids, alkaline oxides.
+
+Conditions to avoid                              Avoid dust formations and contact with
+                                                 water
+
+Incompatible Materials                           Water
+
+Hazardous Decomposition Products                 Acid contact may generate flammable gas.
+
+11. TOXICOLOGICAL INFORMATION
+
+General information                              No specific test reports and/or data
+                                                 publication available at present.
+
+
+
+12. ECOLOGICAL INFORMATION
+
+Ecotoxicity                                      No specific test reports and/or data
+                                                 publication available at present.
+
+
+13. DISPOSAL CONSIDERATIONS
+
+The abrasive must be disposed of in accordance with national legislation and local
+regulations.
+
+Disposal procedures according to the Regulation 2014/1357/EC (replacing annex III of the
+Directive 2008/98/EU) and to the Decision 2014/955/EC amending Decision 2000/532/EC
+on the list of waste according to the Directive 2008/98/EC of the European Parliament and
+of the Council.
+
+The material as supplied is classed as a non-hazardous inert solid waste.
+
+The waste producer must determine if hazardous substances in the coating being
+removed are likely to cause the waste to be hazardous.
+
+14. TRANSPORT INFORMATION
+
+Land Transport (ADR/RID)                         Not classified according to Transport
+                                                 Regulations for Hazardous/Dangerous
+                                                 Goods. Tariff Code 3402 9010
+
+
+
+GHSM001 HS14                    Revision Date: April 2020                       Issue 8     Page 5 of 6
+   Safety Data Sheet according to Regulation (EC) No 1907/2006
+Marine Transport (IMO/IMD)                        Not classified according to Transport
+                                                  Regulations for Hazardous/Dangerous
+                                                  Goods. Tariff Code 3402 9010
+
+Air Transport                                     Not classified according to Transport
+                                                  Regulations for Hazardous/Dangerous
+                                                  Goods. Tariff Code 3402 9010
+
+Transport outside storage areas:                  Protect against moisture
+
+15. REGULARITY INFORMATION
+
+The product known as iron grit is subject to national and European laws in effect.
+
+According to existing European Regulations        Ferrous abrasives are not considered as
+No 1999/45/CE and No 67/548/CEE                   dangerous preparations.
+
+According to European Regulation No               Ferrous abrasives are considered as
+1907/2006/CE (REACH)                              articles.
+
+The substances contained in ferrous               This safety data sheet is written up
+abrasive (in the form of alloys), are not         containing appropriate instructions.
+intended to be released intentionally under
+normal or reasonably foreseeable
+conditions of use.
+
+
+16. OTHER INFORMATION
+
+Disclaimer
+
+It remains the users own responsibility to ensure that the information contained is
+appropriate for the use of this product.
+The information contained herein is to the best of our knowledge accurate, however, as
+circumstances and conditions in which it may be used are beyond our control, we do not
+accept liability for any loss or damage, however arising, which results directly or indirectly
+from the use of such information.
+
+
+
+
+GHSM001 HS14                     Revision Date: April 2020                       Issue 8         Page 6 of 6
+

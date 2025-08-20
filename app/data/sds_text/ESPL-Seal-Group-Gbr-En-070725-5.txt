@@ -1,0 +1,643 @@
+                                            SAFETY DATA SHEET
+                                            This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as
+                                            amended.
+
+
+
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+1.1. Product identifier
+Trade name or designation           THERM-A-FORM™ T646 - Part A
+of the mixture
+Registration number                 Not Available.
+Synonyms                            None.
+SDS number                          PHC-346 EU
+Product code                        65-00-T646-0045, 65-00-T646-0200
+Issue date                          27-January-2015
+Version number                      01
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+     Identified uses               Thermally conductive, cure-in-place, dispensible compound.
+                                   Use pattern: Professional use
+     Uses advised against          None known.
+1.3. Details of the supplier of the safety data sheet
+Supplier
+   Company name                     Parker Hannifin Corp.
+   Address                          Chomerics Europe - Parker Hannifin Ltd., Seal Group
+                                    Unit 6 Century Point, Halifax Road
+                                    High Wycombe, Bucks, HP12 3SL
+                                    UK
+    Division                        Chomerics Division
+    Telephone                       Information                        +44 (0) 1494 455 400
+    e-mail                          chomerics_europe@parker.com
+    Contact person                  Not available.
+1.4. Emergency telephone            INFOTRAC                           001-352-323-3500
+number
+
+SECTION 2: Hazards identification
+2.1. Classification of the substance or mixture
+     The mixture has been assessed and/or tested for its physical, health and environmental hazards and the following classification
+     applies.
+Classification according to Directive 67/548/EEC or 1999/45/EC as amended
+    This preparation does not meet the criteria for classification according to Directive 1999/45/EC as amended.
+Classification according to Regulation (EC) No 1272/2008 as amended
+    This mixture does not meet the criteria for classification according to Regulation (EC) 1272/2008 as amended.
+Hazard summary
+   Physical hazards                 Not classified for physical hazards.
+    Health hazards                  Occupational exposure to the substance or mixture may cause adverse health effects.
+    Environmental hazards           Not classified for hazards to the environment.
+    Specific hazards                When heated above 150°C in air, may release formaldehyde gas.
+    Main symptoms                   May be mildly irritating to skin, eyes and respiratory system. Exposure may cause temporary
+                                    irritation, redness, or discomfort.
+                                    Inhalation of fumes may result in metal fume fever, a flu-like illness. Symptoms of metal fume
+                                    fever may include fever, fatigue, vomiting, muscle aches and shortness of breath.
+                                    Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhoea.
+                                    Avoid heating, which will result in the liberation of formaldehyde gas. Formaldehyde is an eye and
+                                    throat irritant and acute toxicant. Formaldehyde may cause sensitisation by skin contact.
+                                    Formaldehyde has shown limited evidence of a carcinogenic effect.
+2.2. Label elements
+Label according to Regulation (EC) No. 1272/2008 as amended
+   Hazard pictograms             None required according to Regulation (EC) No. 1272/2008.
+    Signal word                     None required according to Regulation (EC) No. 1272/2008.
+    Hazard statements               None required according to Regulation (EC) No. 1272/2008.
+Material name: THERM-A-FORM™ T646 - Part A                                                                                               SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01    Issue date: 27-January-2015                                                            1 / 10
+Precautionary statements
+    Prevention                        None required according to Regulation (EC) No. 1272/2008.
+    Response                          None required according to Regulation (EC) No. 1272/2008.
+    Storage                           None required according to Regulation (EC) No. 1272/2008.
+    Disposal                          None required according to Regulation (EC) No. 1272/2008.
+Supplemental label information      None required according to Regulation (EC) No. 1272/2008.
+2.3. Other hazards                    Other hazards which do not result in classification:
+                                      Burning produces obnoxious and toxic fumes. When heated above 150°C in air, may release
+                                      formaldehyde gas. May be mildly irritating to skin, eyes and respiratory system. Inhalation of fumes
+                                      may result in metal fume fever, a flu-like illness. May cause irritation of the gastrointestinal tract.
+
+                                      PBT assessment: Contains no substances, at reportable levels, considered to be persistent,
+                                      bioaccumulating nor toxic (PBT).
+
+                                      Environmental precautions: Avoid release to the environment.
+
+SECTION 3: Composition/information on ingredients
+3.2. Mixtures
+General information
+    Chemical name                                 %        CAS-No. / EC          REACH Registration No.         INDEX No.         Notes
+                                                               No.
+
+    Aluminium Oxide                           60 - 100       1344-28-1                Not Available.               None.             #
+                                                             215-691-6
+         Classification:       DSD: -
+                               CLP:     -
+
+
+    Silica, Amorphous, Fumed                    1-3         112945-52-5               Not Available.               None.             #
+                                                             231-545-4
+         Classification:       DSD: -
+                               CLP:     -
+
+
+Decomposition
+    Chemical name                                 %       CAS-No. / EC No. REACH Registration No.             INDEX No.          Notes
+
+
+    FORMALDEHYDE                                  Not          50-00-0                Not Available.        605-001-00-5            #
+                                                known.        200-001-8
+
+
+List of abbreviations and symbols that may be used above
+     CLP: Regulation No. 1272/2008.
+     DSD: Directive 67/548/EEC.
+     #: This substance has been assigned Community workplace exposure limit(s).
+     - : Designates the substance is not classified according to the applicable regulations.
+Composition comments                 The full text for all R- and H-phrases is displayed in section 16.
+                                     The above decomposition products are released when the product is heated above 150ºC.
+
+SECTION 4: First aid measures
+General information                   Ensure that medical personnel are aware of the material(s) involved, and take precautions to
+                                      protect themselves. Show this safety data sheet to the doctor in attendance.
+4.1. Description of first aid measures
+     Inhalation                    If inhaled, remove to fresh air. If breathing is difficult, trained personnel should give oxygen. If
+                                   breathing stops, provide artificial respiration. When symptoms persist or in all cases of doubt, seek
+                                   medical advice.
+     Skin contact                  Wash off immediately with soap and plenty of water while removing all contaminated clothes and
+                                   shoes. When symptoms persist or in all cases of doubt, seek medical advice. Wash contaminated
+                                   clothing before reuse.
+     Eye contact                   Rinse immediately with plenty of water, also under the eyelids. When symptoms persist or in all
+                                   cases of doubt, seek medical advice.
+     Ingestion                     Do NOT induce vomiting. Never give anything by mouth to a victim who is unconscious or is
+                                   having convulsions. When symptoms persist or in all cases of doubt, seek medical advice.
+
+
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                               SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01     Issue date: 27-January-2015                                                           2 / 10
+4.2. Most important symptoms       May be mildly irritating to skin, eyes and respiratory system. Exposure may cause temporary
+and effects, both acute and        irritation, redness, or discomfort.
+delayed                            Inhalation of fumes may result in metal fume fever, a flu-like illness. Symptoms of metal fume fever
+                                   may include fever, fatigue, vomiting, muscle aches and shortness of breath.
+                                   Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhoea.
+                                   Avoid heating, which will result in the liberation of formaldehyde gas. Formaldehyde is an eye and
+                                   throat irritant and acute toxicant. Formaldehyde may cause sensitisation by skin contact.
+                                   Formaldehyde has shown limited evidence of a carcinogenic effect.
+4.3. Indication of any             Provide general supportive measures and treat symptomatically.
+immediate medical attention
+and special treatment needed
+
+SECTION 5: Firefighting measures
+General fire hazards               Not classified as flammable.
+5.1. Extinguishing media
+     Suitable extinguishing        Use media suitable to the surrounding fire such as water fog or fine spray, alcohol foams, carbon
+     media                         dioxide and dry chemical.
+    Unsuitable extinguishing       None known.
+    media
+5.2. Special hazards arising       When heated above 150°C in air, may release formaldehyde gas. Burning produces obnoxious and
+from the substance or mixture      toxic fumes. The pressure in sealed containers can increase under the influence of heat. In the
+                                   event of fire the following can be released: Carbon oxides. Formaldehyde. Silicon oxides. Metal
+                                   oxides.
+5.3. Advice for firefighters
+     Special protective            Firefighters should wear proper protective equipment and self-contained breathing apparatus with
+     equipment for firefighters    full face piece operated in positive pressure mode. Firefighters must use standard protective
+                                   equipment including flame retardant coat, helmet with face shield, gloves, rubber boots, and in
+                                   enclosed spaces, SCBA.
+    Special fire fighting          Move containers from fire area if you can do so without risk. Cool containers exposed to heat with
+    procedures                     water spray and remove container, if no risk is involved. Do not allow run-off from fire fighting to
+                                   enter drains or water courses. Dike for water control.
+Specific methods                   Use standard firefighting procedures and consider the hazards of other involved materials.
+
+SECTION 6: Accidental release measures
+6.1. Personal precautions, protective equipment and emergency procedures
+     For non-emergency            Keep people away from and upwind of spill/leak. Wear appropriate personal protective equipment.
+     personnel
+    For emergency responders       Keep unnecessary personnel away. Restrict access to area until completion of clean-up. Wear
+                                   appropriate protective equipment and clothing during clean-up.
+6.2. Environmental precautions     Prevent entry into waterways, sewer, basements or confined areas. If necessary, dike well ahead
+                                   of the spill to prevent runoff into drains, sewers, or any natural waterway or drinking supply.
+                                   Contact local authorities in case of spillage to drain/aquatic environment.
+6.3. Methods and material for      Ventilate the area. Stop leak if you can do so without risk. Eliminate all sources of ignition.
+containment and cleaning up
+                                   Soak up with inert absorbent material (e.g. sand, silica gel, acid binder, universal binder). Pick up
+                                   and transfer to properly labeled containers. Never return spills to original containers for re-use.
+                                   Contact the proper local authorities.
+
+                                   Contaminated absorbent material may pose the same hazards as the spilled product.
+6.4. Reference to other            For personal protection, see section 8. For waste disposal, see section 13 of the SDS.
+sections
+
+SECTION 7: Handling and storage
+7.1. Precautions for safe          Provide adequate ventilation. Wear suitable protective equipment. Avoid breathing dust. Avoid
+handling                           contact with eyes, skin and clothing. Keep away from extreme heat and direct flame. Keep away
+                                   from incompatibles. Keep containers closed when not in use. Wash thoroughly after handling.
+7.2. Conditions for safe           Store in a cool, dry place. Store in a well-ventilated place. Store away from incompatible materials
+storage, including any             (see Section 10 of the SDS). Storage area should be clearly identified, clear of obstruction and
+incompatibilities                  accessible only to trained and authorized personnel. Inspect periodically for damage or leaks.
+7.3. Specific end use(s)           Gap filling.
+
+SECTION 8: Exposure controls/personal protection
+8.1. Control parameters
+
+
+
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                          SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01    Issue date: 27-January-2015                                                       3 / 10
+Occupational exposure limits
+   Finland. Workplace Exposure Limits
+   Components                                      Type                        Value
+   Silica, Amorphous, Fumed                        TWA                         5 mg/m3
+   (CAS 112945-52-5)
+   Decomposition                                   Type                        Value
+   FORMALDEHYDE                                    Ceiling                     1,2 mg/m3
+   (CAS 50-00-0)
+                                                                               1 ppm
+                                                   TWA                         0,37 mg/m3
+                                                                               0,3 ppm
+   France. Threshold Limit Values (VLEP) for Occupational Exposure to Chemicals in France, INRS ED 984
+   Components                                Type                             Value
+   Aluminium Oxide (CAS                            VME                         10 mg/m3
+   1344-28-1)
+   Decomposition                                   Type                        Value
+   FORMALDEHYDE                                    VLE                         1 ppm
+   (CAS 50-00-0)
+                                                   VME                         0,5 ppm
+   Germany. TRGS 900, Limit Values in the Ambient Air at the Workplace
+   Components                               Type                               Value            Form
+
+   Aluminium Oxide (CAS                            AGW                         3 mg/m3          Respirable fraction.
+   1344-28-1)
+                                                                               10 mg/m3         Inhalable fraction.
+   Silica, Amorphous, Fumed                        AGW                         4 mg/m3          Inhalable fraction.
+   (CAS 112945-52-5)
+   Hungary. OELs. Joint Decree on Chemical Safety of Workplaces
+   Components                              Type                                Value            Form
+
+   Aluminium Oxide (CAS                            TWA                         6 mg/m3          Respirable.
+   1344-28-1)
+   Decomposition                                   Type                        Value
+   FORMALDEHYDE                                    STEL                        0,6 mg/m3
+   (CAS 50-00-0)
+                                                   TWA                         0,6 mg/m3
+   Italy. Occupational Exposure Limits
+   Components                                      Type                        Value            Form
+
+   Aluminium Oxide (CAS                            TWA                         1 mg/m3          Respirable fraction.
+   1344-28-1)
+   Decomposition                                   Type                        Value
+   FORMALDEHYDE                                    Ceiling                     0,3 ppm
+   (CAS 50-00-0)
+   Poland. MACs. Minister of Labour and Social Policy Regarding Maximum Allowable Concentrations and Intensities in
+   Working Environment
+   Components                               Type                             Value            Form
+
+   Aluminium Oxide (CAS                            TWA                         2,5 mg/m3        Fume, total dust.
+   1344-28-1)
+                                                                               1,2 mg/m3        Respirable dust and/or
+                                                                                                fume.
+   Decomposition                                   Type                        Value
+   FORMALDEHYDE                                   STEL                         1 mg/m3
+   (CAS 50-00-0)
+                                                  TWA                          0,5 mg/m3
+   Spain. Occupational Exposure Limits
+   Components                                      Type                        Value
+   Aluminium Oxide (CAS                            TWA                         10 mg/m3
+   1344-28-1)
+   Decomposition                                   Type                        Value
+   FORMALDEHYDE                                    STEL                        0,37 mg/m3
+   (CAS 50-00-0)
+                                                                               0,3 ppm
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                             SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01   Issue date: 27-January-2015                                           4 / 10
+     UK. EH40 Workplace Exposure Limits (WELs)
+     Components                             Type                                          Value               Form
+
+     Aluminium Oxide (CAS                            TWA                                  4 mg/m3             Respirable dust.
+     1344-28-1)
+                                                                                          10 mg/m3            Inhalable dust.
+     Silica, Amorphous, Fumed                        TWA                                  6 mg/m3             Inhalable dust.
+     (CAS 112945-52-5)
+                                                                                          2,4 mg/m3           Respirable dust.
+     Decomposition                                   Type                                 Value
+     FORMALDEHYDE                                    STEL                                 2,5 mg/m3
+     (CAS 50-00-0)
+                                                                                          2 ppm
+                                                     TWA                                  2,5 mg/m3
+                                                                                          2 ppm
+Biological limit values             No biological exposure limits noted for the ingredient(s).
+Recommended monitoring              Follow standard monitoring procedures.
+procedures
+Derived no-effect level (DNEL)      Not available.
+
+Predicted no effect                 Not available.
+concentrations (PNECs)
+
+8.2. Exposure controls
+Appropriate engineering             Ensure adequate ventilation, especially in confined areas. Good general ventilation (typically 10 air
+controls                            changes per hour) should be used. Ventilation rates should be matched to conditions. In case of
+                                    insufficient ventilation, wear suitable respiratory equipment.
+Individual protection measures, such as personal protective equipment
+    General information          Personal protection equipment should be chosen according to the CEN standards and in
+                                 discussion with the supplier of the personal protective equipment.
+    Eye/face protection          If product is processed in a manner that generates dusts or fumes, wear as appropriate: Safety
+                                 glasses. Tight fitting safety goggles. See also EN 166.
+                                 Eye wash fountain is recommended.
+     Skin protection
+     - Hand protection              Gloves impervious to the material are recommended. The suitability for a specific workplace
+                                    should be discussed with the producers of the protective gloves. The selected protective gloves
+                                    have to satisfy the specifications of EU Directive 89/689/EEC and the standard EN 374 derived
+                                    from it.
+     - Other                        Wear suitable protective clothing.
+                                    Eye wash facilities and emergency shower must be available when handling this product.
+     Respiratory protection         In case of insufficient ventilation, wear suitable respiratory equipment. The filter class for the
+                                    respirator must be suitable for the maximum expected contaminant concentration
+                                    (gas/vapour/aerosol/particulates) that may arise when handling the product. Seek advice from
+                                    respiratory protection specialists.
+     Thermal hazards                Wear appropriate thermal protective clothing, when necessary.
+Hygiene measures                    Avoid breathing dust. Avoid contact with eyes, skin and clothing. Remove soiled clothing and wash
+                                    it thoroughly before reuse. Handle in accordance with good industrial hygiene and safety practices.
+Environmental exposure              Environmental manager must be informed of all major releases.
+controls
+
+SECTION 9: Physical and chemical properties
+9.1. Information on basic physical and chemical properties
+Appearance
+     Physical state                 Solid.
+     Form                           Paste.
+     Colour                         Yellow
+Odour                               None.
+Odour threshold                     Not available.
+pH                                  Not available.
+Melting point/freezing point        Not available
+Initial boiling point and boiling   Not available
+range
+Flash point                         > 93,3 °C (> 200,0 °F)
+Evaporation rate                    Not available
+Material name: THERM-A-FORM™ T646 - Part A                                                                                          SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01   Issue date: 27-January-2015                                                        5 / 10
+Flammability (solid, gas)            The product is not flammable.
+Upper/lower flammability or explosive limits
+   Flammability limit - lower    Not available.
+   (%)
+    Flammability limit - upper       Not available.
+    (%)
+Vapour pressure                      Not available.
+Vapour density                       Not available.
+Relative density                     > 1 g/cm3
+Solubility(ies)
+    Solubility (water)               Insoluble
+    Solubility (other)               Not available.
+Partition coefficient                Not available.
+(n-octanol/water)
+Auto-ignition temperature            Not available.
+Decomposition temperature            Not available.
+Viscosity                            Not available.
+Explosive properties                 Not explosive.
+Oxidizing properties                 None known.
+9.2. Other information
+     Specific gravity                >1
+    VOC (Weight %)                   Negligible
+
+SECTION 10: Stability and reactivity
+10.1. Reactivity                     The product is stable and non-reactive under normal conditions of use, storage and transport.
+10.2. Chemical stability             Material is stable under normal conditions. When heated above 150°C in air, may release
+                                     formaldehyde gas.
+10.3. Possibility of hazardous       No dangerous reaction known under conditions of normal use. Hazardous polymerisation does not
+reactions                            occur.
+10.4. Conditions to avoid            Heat, flames and sparks. Contact with incompatible materials. Do not use in areas without
+                                     adequate ventilation.
+10.5. Incompatible materials         Acids. Bases. Oxidizing agents. Halogenated materials.
+10.6. Hazardous                      None known. Burning produces obnoxious and toxic fumes. In the event of fire the following can be
+decomposition products               released: Carbon oxides. Formaldehyde. Silicon oxides. Metal oxides.
+
+SECTION 11: Toxicological information
+General information                  Occupational exposure to the substance or mixture may cause adverse effects.
+Information on likely routes of exposure
+    Inhalation                     Mild respiratory irritant.
+    Skin contact                     Direct skin contact may cause slight or mild, transient irritation.
+    Eye contact                      Direct contact with eyes may cause temporary irritation.
+    Ingestion                        May cause irritation of the gastrointestinal tract.
+Symptoms                             May be mildly irritating to skin, eyes and respiratory system. Exposure may cause temporary
+                                     irritation, redness, or discomfort.
+                                     Inhalation of fumes may result in metal fume fever, a flu-like illness. Symptoms of metal fume
+                                     fever may include fever, fatigue, vomiting, muscle aches and shortness of breath.
+                                     Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhoea.
+                                     Avoid heating, which will result in the liberation of formaldehyde gas. Formaldehyde causes
+                                     severe respiratory irritation, lung inflammation and pulmonary edema. Formaldehyde gas causes
+                                     moderate to severe eye irritation. Formaldehyde may cause sensitisation by skin contact.
+                                     Formaldehyde has shown limited evidence of a carcinogenic effect.
+11.1. Information on toxicological effects
+
+Acute toxicity                       According to the classification criteria of the European Union, this product is not considered as
+                                     being an acutely toxic chemical. See below for individual ingredient acute toxicity data.
+
+
+
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                          SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01    Issue date: 27-January-2015                                                        6 / 10
+Components                            Species                                                 Test results
+Aluminium Oxide (CAS 1344-28-1)
+        Acute
+         Dermal
+         LD50                         Rabbit                                                  No data in literature.
+         Inhalation
+         LC50                         Rat                                                     > 2,3 mg/l, 4 hours Dusts (No mortality)
+         Oral
+         LD50                         Rat                                                     > 2000 mg/kg (No mortality)
+Silica, Amorphous, Fumed (CAS 112945-52-5)
+          Acute
+         Dermal
+         LD50                         Rabbit                                                  > 5000 (No mortality)
+         Inhalation
+         LC50                         Rat                                                     > 2,08 mg/l, 4 hours (Dust) (No mortality)
+         Oral
+         LD50                         Rat                                                     3160 mg/kg
+Decomposition                         Species                                                 Test results
+FORMALDEHYDE (CAS 50-00-0)
+      Acute
+         Dermal
+         LD50                         Rabbit                                                  300 mg/kg
+         Inhalation
+         LC50                         Rat                                                     287 ppm, 4 hours (gas)
+         Oral
+         LD50                         Rat                                                     800 mg/kg
+Skin corrosion/irritation           According to the classification criteria of the European Union, the product is not considered as
+                                    being a skin corrosive or irritant.
+Serious eye damage/eye              According to the classification criteria of the European Union, the product is not considered as
+irritation                          causing eye damage or irritation.
+Respiratory sensitisation           Not expected to be a respiratory sensitizer.
+Skin sensitisation                  Not expected to be a skin sensitizer.
+Germ cell mutagenicity              Contains no ingredient listed as a mutagen.
+Carcinogenicity                     Contains no ingredient listed as a carcinogen.
+Reproductive toxicity               Contains no ingredient listed as toxic to reproduction
+Specific target organ toxicity -    According to the classification criteria of the European Union, this product is not expected to
+single exposure                     cause target organ toxicity through single exposures.
+Specific target organ toxicity -    According to the classification criteria of the European Union, this product is not expected to
+repeated exposure                   cause target organ toxicity through repeated exposures.
+Aspiration hazard                   This product is not classified as an aspiration hazard.
+Mixture versus substance            Not available.
+information
+Other information                   Occupational exposure to the substance or mixture may cause adverse effects.
+
+SECTION 12: Ecological information
+12.1. Toxicity                      The product is not classified as environmentally hazardous. However, this does not exclude the
+                                    possibility that large or frequent spills can have a harmful or damaging effect on the environment.
+                                    See below for individual ingredient ecotoxicity data.
+Components                                           Species                                    Test results
+Aluminium Oxide (CAS 1344-28-1)
+        Aquatic
+         Acute
+         Algae                     EC50              Green Algae (Pseudokirchneriella           > 100 mg/l, 72 hours
+                                                     subcapitata)
+         Crustacea                 EC50              Water flea (Daphnia magna)                 > 100 mg/l, 48 hours
+         Fish                      LC50              Brown trout (Salmo trutta)                 > 100 mg/l, 96 hours
+
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                            SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01   Issue date: 27-January-2015                                                          7 / 10
+Components                                          Species                                     Test results
+Silica, Amorphous, Fumed (CAS 112945-52-5)
+         Aquatic
+        Acute
+        Algae                     EC50              Green Algae (Scenedesmus                    > 10000 mg/l, 72 hours
+                                                    subspicatus)
+        Crustacea                 EC50              Water flea (Daphnia magna)                  > 10000 mg/l, 24 hours
+Decomposition                                       Species                                     Test results
+FORMALDEHYDE (CAS 50-00-0)
+        Aquatic
+        Acute
+        Crustacea                 EC50              Water flea (Daphnia magna)                  5,8 mg/l, 48 hours
+        Fish                      LC50              Striped bass (Morone saxatilis)             6,7 mg/l, 96 hours
+        Chronic
+        Fish                      NOEC              Japanese rice fish (Oryzias latipes)        > 48 mg/l, 28 days
+12.2. Persistence and              No data is available on the degradability of this product.
+degradability
+12.3. Bioaccumulative potential    The product itself has not been tested. See the following data for ingredient information.
+Partition coefficient
+n-octanol/water (log Kow)
+    Silica, Amorphous, Fumed                                          0,53 (calculated)
+    FORMALDEHYDE                                                      0,35
+Bioconcentration factor (BCF)      Not available.
+    FORMALDEHYDE                                                     3
+12.4. Mobility in soil             The product itself has not been tested.
+12.5. Results of PBT               Contains no substances, at reportable levels, considered to be persistent, bioaccumulating nor
+and vPvB                           toxic (PBT).
+assessment
+12.6. Other adverse effects        No other adverse environmental effects (e.g. ozone depletion, photochemical ozone creation
+                                   potential, endocrine disruption, global warming potential) are expected from this component.
+
+SECTION 13: Disposal considerations
+13.1. Waste treatment methods
+Residual waste                     Dispose of in accordance with local regulations. Empty containers or liners may retain some
+                                   product residues. This material and its container must be disposed of in a safe manner (see:
+                                   Disposal instructions).
+Contaminated packaging             Empty containers should be taken to an approved waste handling site for recycling or disposal.
+                                   Since emptied containers may retain product residue, follow label warnings even after container is
+                                   emptied.
+EU waste code                      The Waste code should be assigned in discussion between the user, the producer and the waste
+                                   disposal company.
+Disposal methods/information       Collect and reclaim or dispose in sealed containers at licensed waste disposal site.
+Special precautions                Dispose in accordance with all applicable regulations.
+
+SECTION 14: Transport information
+ADR
+    Not regulated as dangerous goods.
+RID
+    Not regulated as dangerous goods.
+IATA
+    Not regulated as dangerous goods.
+IMDG
+    Not regulated as dangerous goods.
+14.7. Transport in bulk          Not available.
+according to Annex II of
+MARPOL 73/78 and the IBC
+Code
+General information                This product does not meet the criteria for an environmentally hazardous mixture, according to the
+                                   IMDG Code. See ECOLOGICAL INFORMATION, Section 12.
+
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                        SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01   Issue date: 27-January-2015                                                      8 / 10
+SECTION 15: Regulatory information
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+EU regulations
+    Regulation (EC) No. 1005/2009 on substances that deplete the ozone layer, Annex I
+       Not listed.
+    Regulation (EC) No. 1005/2009 on substances that deplete the ozone layer, Annex II
+       Not listed.
+    Regulation (EC) No. 850/2004 On persistent organic pollutants, Annex I as amended
+       Not listed.
+    Regulation (EC) No. 689/2008 concerning the export and import of dangerous chemicals, Annex I, part 1 as amended
+       Not listed.
+    Regulation (EC) No. 689/2008 concerning the export and import of dangerous chemicals, Annex I, part 2 as amended
+       Not listed.
+    Regulation (EC) No. 689/2008 concerning the export and import of dangerous chemicals, Annex I, part 3 as amended
+       Not listed.
+    Regulation (EC) No. 689/2008 concerning the export and import of dangerous chemicals, Annex V as amended
+       Not listed.
+    Regulation (EC) No. 166/2006 Annex II Pollutant Release and Transfer Registry
+       Not listed.
+    Regulation (EC) No. 1907/2006, REACH Article 59(10) Candidate List as currently published by ECHA
+         Not listed.
+Authorisations
+    Regulation (EC) No. 1907/2006, REACH Annex XIV Substances subject to authorization, as amended
+         Not listed.
+Restrictions on use
+    Regulation (EC) No. 1907/2006, REACH Annex XVII Substances subject to restriction on marketing and use as amended
+        Not listed.
+    Directive 2004/37/EC: on the protection of workers from the risks related to exposure to carcinogens and mutagens at
+    work
+        Not listed.
+    Directive 92/85/EEC: on the safety and health of pregnant workers and workers who have recently given birth or are
+    breastfeeding
+         Not listed.
+Other EU regulations
+    Directive 96/82/EC (Seveso II) on the control of major-accident hazards involving dangerous substances
+        Not listed.
+    Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents at work
+        Not listed.
+    Directive 94/33/EC on the protection of young people at work
+        Not listed.
+Other regulations                  The product is classified and labelled in accordance with EC directives or respective national laws.
+                                   This Safety Data Sheet complies with the requirements of Regulation (EC) No 1907/2006.
+National regulations               Young people under 18 years old are not allowed to work with this product according to EU
+                                   Directive 94/33/EC on the protection of young people at work.
+                                   Follow national regulation for work with chemical agents.
+                                   German legislation on water endangering substances VwVwS: Water contaminating class - 1 (self
+                                   classified)
+15.2. Chemical safety              No Chemical Safety Assessment has been carried out.
+assessment
+
+SECTION 16: Other information
+List of abbreviations
+                                   ADR: European Agreement concerning the International Carriage of Dangerous Goods by Road
+                                   AGW: Arbeitsplatzgrenzwert (Workplace limit value)
+                                   CAS: Chemical Abstract Services
+                                   CEN: Comité Européen de Normalisation (European Committee for Standardization)
+                                   CLP: Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and
+                                   mixtures
+                                   DPD: Directive 1999-45-EC / Dangerous Preparations Directive.
+                                   DSD: Directive 67/548-EC / Dangerous Substances Directive.
+                                   EC: European Community
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                       SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01   Issue date: 27-January-2015                                                      9 / 10
+                                   EC50: Effective Concentration 50%.
+                                   ECHA: European Chemical Agency.
+                                   EEC: European Economic Community
+                                   EN: European Standard
+                                   EU: European Union
+                                   HSDB® - Hazardous Substances Data Bank
+                                   IATA: International Air Transport Association
+                                   IBC: Intermediate Bulk Container
+                                   IMDG: International Maritime Dangerous Goods
+                                   INRS: L'Institut national de recherche et de sécurité
+                                   LC: Lethal Concentration
+                                   LD: Lethal Dose
+                                   MAC: Maximaal Aanvaarde Concentratie (Maximum Accepted Concentration)
+                                   NOEC: No observable effect concentration
+                                   OECD: Organisation for Economic Cooperation and Development
+                                   OEL: National occupational exposure limits
+                                   PEL: Permissible exposure limit
+                                   RID: Regulations concerning the International Carriage of Dangerous Goods by Rail
+                                   RTECS: Registry of Toxic Effects of Chemical Substances
+                                   SCBA: self-contained breathing apparatus
+                                   SDS: Safety Data Sheet
+                                   STEL: Short Term Exposure Limit
+                                   TRGS: Technischen Regeln für Gefahrstoffe (Technical Rules for Hazardous Substances)
+                                   TWA: Time Weighted Average
+                                   UN: United Nations
+                                   VLE: Valeurs limites d’exposition (Exposure limit value)
+                                   VME: valeurs limites de moyenne d’exposition (Average exposure limit value)
+References                         Canadian Centre for Occupational Health and Safety, CCInfoWeb Databases, 2015
+                                   (Chempendium, RTECs, HSDB, INCHEM)
+                                   European Chemicals Agency, Classification Legislation, 2015.
+                                   European Chemicals Bureau, Existing Chemicals Work Area, EINECS Information System, 2015.
+                                   Material Safety Data Sheet from manufacturer.
+                                   OECD - The Global Portal to Information on Chemical Substances - eChemPortal, 2015.
+Information on evaluation          The classification for health and environmental hazards is derived by a combination of calculation
+method leading to the              methods and test data, if available.
+classification of mixture
+Full text of any statements or     None.
+R-phrases and H-statements
+under Sections 2 to 15
+Revision information               None.
+Training information               Follow training instructions when handling this material.
+Disclaimer                         Prepared by: ICC The Compliance Center Inc. 1-888-442-9628
+                                   http://www.thecompliancecenter.com
+
+                                   Disclaimer
+                                   This Safety Data Sheet was prepared by ICC The Compliance Center Inc. using information
+                                   provided by / obtained from Parker Hannifin Corp. and CCOHS’ Web Information Service. The
+                                   information in the Safety Data Sheet is offered for your consideration and guidance when exposed
+                                   to this product. ICC The Compliance Center Inc. and Parker Hannifin Corp. expressly disclaim all
+                                   expressed or implied warranties and assume no responsibilities for the accuracy or completeness
+                                   of the data contained herein. The data in this SDS does not apply to use with any other product or
+                                   in any other process.
+
+                                   This Safety Data Sheet may not be changed, or altered in any way without the expressed
+                                   knowledge and permission of ICC The Compliance Center Inc. and Parker Hannifin Corp.
+
+
+
+
+Material name: THERM-A-FORM™ T646 - Part A                                                                                       SDS EU
+65-00-T646-0045, 65-00-T646-0200 Version #: 01   Issue date: 27-January-2015                                                    10 / 10
+

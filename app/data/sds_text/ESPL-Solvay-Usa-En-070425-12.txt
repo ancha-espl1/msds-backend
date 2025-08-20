@@ -1,0 +1,1526 @@
+                                                  SAFETY DATA SHEET
+
+
+
+
+                                                               Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                               Revision Date    07/10/2023
+
+
+
+
+SECTION 1: Identification of the substance/mixture and of the company/undertaking
+
+1.1 Product identifier
+
+             -   Trade name                             Interox® Chemical Grade 70% Hydrogen Peroxide
+             -   Chemical name                          Hydrogen peroxide
+             -   Synonyms                               Hydroperoxide
+             -   Molecular formula                      H2O2
+
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+
+    Uses of the Substance / Mixture
+
+           Industry sector
+             - Manufacture of pulp
+             - Manufacture of paper
+             - Manufacture of chemical products
+
+
+
+1.3 Details of the supplier of the safety data sheet
+
+         Company
+
+            SOLVAY CHEMICALS, INC.
+            1130 Independence Pkwy South,
+            La Porte, TX 77571
+            Tel: +1-800-443-2785
+
+
+
+1.4 Emergency telephone
+
+              FOR EMERGENCIES INVOLVING A SPILL, LEAK, FIRE, EXPOSURE OR ACCIDENT, CONTACT CHEMTREC (24-Hour
+              Number): +1-800-424-9300 within the United States and Canada, or +1-703-527-3887 for international collect calls.
+
+
+
+
+SECTION 2: Hazards identification
+
+Although OSHA has not adopted the environmental portion of the GHS regulations, this document may include information on
+environmental effects.
+
+2.1 Classification of the substance or mixture
+
+    HCS 2012 (29 CFR 1910.1200)
+
+          Oxidizing liquids, Category 1                            H271:   May cause fire or explosion; strong oxidizer.
+          Acute toxicity, Category 4                               H302:   Harmful if swallowed.
+          Skin corrosion, Category 1A                              H314:   Causes severe skin burns and eye damage.
+          Serious eye damage, Category 1                           H318:   Causes serious eye damage.
+          Specific target organ toxicity - single exposure,        H335:   May cause respiratory irritation. (Respiratory system)
+          Category 3
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+1 / 19
+                                                 SAFETY DATA SHEET
+
+
+
+
+                                                                Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                                   Revision Date   07/10/2023
+
+
+2.2 Label elements
+
+    HCS 2012 (29 CFR 1910.1200)
+
+         Pictogram
+
+
+
+
+         Signal Word
+          -  Danger
+
+         Hazard Statements
+          -  H271                                May cause fire or explosion; strong oxidizer.
+          -  H302                                Harmful if swallowed.
+          -  H314                                Causes severe skin burns and eye damage.
+          -  H335                                May cause respiratory irritation.
+
+         Precautionary Statements
+           Prevention
+           -   P210                             Keep away from heat.
+           -   P220                             Keep/Store away from clothing/ combustible materials.
+           -   P221                             Take any precaution to avoid mixing with combustibles.
+           -   P261                             Avoid breathing mist or vapors.
+           -   P264                             Wash skin thoroughly after handling.
+           -   P270                             Do not eat, drink or smoke when using this product.
+           -   P271                             Use only outdoors or in a well-ventilated area.
+           -   P280                             Wear protective gloves/ protective clothing/ eye protection/ face protection.
+           -   P283                             Wear fire/ flame resistant/ retardant clothing.
+           Response
+           -   P301 + P312 + P330               IF SWALLOWED: Call a POISON CENTER/ doctor if you feel unwell. Rinse mouth.
+           -   P301 + P330 + P331               IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.
+           -   P303 + P361 + P353               IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with
+                                                water/ shower.
+           -   P304 + P340 + P310               IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+                                                Immediately call a POISON CENTER/ doctor.
+           -   P305 + P351 + P338 + P310        IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if
+                                                present and easy to do. Continue rinsing. Immediately call a POISON CENTER/ doctor.
+           -   P306 + P360                      IF ON CLOTHING: rinse immediately contaminated clothing and skin with plenty of water
+                                                before removing clothes.
+           -   P363                             Wash contaminated clothing before reuse.
+           -   P370 + P378                      In case of fire: Use water spray to extinguish.
+           -   P371 + P380 + P375               In case of major fire and large quantities: Evacuate area. Fight fire remotely due to the
+                                                risk of explosion.
+           Storage
+           -   P403 + P233                      Store in a well-ventilated place. Keep container tightly closed.
+           -   P405                             Store locked up.
+           Disposal
+           -   P501                             Dispose of contents/ container to an approved waste disposal plant.
+
+2.3 Other hazards which do not result in classification
+
+           -   H401: Toxic to aquatic life.
+           -   H412: Harmful to aquatic life with long lasting effects.
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+2 / 19
+                                                       SAFETY DATA SHEET
+
+
+
+
+                                                                     Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                                     Revision Date   07/10/2023
+
+
+SECTION 3: Composition/information on ingredients
+
+3.1 Substance
+
+              -       Not applicable, this product is a mixture.
+
+3.2 Mixture
+
+              -       Synonyms                             Hydroperoxide, Hydrogen dioxide, Hydrogen peroxide, aqueous solution
+              -       Formula                              H2O2
+              -       Chemical name                        Hydrogen peroxide
+
+    Hazardous Ingredients and Impurities
+
+                                                                              Identification number
+                                 Chemical name                                                                Concentration [%]
+                                                                                     CAS-No.
+ Hydrogen peroxide (H2O2)                                                  7722-84-1                   70
+
+
+
+SECTION 4: First aid measures
+
+4.1 Description of first-aid measures
+
+         General advice
+
+                  -   Show this material safety data sheet to the doctor in attendance.
+
+         In case of inhalation
+
+                  -   Move to fresh air.
+                  -   Oxygen or artificial respiration if needed.
+                  -   Victim to lie down in the recovery position, cover and keep him warm.
+                  -   Call a physician immediately.
+
+         In case of skin contact
+
+                  -   Take off contaminated clothing and shoes immediately.
+                  -   Wash off immediately with plenty of water.
+                  -   Keep warm and in a quiet place.
+                  -   Call a physician or poison control center immediately.
+                  -   Wash contaminated clothing before re-use.
+
+         In case of eye contact
+
+                  -   Call a physician or poison control center immediately.
+                  -   Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.
+                  -   In the case of difficulty of opening the lids, administer an analgesic eye wash (oxybuprocaine).
+                  -   Take victim immediately to hospital.
+
+         In case of ingestion
+
+                  -   Call a physician or poison control center immediately.
+                  -   Take victim immediately to hospital.
+                  -   If swallowed, rinse mouth with water (only if the person is conscious).
+                  -   Do NOT induce vomiting.
+                  -   Artificial respiration and/or oxygen may be necessary.
+
+                  -   If victim is conscious:
+                  -   If swallowed, rinse mouth with water (only if the person is conscious).
+                  -   Do NOT induce vomiting.
+
+                  -   If victim is unconscious:
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+3 / 19
+                                                 SAFETY DATA SHEET
+
+
+
+
+                                                                Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                              Revision Date   07/10/2023
+
+
+              -   Artificial respiration and/or oxygen may be necessary.
+
+4.2 Most important symptoms and effects, both acute and delayed
+
+         In case of inhalation
+
+            Symptoms
+             - Breathing difficulties
+             - Cough
+             - pulmonary edema
+             - Nausea
+             - Vomiting
+
+            Effects
+             -   Corrosive to respiratory system.
+             Repeated or prolonged exposure
+
+              -   Nose bleeding
+              -   Risk of chronic bronchitis
+
+         In case of skin contact
+
+            Symptoms
+             - Redness
+             - Swelling of tissue
+
+            Effects
+             -   Corrosive
+             -   Causes severe burns.
+
+         In case of eye contact
+
+            Symptoms
+             - Redness
+             - Lachrymation
+             - Swelling of tissue
+
+            Effects
+             -   Corrosive
+             -   Causes severe burns.
+             -   Small amounts splashed into eyes can cause irreversible tissue damage and blindness.
+
+         In case of ingestion
+
+            Symptoms
+             - Nausea
+             - Abdominal pain
+             - Bloody vomiting
+             - Diarrhea
+             - Suffocation
+             - Cough
+             - Severe shortness of breath
+
+            Effects
+             -   If ingested, severe burns of the mouth and throat, as well as a danger of perforation of the esophagus and the
+                 stomach.
+             -   Risk of respiratory disorder
+
+4.3 Indication of any immediate medical attention and special treatment needed
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+4 / 19
+                                                      SAFETY DATA SHEET
+
+
+
+
+                                                                      Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                                       Revision Date   07/10/2023
+
+
+    Notes to physician
+
+                  -   Take victim immediately to hospital.
+                  -   Immediate medical attention is required.
+                  -   Consult with an ophthalmologist immediately in all cases.
+                  -   Burns must be treated by a physician.
+                  -   If swallowed
+                  -   Avoid gastric lavage (risk of perforation).
+                  -   Keep under medical supervision for at least 48 hours.
+
+
+
+
+SECTION 5: Firefighting measures
+
+         Flash point                                         Not applicable
+
+
+
+         Autoignition temperature                            The product is not flammable.
+
+         Flammability / Explosive limit                      No data available
+
+5.1 Extinguishing media
+
+         Suitable extinguishing media
+
+                  -   Water
+                  -   Water spray
+
+         Unsuitable extinguishing media
+
+                  -   None.
+
+5.2 Special hazards arising from the substance or mixture
+
+                  -   Oxidizing
+                  -   If subject to contamination or heating it will release oxygen which may intensify an existing fire.
+                  -   If heated under confinement there is a risk of pressure burst.
+                  -   Contact with flammable or combustible liquids could initiate a fire.
+                  -   Mixing with flammable or combustible liquids can create potentially explosive mixtures.
+
+
+
+5.3 Advice for firefighters
+
+         Special protective equipment for fire-fighters
+
+              -   In the event of fire, wear self-contained breathing apparatus.
+              -   Use personal protective equipment.
+              -   Wear chemical resistant oversuit
+         Further information
+
+              -       Keep product and empty container away from heat and sources of ignition.
+              -       Keep containers and surroundings cool with water spray.
+              -       Approach from upwind.
+              -       Prevent fire extinguishing water from contaminating surface water or the ground water system.
+
+
+
+
+SECTION 6: Accidental release measures
+
+6.1 Personal precautions, protective equipment and emergency procedures
+
+         Advice for non-emergency personnel
+
+                  -   Evacuate personnel to safe areas.
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+5 / 19
+                                                     SAFETY DATA SHEET
+
+
+
+
+                                                                    Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                                Revision Date   07/10/2023
+
+
+                 -   Keep people away from and upwind of spill/leak.
+
+         Advice for emergency responders
+
+                 -   Use personal protective equipment.
+                 -   Drying of this product on clothing or combustible materials may cause fire.
+                 -   Keep wetted with water.
+                 -   Prevent further leakage or spillage.
+                 -   Keep away from incompatible products
+
+6.2 Environmental precautions
+
+                 -   Should not be released into the environment.
+                 -   If the product contaminates rivers and lakes or drains inform respective authorities.
+
+
+
+6.3 Methods and materials for containment and cleaning up
+
+             -       Dilute with plenty of water.
+             -       Dam up.
+             -       Do not mix waste streams during collection.
+             -       Soak up with inert absorbent material.
+             -       Keep in properly labeled containers.
+             -       Keep in suitable, closed containers for disposal.
+             -       Treat recovered material as described in the section "Disposal considerations".
+
+6.4 Reference to other sections
+
+                 -   Refer to protective measures listed in sections 7 and 8.
+
+
+
+
+SECTION 7: Handling and storage
+
+7.1 Precautions for safe handling
+
+                 -   Use only in well-ventilated areas.
+                 -   Before all operations, passivate the piping circuits and vessels according to the procedure recommended by the
+                     producer.
+                 -   Use only clean and dry utensils.
+                 -   Never return unused material to storage receptacle.
+                 -   Keep away from heat.
+                 -   Avoid inhalation, ingestion and contact with skin and eyes.
+                 -   Keep away from incompatible products
+
+    Hygiene measures
+
+             -       Ensure that eyewash stations and safety showers are close to the workstation location.
+             -       Take off contaminated clothing and shoes immediately.
+             -       Wash contaminated clothing before re-use.
+             -       When using do not eat, drink or smoke.
+             -       Wash hands before breaks and at the end of workday.
+             -       Handle in accordance with good industrial hygiene and safety practice.
+
+7.2 Conditions for safe storage, including any incompatibilities
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+6 / 19
+                                                      SAFETY DATA SHEET
+
+
+
+
+                                                                        Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                                 Revision Date   07/10/2023
+
+
+    Technical measures/Storage conditions
+
+                 -   Keep only in the original container.
+                 -   Store in a well-ventilated place. Keep cool.
+                 -   Store in a receptacle equipped with a vent.
+                 -   Keep in properly labeled containers.
+                 -   Keep container closed.
+                 -   Keep in a contained area
+                 -   Keep away from heat/ sparks/ open flames/ hot surfaces. No smoking.
+                 -   Regularly check the condition and temperature of the containers.
+
+                 -   Keep away from:
+                 -   Incompatible products
+
+         Packaging material
+
+             Suitable material
+             -  aluminum 99.5%
+             -  stainless steel 304L / 316L
+             -  Approved grades of HDPE.
+
+7.3 Specific end use(s)
+
+             -       Contact your supplier for additional information
+
+
+SECTION 8: Exposure controls/personal protection
+
+Introductory Remarks: These recommendations provide general guidance for handling this product. Because specific work
+environments and material handling practices vary, safety procedures should be developed for each intended application. Assistance
+with selection, use and maintenance of worker protection equipment is generally available from equipment manufacturers.
+
+8.1 Control parameters
+
+    Components with workplace occupational exposure limits
+
+                         Components                        Value type         Value                          Basis
+ Hydrogen peroxide (H2O2)                                  TWA             1 ppm        National Institute for Occupational Safety and
+                                                                           1.4 mg/m3    Health
+
+
+ Hydrogen peroxide (H2O2)                                  TWA             1 ppm        American Conference of Governmental
+                                                                                        Industrial Hygienists
+
+
+
+ Hydrogen peroxide (H2O2)                                  TWA             1 ppm        Occupational Safety and Health Administration
+                                                                           1.4 mg/m3    - Table Z-1 Limits for Air Contaminants
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+7 / 19
+                                                  SAFETY DATA SHEET
+
+
+
+
+                                                                  Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                            Revision Date   07/10/2023
+
+
+
+    NIOSH IDLH (Immediately Dangerous to Life or Health Concentrations)
+
+                    Components                                    CAS-No.                           Concentration
+ Hydrogen peroxide (H2O2)                                 7722-84-1                75 parts per million
+
+
+
+8.2 Exposure controls
+
+    Control measures
+
+         Engineering measures
+           -  Provide adequate ventilation.
+           -  Apply technical measures to comply with the occupational exposure limits.
+
+    Individual protection measures
+
+          Respiratory protection
+           -  Use respirator when performing operations involving potential exposure to vapor of the product.
+           -  When workers are facing concentrations above the exposure limit they must use appropriate certified respirators.
+           -  Respirator with a vapor filter (EN 141)
+           - Recommended Filter type:         ABEK-P2
+           -  Respirator with a vapor filter
+           -  Self-contained breathing apparatus in case of: 1) large uncontrolled emissions, 2) insufficient oxygen, 3) the mask
+              and cartridge do not give adequate protection.
+
+         Hand protection
+          -  Impervious gloves
+          -  Take note of the information given by the producer concerning permeability and break through times, and of special
+             workplace conditions (mechanical strain, duration of contact).
+          Suitable material
+          -  PVC
+          -  Natural Rubber
+          -  butyl-rubber
+          -  Nitrile rubber
+          -  Nitrile/Neopren gloves
+
+
+
+         Eye protection
+           -  Chemical resistant goggles must be worn.
+           -  If splashes are likely to occur, wear:
+           -  Tightly fitting safety goggles
+           -  Face-shield
+
+         Skin   and body protection
+           -     Impervious clothing
+           -     If splashes are likely to occur, wear:
+           -     Chemical resistant apron
+           -     Boots
+
+            -   Suitable material
+            -   PVC
+            -   Natural Rubber
+
+         Hygiene measures
+           -  Ensure that eyewash stations and safety showers are close to the workstation location.
+           -  Take off contaminated clothing and shoes immediately.
+           -  Wash contaminated clothing before re-use.
+           -  When using do not eat, drink or smoke.
+           -  Wash hands before breaks and at the end of workday.
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+8 / 19
+                                                    SAFETY DATA SHEET
+
+
+
+
+                                                                   Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                            Revision Date   07/10/2023
+
+
+                 -   Handle in accordance with good industrial hygiene and safety practice.
+
+
+
+
+SECTION 9: Physical and chemical properties
+
+Physical and Chemical properties here represent typical properties of this product. Contact the business area using the Product
+information phone number in Section 1 for its exact specifications.
+
+9.1 Information on basic physical and chemical properties
+
+
+         Physical state                               liquid
+
+         Color                                        colorless
+
+         Odor                                         odorless
+
+         Odor Threshold                               No data available
+
+         Melting point/freezing point                 Freezing point: 31.23 °F (-0.43 °C)
+                                                      Pure substance
+                                                      Freezing point: -40.5 °F (-40.3 °C)
+                                                      H2O2 70 %
+
+         Initial boiling point and boiling range      Boiling point/boiling range: 302.4 °F (150.2 °C)
+                                                      Pure substance
+                                                      Boiling point/boiling range: 257 °F (125 °C)
+                                                      H2O2 70 %
+
+         Flammability (solid, gas)                    Not applicable
+
+         Flammability (liquids)                       The product is not flammable.
+
+         Flammability / Explosive limit               No data available
+
+         Flash point                                  Not applicable
+
+         Autoignition temperature                     No data available
+
+         Decomposition temperature                    >= 140 °F (>= 60 °C)
+                                                      Self-Accelerating decomposition temperature (SADT)
+
+                                                      < 140 °F (< 60 °C)
+                                                      Slow decomposition
+
+
+
+         pH                                           2.0 ( 100 %) ( 70 °F (21 °C))
+                                                      H2O2 50 %, (undiluted)
+                                                      pKa: 11.6 ( 77 °F (25 °C))
+
+         Viscosity                                    Viscosity, dynamic : 1.26 mPa.s ( 68 °F (20 °C))
+                                                      H2O2 70 %
+                                                      1.249 mPa.s ( 68 °F (20 °C))
+                                                      Pure substance
+
+         Solubility                                   Water solubility:
+                                                      soluble
+
+
+         Partition coefficient: n-octanol/water       log Pow: -1.57
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+9 / 19
+                                               SAFETY DATA SHEET
+
+
+
+
+                                                             Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                             Revision Date    07/10/2023
+
+
+
+                                                 Method: Calculation method
+
+
+     Vapor pressure                              1.50 mmHg (2 hPa) ( 86 °F (30 °C))
+                                                 H2O2 70 %
+                                                 1.61 mmHg (2.14 hPa) ( 68 °F (20 °C))
+                                                 Pure substance
+
+     Density                                     Bulk density: Not applicable
+
+     Relative density                            1.29
+                                                 H2O2 70 %
+                                                 1.44 ( 77 °F (25 °C))
+                                                 Pure substance
+
+     Relative vapor density                      1.02
+
+     Particle characteristics                    No data available
+
+     Evaporation rate (Butylacetate = 1)         No data available
+
+9.2 Other information
+
+
+     Explosiveness                               Not explosive
+
+     Explosiveness                               With certain materials (see section 10).
+
+     Oxidizing properties                        May cause fire or explosion; strong oxidizer., The substance or mixture is
+                                                 classified as oxidizing with the category 1.
+
+     Self-ignition                               The product is not flammable.
+
+     Surface tension                             77.2 mN/m ( 68 °F (20 °C))
+                                                 H2O2 70 %
+
+                                                 80.4 mN/m ( 68 °F (20 °C))
+                                                 Pure substance
+
+     Molecular weight                             34 g/mol
+
+     Henry's Constant                            0.00075 Pa.m3 / mol ( 68 °F (20 °C))
+                                                 not significant, Air, Volatility
+
+
+
+
+SECTION 10: Stability and reactivity
+
+10.1 Reactivity
+
+            -   Strong oxidizer. Contact with other material may cause fire.
+            -   Decomposes on heating with potential large quantities of gas release (oxygen).
+            -   Potential for exothermic hazard
+
+10.2 Chemical stability
+
+            -   Stable under recommended storage conditions.
+
+10.3 Possibility of hazardous reactions
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+10 / 19
+                                               SAFETY DATA SHEET
+
+
+
+
+                                                             Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                             Revision Date     07/10/2023
+
+
+            -   Contact with combustible material may cause fire.
+
+            -   Contact with flammables may cause fire or explosions.
+
+            -   Contact with incompatible material may cause exothermic decomposition with gas release.
+
+            -   Risk of explosion if heated under confinement.
+
+            -   Fire or intense heat may cause violent rupture of packages.
+
+10.4 Conditions to avoid
+
+            -   Contamination
+            -   To avoid thermal decomposition, do not overheat.
+
+10.5 Incompatible materials
+
+            -   Acids
+            -   Bases
+            -   Metals
+            -   Heavy metal salts
+            -   Powdered metal salts
+            -   Reducing agents
+            -   Organic materials
+            -   Flammable materials
+
+10.6 Hazardous decomposition products
+
+            -   Oxygen
+
+
+
+
+SECTION 11: Toxicological information
+
+11.1 Information on toxicological effects
+
+    Acute toxicity
+
+    Acute oral toxicity
+      Hydrogen peroxide (H2O2)                   Acute toxicity estimate : 431 mg/kg - Rat , male and female
+                                                 Method: OECD Test Guideline 401
+                                                 This product is classified as acute toxicity category 4
+                                                 Unpublished reports
+
+    Acute inhalation toxicity
+      Hydrogen peroxide (H2O2)                   LC50 - 4 h ( vapor ) : > 0.17 mg/l - Rat
+                                                 Method: OECD Test Guideline 403
+                                                 Not classified as hazardous for acute inhalation toxicity according to GHS.
+                                                 Unpublished reports
+
+
+    Acute dermal toxicity
+      Hydrogen peroxide (H2O2)                   Acute toxicity estimate : 6,440 mg/kg - Rabbit
+                                                 Method: OECD Test Guideline 402
+                                                 Not classified as hazardous for acute dermal toxicity according to GHS.
+                                                 Unpublished reports
+
+     Acute toxicity (other routes of             No data available
+     administration)
+
+     Skin corrosion/irritation                   Causes severe burns.
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+11 / 19
+                                            SAFETY DATA SHEET
+
+
+
+
+                                                           Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                            Revision Date      07/10/2023
+
+
+     Serious eye damage/eye irritation         Causes serious eye damage.
+
+    Respiratory or skin sensitization
+
+          Hydrogen peroxide (H2O2)             Does not cause skin sensitization.
+
+    Mutagenicity
+
+    Genotoxicity in vitro
+      Hydrogen peroxide (H2O2)                 Ames test
+                                               with and without metabolic activation
+
+                                               positive
+                                               Published data
+
+                                               Chromosome aberration test in vitro
+                                               with and without metabolic activation
+
+                                               positive
+                                               Unpublished reports
+
+    Genotoxicity in vivo
+      Hydrogen peroxide (H2O2)                 In vivo micronucleus test - Mouse
+                                               Oral
+                                               Method: OECD Test Guideline 474
+
+                                               negative
+                                               Unpublished reports
+
+    Carcinogenicity
+      Hydrogen peroxide (H2O2)                 No data available
+
+This product does not contain any ingredient designated as probable or suspected human carcinogens by:
+          NTP
+          IARC
+          OSHA
+
+    Toxicity for reproduction and development
+
+     Toxicity to reproduction / fertility
+       Hydrogen peroxide (H2O2)                No toxicity to reproduction
+
+    Developmental Toxicity/Teratogenicity
+      Hydrogen peroxide (H2O2)                 No toxicity to reproduction
+
+    STOT
+
+    STOT-single exposure
+      Hydrogen peroxide (H2O2)                 Routes of exposure: Inhalation
+                                               Target Organs: Respiratory Tract
+                                               May cause respiratory irritation.
+
+
+    STOT-repeated exposure
+      Hydrogen peroxide (H2O2)                 The substance or mixture is not classified as specific target organ toxicant,
+                                               repeated exposure according to GHS criteria.
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+12 / 19
+                                              SAFETY DATA SHEET
+
+
+
+
+                                                             Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                         Revision Date   07/10/2023
+
+
+          Hydrogen peroxide (H2O2)               Inhalation (vapor) 90-day - Rat
+                                                 NOAEC: 7 ppm
+                                                 Target Organs: Respiratory Tract
+                                                 Method: OECD Test Guideline 413
+                                                 Unpublished reports
+
+                                                 90-day - Rat
+                                                 NOAEL: 100 ppm
+                                                 Target Organs: Gastrointestinal tract
+                                                 Method: OECD Test Guideline 408
+                                                 drinking water
+                                                 Unpublished reports
+
+     Experience with human exposure              No data available
+
+     Aspiration toxicity                         No data available
+
+
+
+
+SECTION 12: Ecological information
+
+12.1 Toxicity
+
+
+    Aquatic Compartment
+
+          Acute toxicity to fish
+          Hydrogen peroxide (H2O2)               LC50 - 96 h : 16.4 mg/l - Pimephales promelas (fathead minnow)
+                                                 semi-static test
+                                                 Analytical monitoring: yes
+
+                                                 Method: according to a standardized method
+                                                 Harmful to fish.
+                                                 Unpublished internal reports
+
+          Acute toxicity to daphnia and other aquatic invertebrates
+
+          Hydrogen peroxide (H2O2)               EC50 - 48 h : 2.4 mg/l - Daphnia pulex (Water flea)
+                                                 semi-static test
+                                                 Analytical monitoring: yes
+                                                 Method: according to a standardized method
+                                                 Toxic to aquatic invertebrates.
+                                                 Unpublished internal reports
+
+          Toxicity to aquatic plants
+          Hydrogen peroxide (H2O2)               ErC50 - 72 h : 2.62 mg/l - Skeletonema costatum (marine diatom)
+                                                 static test
+                                                 Analytical monitoring: yes
+                                                 Method: according to a standardized method
+                                                 Toxic to algae.
+                                                 Unpublished internal reports
+
+          Toxicity to microorganisms
+          Hydrogen peroxide (H2O2)               EC50 - 0.5 h : 466 mg/l - activated sludge
+                                                 static test
+                                                 Analytical monitoring: yes
+                                                 Method: OECD Test Guideline 209
+                                                 Unpublished internal reports
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+13 / 19
+                                                   SAFETY DATA SHEET
+
+
+
+
+                                                                Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                                  Revision Date   07/10/2023
+
+
+          Chronic toxicity to fish                  No data available
+
+          Chronic toxicity to daphnia and other aquatic invertebrates
+
+          Hydrogen peroxide (H2O2)                  NOEC: 0.63 mg/l - 21 Days - Daphnia magna (Water flea)
+                                                    flow-through test
+                                                    Analytical monitoring: yes
+                                                    Method: according to a standardized method
+                                                    Harmful to aquatic invertebrates with long lasting effects.
+                                                    Published data
+
+
+12.2 Persistence and degradability
+
+
+   Abiotic degradation                              No data available
+
+   Physical- and photo-chemical                     No data available
+   elimination
+
+    Biodegradation
+
+          Biodegradability
+          Hydrogen peroxide (H2O2)                  Ready biodegradability study:
+                                                    Method: Degradation in sewage treatment plants
+                                                    The substance fulfills the criteria for ultimate aerobic biodegradability and ready
+                                                    biodegradability
+                                                    Inoculum: activated sludge
+                                                    Unpublished internal reports
+
+
+
+    Degradability assessment
+      Hydrogen peroxide (H2O2)                      The product is considered to be rapidly degradable in the environment
+
+12.3 Bioaccumulative potential
+
+
+          Partition coefficient: n-octanol/water
+           Hydrogen peroxide (H2O2)                 Not potentially bioaccumulable
+
+          Bioconcentration factor (BCF)
+          Hydrogen peroxide (H2O2)                  Not potentially bioaccumulable
+
+12.4 Mobility in soil
+
+
+          Adsorption potential (Koc)
+          Hydrogen peroxide (H2O2)                  Adsorption/Soil
+                                                    Koc: 1.58
+                                                    Log Koc: 0.2
+                                                    Method: Structure-activity relationship (SAR)
+                                                    Unpublished reports
+
+          Known distribution to environmental compartments
+          Hydrogen peroxide (H2O2)             Ultimate destination of the product: Water
+
+12.5 Results of PBT and vPvB assessment
+
+          Hydrogen peroxide (H2O2)                  This substance is not considered to be persistent, bioaccumulating, and toxic
+                                                    (PBT).
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+14 / 19
+                                                 SAFETY DATA SHEET
+
+
+
+
+                                                                 Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                              Revision Date   07/10/2023
+
+
+                                                    This substance is not considered to be very persistent and very bioaccumulating
+                                                    (vPvB).
+
+12.6 Other adverse effects
+
+Ecotoxicity assessment
+
+          Short-term (acute) aquatic hazard
+          Hydrogen peroxide (H2O2)                  Toxic to aquatic life.
+
+          Long-term (chronic) aquatic hazard
+          Hydrogen peroxide (H2O2)                  Harmful to aquatic life with long lasting effects.
+
+
+
+
+SECTION 13: Disposal considerations
+
+13.1 Waste treatment methods
+
+    Product Disposal
+
+             -   Limited quantity
+             -   Dilute with plenty of water.
+             -   Flush into sewer with plenty of water.
+             -   Maximum quantity
+             -   Contact manufacturer.
+             -   Contact waste disposal services.
+             -   In accordance with local and national regulations.
+
+     Waste Code
+
+             -   Environmental Protection Agency
+             -   Hazardous Waste – YES
+
+             -   RCRA Hazardous Waste (40 CFR 302)
+             -   D001 - Ignitable waste – (I)
+             -   D002 - Corrosive waste – (C)
+
+    Advice on cleaning and disposal of packaging
+
+             -   Empty containers.
+             -   Clean container with water.
+             -   Dispose of rinse water in accordance with local and national regulations.
+             -   Where possible recycling is preferred to disposal or incineration.
+             -   In accordance with local and national regulations.
+
+
+
+
+SECTION 14: Transport information
+
+Transportation status: IMPORTANT! Statements below provide additional data on listed transport classification.
+The listed Transportation Classification does not address regulatory variations due to changes in package size, mode of shipment or
+other regulatory descriptors.
+
+49 CFR
+
+ 14.1 UN number                                        UN 2015
+
+ 14.2 Proper shipping name                              HYDROGEN PEROXIDE AQUEOUS SOLUTIONS, STABILIZED
+
+
+ 14.3 Transport hazard class                           5.1
+ Subsidiary hazard class                               8
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+15 / 19
+                               SAFETY DATA SHEET
+
+
+
+
+                                             Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                Revision Date   07/10/2023
+
+
+ Label(s)                          5.1 (8)
+
+ 14.4 Packing group
+ Packing group                     I
+ ERG No                            143
+
+
+
+ 14.5 Environmental hazards        NO
+ Marine pollutant
+
+
+
+
+TDG
+
+ 14.1 UN number                    UN 2015
+
+ 14.2 Proper shipping name         HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED
+
+
+ 14.3 Transport hazard class       5.1
+ Subsidiary hazard class           8
+ Label(s)                          5.1 (8)
+
+ 14.4 Packing group
+ Packing group                     I
+ ERG No                            143
+
+
+
+ 14.5 Environmental hazards        NO
+ Marine pollutant
+
+
+
+NOM
+
+ 14.1 UN number                    UN 2015
+
+ 14.2 Proper shipping name         HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED
+
+
+ 14.3 Transport hazard class       5.1
+ Subsidiary hazard class           8
+ Label(s)                          5.1 (8)
+
+ 14.4 Packing group
+ Packing group                     I
+ ERG No                            143
+
+ 14.5 Environmental hazards        NO
+ Marine pollutant
+
+
+
+IMDG
+
+ 14.1 UN number                    UN 2015
+
+ 14.2 Proper shipping name         HYDROGEN PEROXIDE, AQUEOUS SOLUTION, STABILIZED
+
+
+ 14.3 Transport hazard class       5.1
+ Subsidiary hazard class           8
+ Label(s)                          5.1 (8)
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+16 / 19
+                                               SAFETY DATA SHEET
+
+
+
+
+                                                               Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                               Revision Date   07/10/2023
+
+
+
+ 14.4 Packing group
+ Packing group                                         I
+
+ 14.5 Environmental hazards                            NO
+ Marine pollutant
+
+ 14.6 Special precautions for user
+ EmS                                                   F-H , S-Q
+
+ For personal protection see section 8.
+
+ 14.7 Transport in bulk vessels according to IMO instruments
+No data available
+
+
+
+
+IATA
+
+ 14.1 UN number                                        UN 2015
+
+ 14.2 Proper shipping name                             Not permitted for transport
+
+
+ 14.3 Transport hazard class                           Not permitted for transport
+
+ 14.4 Packing group
+ Packing instruction (cargo aircraft)                  Not permitted for transport
+ Packing instruction (passenger aircraft)              Not permitted for transport
+
+ 14.5 Environmental hazards                            NO
+
+ 14.6 Special precautions for user
+ For personal protection see section 8.
+
+ Note: The above regulatory prescriptions are those valid on the date of publication of this sheet. Given the possible evolution of
+ transportation regulations for hazardous materials, it would be advisable to check their validity with your sales office.
+
+
+
+
+SECTION 15: Regulatory information
+
+15.1 Notification status
+
+ Inventory Information                                                                Status
+ United States TSCA Inventory                                                          -   All substances listed as active on the
+                                                                                           TSCA inventory
+
+
+ Canadian Domestic Substances List (DSL)                                               -   Listed on Inventory
+
+
+ Australian Inventory of Industrial Chemicals (AIIC)                                   -   Listed on Inventory
+
+
+ Japan. CSCL - Inventory of Existing and New Chemical Substances                       -   Listed on Inventory
+
+
+ Korea. Korean Existing Chemicals Inventory (KECI)                                     -   Listed on Inventory
+
+
+ China. Inventory of Existing Chemical Substances in China (IECSC)                     -   Listed on Inventory
+
+
+ Philippines Inventory of Chemicals and Chemical Substances (PICCS)                    -   Listed on Inventory
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+17 / 19
+                                               SAFETY DATA SHEET
+
+
+
+
+                                                                Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                              Revision Date     07/10/2023
+
+
+
+
+ Taiwan Chemical Substance Inventory (TCSI)                                          -    Listed on Inventory
+
+
+ New Zealand. Inventory of Chemical Substances                                       -    All components are listed on the NZIoC
+                                                                                          inventory. Additional HSNO obligations
+                                                                                          may apply. Please refer to Section 15 of
+                                                                                          SDS for New Zealand.
+
+
+ EU. European Registration, Evaluation, Authorization and Restriction of Chemical    -    When purchased from a Solvay legal
+ (REACH)                                                                                  entity based in the EEA ("European
+                                                                                          Economic Area"), this product is
+                                                                                          compliant with the registration provisions
+                                                                                          of the REACH Regulation (EC) No.
+                                                                                          1907/2006 as all its components are
+                                                                                          either excluded, exempt, and/or
+                                                                                          registered. When purchased from a legal
+                                                                                          entity outside of the EEA, please contact
+                                                                                          your local representative for additional
+                                                                                          information.
+
+
+
+15.2 Federal Regulations
+
+          US. EPA EPCRA SARA Title III
+
+SARA HAZARD DESIGNATION SECTIONS 311/312 (40 CFR 370)
+ Oxidizer (liquid, solid or gas)                                          Yes
+ Acute toxicity (any route of exposure)                                   Yes
+ Skin corrosion or irritation                                             Yes
+ Serious eye damage or eye irritation                                     Yes
+ Specific target organ toxicity (single or repeated exposure)             Yes
+
+The categories not mentioned are not relevant for the product.
+
+Section 313 Toxic Chemicals (40 CFR 372.65)
+This material does not contain any chemical components with known CAS numbers that exceed the threshold (De Minimis)
+reporting levels established by SARA Title III, Section 313.
+
+
+                                                                                         Threshold planning
+                                Components                              CAS-No.                                      Remarks
+                                                                                              quantity
+ Hydrogen peroxide (H2O2)                                7722-84-1        1000 lb             Form: >52-100%
+Section 302 Emergency Planning Extremely Hazardous Substance Reportable Quantity (40 CFR 355)
+
+                                Components                                 CAS-No.                        Reportable quantity
+
+ Hydrogen peroxide (H2O2)                                           7722-84-1                   1000 lb
+
+Section 304 Emergency Release Notification Reportable Quantity (40 CFR 355)
+
+                                Components                                 CAS-No.                        Reportable quantity
+
+ Hydrogen peroxide (H2O2)                                           7722-84-1                   1000 lb
+
+          US. EPA CERCLA Hazardous Substances and Reportable Quantities (40 CFR 302.4)
+
+This material does not contain any components with a CERCLA RQ.
+
+15.3 State Regulations
+
+          US. California Safe Drinking Water & Toxic Enforcement Act (Proposition 65)
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+18 / 19
+                                              SAFETY DATA SHEET
+
+
+
+
+                                                             Interox® Chemical Grade 70% Hydrogen Peroxide
+
+                                                                                                            Revision Date   07/10/2023
+
+
+
+This product does not contain any chemicals known to the State of California to cause cancer, birth, or any other reproductive defects.
+
+
+SECTION 16: Other information
+
+    Further information
+
+           -   Product evaluated under the US GHS format.
+           -   Distribute new edition to clients
+           -   Update
+           -   See section 1
+
+          Date Prepared: 07/10/2023
+
+    Key or legend to abbreviations and acronyms used in the safety data sheet
+
+           -  PEL: Permissible exposure limit
+           -  TWA: 8-hour, time-weighted average
+           - ACGIH: American Conference of Governmental Industrial Hygienists
+           -  OSHA: Occupational Safety and Health Administration
+           -  NTP: National Toxicology Program
+           -  IARC: International Agency for Research on Cancer
+           -  NIOSH: National Institute for Occupational Safety and Health
+           -  ADR:                         European Agreement on International Carriage of Dangerous Goods by Road.
+           -  ADN:                         European Agreement on the International Carriage of Dangerous Goods by Inland
+          Waterways.
+           -  RID:                         European Agreement concerning the International Carriage of Dangerous Goods by Rail.
+           -  IATA:                        International Air Transport Association.
+           -  ICAO-TI:                     Technical Specification for Safe Transport of Dangerous Goods by Air.
+           -  IMDG:                        International Maritime Dangerous Goods.
+           -  TWA:                         Time weighted average
+           -  ATE:                         Estimated value of acute toxicity
+           -  EC:                          European Community number
+           -  CAS:                         Chemical Abstracts Service.
+           -  LD50:                        Substance that causes 50% (half) death in the test animals group (Median Fatal Dose).
+           -  LC50:                        Substance concentration causing 50% (half) death in the test animals group.
+           -  EC50:                        Effective Concentration of the substance causing the maximum of 50%.
+           -  PBT:                         Persistent, Bioaccumulative and Toxic substance.
+           -  vPvB:                        Very Persistent and Very Bioaccumulative.
+           -  SEA:                         Classification, labeling, packaging regulation
+           -  DNEL:                        Derived No Effect Level
+           -  PNEC:                        Predicted No Effect Concentration
+           -  STOT:                        Specific Target Organ Toxicity
+
+     Not all acronyms listed above are referenced in this SDS.
+
+
+
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information, and belief at the date of its
+publication. Such information is only given as a guidance to help the user handle, use, process, store, transport, dispose, and release
+the product in satisfactory safety conditions and is not to be considered as a warranty or quality specification. It should b e used in
+conjunction with technical sheets but do not replace them. Thus, the information only relates to the designated specific product and may
+not be applicable if such product is used in combination with other materials or in any other manufacturing process, unless otherwise
+specifically indicated. It does not release the user from ensuring he is in conformity with all regulations linked to its activity.
+
+
+
+
+P10000000594
+Version : 4.00 / US ( Z8 )
+
+www.solvay.com
+
+
+19 / 19
+

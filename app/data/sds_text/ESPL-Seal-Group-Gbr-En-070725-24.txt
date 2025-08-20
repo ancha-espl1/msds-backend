@@ -1,0 +1,752 @@
+                                                                                                Parker Hannifin Ltd., Seal Group
+                                                                                                     Chomerics Division Europe
+                                                                                              Unit 6 Century Point, Halifax Road
+                                                                                              High Wycombe, Bucks HP12 3SL
+                                                                                                                United Kingdom
+                                                                                               Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                               53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                          Page 1 of 12
+Revision No.: 2
+
+                                              SAFETY DATA SHEET
+            This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+
+SECTION 1. IDENTIFICATION OF THE SUBSTANCE / MIXTURE AND OF THE COMPANY / UNDERTAKING
+
+
+1.1 Product identifier           :     CHO-BOND® 1056 Part A, Conductive Powder
+   Product Code(s)               : 53-01-1056-0000
+    SDS No.                      : PHC-119 EU
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+                                 : Corrosion resistant coating; Solvent resistant coating; Sealant; Adhesive.
+                                   Use pattern: professional use.
+                                   No restrictions on use known.
+1.3 Details of the supplier of the safety data sheet:
+   Parker Hannifin Ltd., Seal Group
+   Chomerics Division Europe
+   Unit 6 Century Point
+   Halifax Road
+   High Wycombe
+   Bucks, HP12 3SL
+   United Kingdom
+   E-mail: chomerics_europe@parker.com
+   Website: www.chomerics.com
+    Telephone              : +44 (0) 1494 455 400
+1.4 Emergency Telephone Number
+                           : +1-352-323-3500 (INFOTRAC - U.S.A.)
+
+SECTION 2. HAZARDS IDENTIFICATION
+
+2.1 Classification of the substance or mixture
+   Powder - silver / blue. No odour.
+   Most important hazards:
+   Occupational exposure to the substance or mixture may cause adverse effects. For further information, please refer to section
+   11 of the SDS.
+   An environmental hazard cannot be excluded in the event of unprofessional handling or disposal. See Section 12 for more
+   environmental information.
+   The product is not classified as hazardous according to Regulation (EC) No. 1272/2008.
+
+2.2 Label elements
+   Hazard pictogram(s)
+     None required according to Regulation (EC) No. 1272/2008.
+
+   Signal word:
+      None required according to Regulation (EC) No. 1272/2008.
+
+   Hazard statements:
+     None required according to Regulation (EC) No. 1272/2008.
+
+   Precautionary statements:
+      None required according to Regulation (EC) No. 1272/2008.
+
+   Supplemental Hazard Statements:
+     EUH210 - Safety data sheet available on request.
+                                                                                                    Parker Hannifin Ltd., Seal Group
+                                                                                                         Chomerics Division Europe
+                                                                                                  Unit 6 Century Point, Halifax Road
+                                                                                                  High Wycombe, Bucks HP12 3SL
+                                                                                                                    United Kingdom
+                                                                                                   Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                     53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                                   Page 2 of 12
+Revision No.: 2
+
+                                                SAFETY DATA SHEET
+               This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+
+2.3 Other hazards
+   Other hazards which do not result in classification:
+   Burning produces obnoxious and toxic fumes. Dust may form explosive mixture in air. Product dust may be irritating to eyes,
+   skin and respiratory system. Inhalation of fumes may result in metal fume fever, a flu-like illness. May cause gastrointestinal
+   irritation. Silver in the form of a finely divided dust may cause discoloration in contact with skin, and argyrosis in case of
+   inhalation. Silver in the form of a finely divided dust may cause discoloration in contact with skin, and argyrosis in case of
+   inhalation.
+
+   PBT assessment:
+   This mixture contains no substance considered to be persistent, bioaccumulating nor toxic (PBT).
+
+SECTION 3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+3.1 Substances
+   Not applicable
+
+3.2 Mixtures
+
+   Chemical nature - Mixture of: Inorganic substances in powdered form (Silver plated aluminium powder).
+
+   The following substances shall be indicated according to legislation:
+
+         Chemical name              CAS #                EC No.         Concentration                   CLP Classification
+Aluminium                       7429-90-5            231-072-3              > 80.0%        Not hazardous (supplier)
+                                                                                           Substances for which there are Member
+                                                                                           Country workplace exposure limits.
+silver                          7440-22-4            231-131-3              < 20.0%        Not hazardous. Substances for which there
+                                                                                           are Community workplace exposure limits.
+
+Copper phthalocyanine           147-14-8             205-685-1                < 0.5        Not hazardous. Substances for which there
+                                                                                           are Member Country workplace exposure
+                                                                                           limits.
+                                                                                           (self classified)
+
+SECTION 4. FIRST-AID MEASURES
+
+4.1 Description of first aid measures
+    Ingestion                    : Do NOT induce vomiting. Never give anything by mouth to an unconscious person. When
+                                   symptoms persist or in all cases of doubt, seek medical advice.
+    Inhalation                   : If breathed in, move person into fresh air. If breathing is irregular or stopped, administer
+                                   artificial respiration. If breathing is difficult, give oxygen by qualified medical personnel only.
+                                   When symptoms persist or in all cases of doubt, seek medical advice.
+    Skin contact                 : Remove contaminated clothing. Wash off immediately with soap and plenty of water. When
+                                   symptoms persist or in all cases of doubt, seek medical advice. Wash contaminated clothing
+                                   before re-use.
+    Eye contact                  : Immediately flush eye(s) with plenty of water. When symptoms persist or in all cases of
+                                   doubt, seek medical advice.
+                                                                                                     Parker Hannifin Ltd., Seal Group
+                                                                                                          Chomerics Division Europe
+                                                                                                   Unit 6 Century Point, Halifax Road
+                                                                                                   High Wycombe, Bucks HP12 3SL
+                                                                                                                     United Kingdom
+                                                                                                    Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                      53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                                 Page 3 of 12
+Revision No.: 2
+
+                                                 SAFETY DATA SHEET
+             This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+4.2 Most important symptoms and effects, both acute and delayed
+                             : Product dust may be irritating to eyes, skin and respiratory system. May cause coughing and
+                               breathing difficulties. Inert particles may cause mechanical irritation of the eyes, including
+                               scratches. Symptoms may include stinging and tearing. Direct skin contact may cause
+                               temporary redness.
+                               Inhalation of fumes may result in metal fume fever, a flu-like illness. Symptoms of metal
+                               fume fever may include fever, fatigue, vomiting, muscle aches and shortness of breath.
+                               Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhea.
+                               Silver in the form of a finely divided dust may cause discoloration in contact with skin, and
+                               argyrosis in case of inhalation.
+
+4.3 Indication of any immediate medical attention and special treatment needed
+                                   : Provide general supportive measures and treat symptomatically.
+
+SECTION 5. FIRE-FIGHTING MEASURES
+5.1 Extinguishing media
+    Suitable extinguishing media
+                                 : Use media suitable to the surrounding fire such as water fog or fine spray, alcohol foams,
+                                   carbon dioxide and dry chemical.
+    Unsuitable extinguishing media
+                                 : None known.
+5.2 Special hazards arising from the substance or mixture
+                                 : Fine dust dispersed in air may ignite. Dust may form explosive mixture in air. The pressure
+                                   in sealed containers can increase under the influence of heat. Burning produces obnoxious
+                                   and toxic fumes. In the event of fire the following can be released: Metal oxides.
+
+5.3 Advice for firefighters
+    Protective equipment for fire-fighters
+                                    : Firefighters must use standard protective equipment including flame retardant coat, helmet
+                                       with face shield, gloves, rubber boots, and in enclosed spaces, SCBA. Firefighters should
+                                       wear proper protective equipment and self-contained breathing apparatus with full face
+                                       piece operated in positive pressure mode.
+    Special fire-fighting procedures
+                                    : Move containers from fire area if safe to do so. Cool closed containers exposed to fire with
+                                       water spray. Do not allow run-off from fire fighting to enter drains or water courses. Dike for
+                                       water control.
+
+SECTION 6. ACCIDENTAL RELEASE MEASURES
+6.1 Personal precautions, protective equipment and emergency procedures
+                                   : Wear suitable protective equipment. Restrict access to area until completion of clean-up.
+                                     Keep people away from and upwind of spill/leak.
+6.2 Environmental precautions
+                               : Do not allow material to contaminate ground water system.
+6.3 Methods and material for containment and cleaning up
+                                   : Ventilate the area. Prevent further leakage or spillage if safe to do so. Remove all sources of
+                                     ignition. Pick up and arrange disposal without creating dust. Use only non-sparking tools.
+                                     Sweep up or vacuum up spillage and collect in suitable container for disposal. Use approved
+                                     industrial vacuum cleaner for removal. Keep in properly labelled containers. Contact the
+                                     proper local authorities.
+6.4 Reference to other sections
+                                   : Refer to protective measures listed in sections 7 and 8. Refer to Section 13 for disposal of
+                                     contaminated material.
+                                                                                                    Parker Hannifin Ltd., Seal Group
+                                                                                                         Chomerics Division Europe
+                                                                                                  Unit 6 Century Point, Halifax Road
+                                                                                                  High Wycombe, Bucks HP12 3SL
+                                                                                                                    United Kingdom
+                                                                                                   Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                   53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                               Page 4 of 12
+Revision No.: 2
+
+                                              SAFETY DATA SHEET
+              This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+
+SECTION 7. HANDLING AND STORAGE
+7.1 Precautions for safe handling
+                                : Ensure adequate ventilation. Wear suitable protective equipment. Avoid breathing dust.
+                                   Avoid contact with skin, eyes and clothing. Keep away from heat and sources of ignition.
+                                   Use only non-sparking tools. Avoid and control operations which create high vapor or dust
+                                   concentrations. Avoid contact with incompatible materials. Keep container tightly closed.
+                                   Wash thoroughly after handling.
+7.2 Conditions for safe storage, including any incompatibilities
+                                 : Keep containers tightly closed in a cool, well-ventilated place. Keep away from heat. Inspect
+                                   periodically for damage or leaks. Protect against physical damage. Store away from
+                                   incompatible materials ( see Section 10 of the SDS).
+7.3 Specific end use(s)          : Adhesive; Coating; Sealant
+
+SECTION 8. EXPOSURE CONTROLS / PERSONAL PROTECTION
+8.1 Control Parameters
+
+ Exposure Limits:
+
+         Chemical Name                      Exposure Limits                                Type                        Notes
+Aluminium
+                                 10 mg/m³ (metal); 5 mg/m³ (dust) (TWA)      France (OEL)                      None.
+
+                                 6 mg/m³ (respirable dust) (TWA)             Hungary (OEL)                     None.
+                                 2.5 mg/m³ (inhalable dust and fume); 1.2    Poland (OEL)                      None.
+                                 mg/m³ (respirable dust and fume) (TWA)
+
+                                 10 mg/m³ (dust) (TWA)                       Spain (OEL)                       None.
+                                 10 mg/m³ (inhalable); 4 mg/m³               The United Kingdom (WELs)         None.
+                                 (respirable dust) (TWA)
+silver
+                                 0.1 mg/m³ (TWA)                             European Union (OEL)              None.
+                                 0.1 mg/m³ (TWA)                             Finland (OEL)                     None.
+                                 0.1 mg/m³ (TWA)                             France (OEL)                      None.
+                                 0.1 mg/m³ (inhalable) (TWA)                 Germany (OEL)                     (exposure factor
+                                                                                                               8)
+                                 0.1 mg/m³ (TWA)                             Hungary (OEL)                     None.
+                                 0.4 mg/m³ (STEL)
+                                 0.1 mg/m³ (TWA)                             Italy (OEL)                       None.
+                                 0.05 mg/m³ (TWA)                            Poland (OEL)                      None.
+                                 0.1 mg/m³ (TWA)                             Spain (OEL)                       None.
+                                 0.1 mg/m³ (TWA)                             The United Kingdom (WELs)         None.
+
+Copper phthalocyanine
+                                 5 mg/m³ (TWA)                               Latvia (OEL)                      None.
+                                 5 mg/m³ (TWA)                               Lithuania (OEL)                   None.
+                                                                                                Parker Hannifin Ltd., Seal Group
+                                                                                                     Chomerics Division Europe
+                                                                                              Unit 6 Century Point, Halifax Road
+                                                                                              High Wycombe, Bucks HP12 3SL
+                                                                                                                United Kingdom
+                                                                                               Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                           Page 5 of 12
+Revision No.: 2
+
+                                                SAFETY DATA SHEET
+             This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+Biological Exposure Indices:
+   No biological exposure limits noted for the ingredient(s).
+
+Derived No Effect Level (DNEL): No information available.
+
+Predicted No Effect Concentration (PNEC): No information available.
+8.2 Exposure controls
+    Ventilation and engineering measures
+                               : Provide adequate ventilation. Apply technical measures to comply with the occupational
+                                 exposure limits. Where reasonably practicable this should be achieved by the use of local
+                                 exhaust ventilation and good general extraction. In case of insufficient ventilation wear
+                                 suitable respiratory equipment.
+    Respiratory protection     : Respirator must be worn if exposed to dust. The filter class for the respirator must be
+                                 suitable for the maximum expected contaminant concentration
+                                 (gas/vapour/aerosol/particulates) that may arise when handling the product. If this
+                                 concentration is exceeded, self-contained breathing apparatus must be used.
+    Skin protection            : For prolonged skin exposure, gloves impervious to the material are recommended. The
+                                 suitability for a specific workplace should be discussed with the producers of the protective
+                                 gloves. The selected protective gloves have to satisfy the specifications of EU Directive
+                                 89/689/EEC and the standard EN 374 derived from it.
+    Eye / face protection      : Wear as appropriate: Safety glasses with side shields; Goggles. See also EN 166.
+    Other protective equipment
+                                   : Ensure that eyewash stations and safety showers are close to the workstation location.
+    General hygiene considerations
+                              : Avoid breathing dust. Avoid contact with skin, eyes and clothing. Wash thoroughly after
+                                 handling. Remove and wash contaminated clothing before re-use. Handle in accordance
+                                 with good industrial hygiene and safety practice.
+SECTION 9. PHYSICAL AND CHEMICAL PROPERTIES
+
+9.1 Information on basic physical and chemical properties
+    Appearance                : Powder - silver / blue
+    Odour                     : No odour.
+    Odour threshold           : No information available.
+    pH                        : No information available.
+    Flash point               : No information available.
+    Flashpoint (Method)       : No information available.
+    Lower flammable limit (% by vol.)
+                              : No information available.
+    Upper flammable limit (% by vol.)
+                              : No information available.
+    Flammability (solid, gas) : Not considered flammable.
+    Auto-ignition temperature
+                                  : No information available.
+    Decomposition temperature
+                                  : No information available.
+    Oxidizing properties           : None known.
+    Explosive properties           : Not explosive
+                                                                                                Parker Hannifin Ltd., Seal Group
+                                                                                                     Chomerics Division Europe
+                                                                                              Unit 6 Century Point, Halifax Road
+                                                                                              High Wycombe, Bucks HP12 3SL
+                                                                                                                United Kingdom
+                                                                                               Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                           Page 6 of 12
+Revision No.: 2
+
+                                             SAFETY DATA SHEET
+           This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+   Initial boiling point and boiling range
+                                : No information available.
+   Melting/Freezing point       : No information available.
+   Relative density             : 2.0
+   Solubility in water          : insoluble
+   Other solubility(ies)        : No information available.
+   Vapour pressure              : No information available.
+   Vapour density               : No information available.
+   Partition coefficient: n-octanol/water
+                                : No information available.
+   Viscosity                    : Not applicable.
+   Evaporation rate (BuAe = 1)
+                                : No information available.
+
+9.2 Other Information
+   Volatiles (% by weight)  : No information available.
+   Volatile organic Compounds (VOC's)
+                            : 0 g/L
+   Other physical/chemical comments
+                             : No additional information.
+
+SECTION 10. STABILITY AND REACTIVITY
+   10.1 Reactivity             : Not normally reactive.
+   10.2 Chemical stability     : Stable under normal conditions.
+   10.3 Possibility of hazardous reactions
+                               : Hazardous polymerization does not occur.
+   10.4 Conditions to avoid    : Direct sources of heat. Avoid contact with incompatible materials. Do not use in areas
+                                  without adequate ventilation.
+   10.5 Incompatible materials
+                                : Strong acids; Alcohols; Strong bases
+   10.6 Hazardous decomposition products
+                            : None known.
+                              Burning produces obnoxious and toxic fumes. In the event of fire the following can be
+                              released: metal oxides.
+SECTION 11. TOXICOLOGICAL INFORMATION
+
+11.1 Information on Toxicological effects:
+
+   Acute toxicity               : According to the classification criteria of the European Union, this product is not considered
+                                  as being an acutely toxic chemical.
+
+   Skin corrosion/Irritation    : According to the classification criteria of the European Union, this product is not considered
+                                  as being a skin corrosive or irritant.
+
+   Serious eye damage/irritation
+                                : According to the classification criteria of the European Union, the product is not considered
+                                  as being an eye irritant.
+                                                                                                       Parker Hannifin Ltd., Seal Group
+                                                                                                            Chomerics Division Europe
+                                                                                                     Unit 6 Century Point, Halifax Road
+                                                                                                     High Wycombe, Bucks HP12 3SL
+                                                                                                                       United Kingdom
+                                                                                                      Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                        53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                                    Page 7 of 12
+Revision No.: 2
+
+                                                SAFETY DATA SHEET
+              This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+    Respiratory or skin sensitisation
+                                  : According to the classification criteria of the European Union, this product is not considered
+                                    as being an allergic respiratory sensitiser.
+                                    According to the classification criteria of the European Union, this product is not considered
+                                    as being an allergic skin sensitiser.
+    Germ cell mutagenicity        : Contains no ingredient listed as a mutagen.
+    Carcinogenicity               : Contains no ingredient listed as a carcinogen.
+    Reproductive toxicity         : Contains no ingredient listed as toxic to reproduction.
+    STOT-single exposure          : According to the classification criteria of the European Union, this product is not expected to
+                                    cause target organ toxicity through a single exposure.
+    STOT-repeated exposure        : According to the classification criteria of the European Union, this product is not expected to
+                                    cause target organ toxicity through repeated exposures.
+    Aspiration hazard             : Not applicable in the product's present form.
+   Toxicological data            : There is no available data for the product itself, only for the ingredients. See below for
+                                   individual ingredient acute toxicity data.
+
+
+                                            LC50 (4hr)                                           LD50
+
+      Chemical name                          inh, rat                        (Oral, rat)                        (Rabbit, dermal)
+  Aluminium                        > 2.3 mg/L (dust) (No mortality)    > 2000 mg/kg (No mortality)        No information available.
+
+  silver                          > 5.16 mg/L (dust) (No mortality)    > 2000 mg/kg (No mortality)       > 2000 mg/kg (No mortality)
+
+  Copper phthalocyanine               No information available.               > 5000 mg/kg                     > 5000 mg/kg
+
+
+   Routes of exposure            : Eye contact; Skin contact; Inhalation; Ingestion.
+   Effects of acute exposure     : Inhalation: High concentrations of dust may cause coughing and mild, temporary irritation.
+                                   Inhalation of fumes may result in metal fume fever, a flu-like illness. Symptoms of metal
+                                   fume fever may include fever, fatigue, vomiting, muscle aches and shortness of breath.
+
+                                    Skin contact: Direct skin contact may result in little or no irritation. Direct skin contact may
+                                    cause temporary redness.
+
+                                    Eye contact: Inert particles may cause mechanical irritation of the eyes, including scratches.
+                                    Symptoms may include stinging and tearing.
+
+                                    Ingestion: Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhea.
+
+
+
+   Potential Chronic Health Effects
+                               : Silver in the form of a finely divided dust may cause discoloration in contact with skin, and
+                                  argyrosis in case of inhalation.
+   Other important hazards     : None known or reported by the manufacturer.
+                                                                                                         Parker Hannifin Ltd., Seal Group
+                                                                                                              Chomerics Division Europe
+                                                                                                       Unit 6 Century Point, Halifax Road
+                                                                                                       High Wycombe, Bucks HP12 3SL
+                                                                                                                         United Kingdom
+                                                                                                        Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                        53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                                   Page 8 of 12
+Revision No.: 2
+
+                                                 SAFETY DATA SHEET
+              This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+SECTION 12. ECOLOGICAL INFORMATION
+
+12.1 Toxicity                    : No data is available on the product itself. The product should not be allowed to enter drains
+                                   or water courses, or be deposited where it can affect ground or surface waters.
+                                   Note: Contains: Silver. The acute toxicity of silver to aquatic species varies drastically by the
+                                   chemical form and correlates with the availability of free ionic silver. Aquatic toxicity is highly
+                                   variable not only by organism but with physical and chemical characteristics of the water
+                                   itself.
+
+                                    See the following tables for individual ingredient ecotoxicity data.
+Ecotoxicity data:
+
+                                                                                  Toxicity to Fish
+          Ingredients                CAS No
+                                                          LC50 / 96h                    NOEC / 21 day                  M Factor
+
+Aluminium                            7429-90-5       No information available.      No information available.            None.
+
+silver                               7440-22-4       No information available.      No information available.            None.
+
+Copper phthalocyanine                147-14-8        > 100 mg/L (Zebra fish)        No information available.            None.
+
+
+
+
+            Ingredients                                                    Toxicity to Daphnia
+                                     CAS No
+                                                          EC50 / 48h                    NOEC / 21 day                  M Factor
+
+Aluminium                           7429-90-5        No information available.      No information available.            None.
+
+silver                              7440-22-4        No information available.      No information available.            None.
+
+Copper phthalocyanine                147-14-8         > 500 mg/L (Daphnia                   > 1 mg/L                     None.
+                                                            magna)
+
+
+
+             Ingredients                                                         Toxicity to Algae
+                                      CAS No
+                                                       EC50 / 96h or 72h              NOEC / 96h or 72h                 M Factor
+
+ Aluminium                           7429-90-5        No information available.      No information available.            None.
+
+ silver                              7440-22-4        No information available.      No information available.            None.
+
+ Copper phthalocyanine                147-14-8        > 100 mg/L/72hr (Green         No information available.            None.
+                                                              algae)
+12.2 Persistence and degradability
+                              : The product itself has not been tested. Not expected to be rapidly biodegradable.
+12.3 Bioaccumulation potential
+                                 : The product itself has not been tested.
+
+   Components                           Partition coefficient n-octanol/water (log                 Bioconcentration factor (BCF)
+                                        Kow)
+   Copper phthalocyanine (CAS                      6.6 (estimated)                                       < 0.33 to 11 (common carp)
+   147-14-8)
+12.4 Mobility in soil         : The product itself has not been tested.
+                                                                                                              Parker Hannifin Ltd., Seal Group
+                                                                                                                   Chomerics Division Europe
+                                                                                                            Unit 6 Century Point, Halifax Road
+                                                                                                            High Wycombe, Bucks HP12 3SL
+                                                                                                                              United Kingdom
+                                                                                                             Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                                53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                                            Page 9 of 12
+Revision No.: 2
+
+                                                        SAFETY DATA SHEET
+                  This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+12.5 Results of PBT and vPvB assessment
+                             : This mixture contains no substance considered to be persistent, bioaccumulating nor toxic
+                                (PBT).
+12.6 Other Adverse Environmental effects
+                             : No other adverse environmental effects (e.g. ozone depletion, photochemical ozone creation
+                                potential, endocrine disruption, global warming potential) are expected from this component.
+
+
+SECTION 13. DISPOSAL CONSIDERATIONS
+
+13.1 Waste Treatment Methods:
+     Handling for Disposal              : Handle in accordance with good industrial hygiene and safety practice. Refer to protective
+                                          measures listed in sections 7 and 8. This material and its container must be disposed of in a
+                                          safe way.
+     Methods of Disposal                : Empty containers may contain hazardous residues. Since emptied containers may retain
+                                          product residue, follow label warnings even after container is emptied.
+                                          Dispose of in accordance with the European Directives on waste and hazardous waste.
+                                          Waste must be classified and labelled prior to recycling or disposal. According to the
+                                          European Waste Catalogue, Waste Codes are not product specific, but application specific.
+                                          Waste codes should be assigned by the user based on the application for which the product
+                                          was used.
+
+SECTION 14. TRANSPORTATION INFORMATION
+                                                                                                        14.3
+                                                                                                     Transport
+                                                                                                                     14.4
+  Regulatory           14.1 UN                   14.2 UN proper shipping name                                      Packing         Label
+                                                                                                      hazard
+ Information           Number                                                                                       Group
+                                                                                                     class(es)
+
+   ADR/RID          None               Not regulated                                               Not regulated     None
+
+
+
+ EU ADR/RID          Not applicable.
+ Classification
+     Code
+
+ EU ADR / RID        Not applicable.
+    Hazard
+ Identification
+    Number
+   ADR/RID           Not classified as dangerous for conveyance in the meaning of the regulations for the transport of dangerous goods by road
+  Additional         and rail.
+ information
+
+  ICAO/IATA         None               Not regulated.                                              Not regulated     None
+
+
+  ICAO/IATA          None.
+   Additional
+ information
+
+     IMDG           None               Not regulated.                                              Not regulated     None
+
+
+    IMDG             None.
+  Additional
+ information
+                                                                                                 Parker Hannifin Ltd., Seal Group
+                                                                                                      Chomerics Division Europe
+                                                                                               Unit 6 Century Point, Halifax Road
+                                                                                               High Wycombe, Bucks HP12 3SL
+                                                                                                                 United Kingdom
+                                                                                                Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                                53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                          Page 10 of 12
+Revision No.: 2
+
+                                             SAFETY DATA SHEET
+            This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+14.5 Environmental hazards     : This product does not meet the criteria for an environmentally hazardous mixture, according
+                                  to the IMDG Code. See Section 12 for more environmental information.
+14.6 Special precautions for user
+                               : Appropriate advice on safety must accompany the package. Keep away from heat.
+14.7 Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code
+                               : Not applicable.
+
+SECTION 15. REGULATORY INFORMATION
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+                                : Classification according to Regulation (EC) No. 1272/2008 on the classification of hazardous
+                                  mixtures.
+
+                                   Authorisations
+                                   Regulation (EC) No. 1907/2006, REACH Annex XIV Substances subject to authorisation, as
+                                   amended:
+                                     None of the components are specifically listed.
+
+                                   Restrictions on use
+                                   Regulation (EC) No. 1907/2006, REACH Annex XVII Substances subject to restriction on
+                                   marketing and use, as amended
+                                     None of the components are specifically listed.
+
+                                   Directive 96/82/EC (Seveso II) on the control of major-accident hazards involving dangerous
+                                   substances:
+                                      None of the components are specifically listed.
+
+                                   Directive 98/24/EC on the protection of the health and safety of workers from risks related to
+                                   chemical agents at work:
+                                      None of the components are specifically listed.
+
+                                   Directive 94/33/EC on the protection of young people at work:
+                                      None of the components are specifically listed.
+
+                                   This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as
+                                   amended [including Regulation (EU) 2015/830].
+
+                                   Follow national regulation for work with chemical agents.
+
+                                   German legislation on water endangering substances VwVwS: Water contaminating class
+                                   (Germany) - not water endangering (self classified)
+15.2 Chemical safety assessment
+                                : A chemical safety assessment has not been carried out by the Manufacturer of this product.
+                                                                                               Parker Hannifin Ltd., Seal Group
+                                                                                                    Chomerics Division Europe
+                                                                                             Unit 6 Century Point, Halifax Road
+                                                                                             High Wycombe, Bucks HP12 3SL
+                                                                                                               United Kingdom
+                                                                                              Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                              53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                        Page 11 of 12
+Revision No.: 2
+
+                                             SAFETY DATA SHEET
+            This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+SECTION 16. OTHER INFORMATION
+
+Legend                          : ADR: European Agreement concerning the International Carriage of Dangerous Goods by
+                                  Road
+                                  CAS: Chemical Abstract Services
+                                  CLP: Regulation (EC) No 1272/2008 on classification, labelling and packaging of
+                                  substances and mixtures
+                                  EC: European Community
+                                  EC50: Effective Concentration 50%
+                                  EEC: European Economic Community
+                                  EN: European Standard
+                                  EU: European Union
+                                  HSDB: Hazardous Substances Data Bank
+                                  IATA: International Air Transport Association
+                                  IBC: Intermediate Bulk Container
+                                  ICAO: International Civil Aviation Organisation
+                                  IMDG: International Maritime Dangerous Goods
+                                  LC: Lethal Concentration
+                                  LD: Lethal Dose
+                                  NOEC: No observable effect concentration
+                                  OECD: Organisation for Economic Co-operation and Development
+                                  OEL: National occupational exposure limits
+                                  RID: Regulations concerning the International Carriage of Dangerous Goods by Rail
+                                  RTECS: Registry of Toxic Effects of Chemical Substances
+                                  SDS: Safety Data Sheet
+                                  STEL: Short Term Exposure Limit
+                                  TWA: Time Weighted Average
+                                  WEL: Workplace Exposure Limit
+
+
+Information Source              : 1. Material Safety Data Sheet from manufacturer.
+                                  2. Canadian Centre for Occupational Health and Safety, CCInfoWeb Databases, 2017
+                                      (Chempendium, RTECs, HSDB, INCHEM).
+                                  3. European Chemicals Agency, Classification Legislation, 2017.
+                                  4. OECD - The Global Portal to Information on Chemical Substances - eChemPortal, 2017.
+
+Preparation Date (dd/mm/yyyy)
+                            : 05/11/2014
+Reviewed Date SDS (dd/mm/yyyy)
+                               : 10/04/2017
+Revision No.                   : 2
+Revision Information           : Minor formatting change.
+H-Phrases (Full text)          : Not applicable.
+Other special considerations for handling
+                                : Provide adequate information, instruction and training for operators.
+                                                                                             Parker Hannifin Ltd., Seal Group
+                                                                                                  Chomerics Division Europe
+                                                                                           Unit 6 Century Point, Halifax Road
+                                                                                           High Wycombe, Bucks HP12 3SL
+                                                                                                             United Kingdom
+                                                                                            Telephone: +44 (0) 1494 455 400
+
+CHO-BOND® 1056 Part A, Conductive                                                                            53-01-1056-0000
+Powder
+SDS Revision Date (dd/mm/yyyy): 10/04/2017                                                                         Page 12 of 12
+Revision No.: 2
+
+                                             SAFETY DATA SHEET
+             This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006, as amended.
+
+
+ Prepared for:
+ Parker Hannifin Corp.
+ 77 Dragon Court
+ Woburn, MA, USA         01888
+ Telephone: 001-781-935-4850
+ http://www.parker.com
+ Direct all enquiries to Parker Hannifin.
+
+
+
+
+ Prepared by:
+ ICC The Compliance Center Inc.
+ http://www.thecompliancecenter.com
+
+                                                  DISCLAIMER
+This Safety Data Sheet was prepared by ICC The Compliance Center Inc. using information provided by Parker Hannifin
+Corporation and CCOHS’ Web Information Service. The information in the Safety Data Sheet is offered for your consideration
+and guidance when exposed to this product. ICC The Compliance Center Inc and Parker Hannifin Corporation expressly disclaim
+all expressed or implied warranties and assume no responsibilities for the accuracy or completeness of the data contained
+herein. The data in this SDS does not apply to use with any other product or in any other process.
+
+This Safety Data Sheet may not be changed, or altered in any way without the expressed knowledge and permission of ICC The
+Compliance Center Inc. and Parker Hannifin Corporation.
+
+
+                                              END OF DOCUMENT
+

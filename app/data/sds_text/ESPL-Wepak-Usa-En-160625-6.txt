@@ -1,0 +1,415 @@
+                                                                                          Safety Data Sheet
+ Issue Date 25-Jan-2023                           Revision/Review Date: 25-Jan-2023                                   Version 1.2
+
+                                                       1. IDENTIFICATION
+
+ Product Identifier
+ Product Name                            WePak Spray Buff
+
+ Other Means of Identification
+ Product Code                            700090
+
+  Recommended Use of the Chemical and Restrictions on Use
+  Recommended Use                Floor spray buff. For industrial & institutional use.
+
+ Details of the Supplier of the Safety Data Sheet
+ WePak LLC
+ 140 Private Brand Way
+ Athens, TN 37303
+
+ Emergency Telephone Number
+ Company Phone Number                    Phone: 1-704-334-5781
+ Emergency Telephone (24 hr)             INFOTRAC 1-352-323-3500 (International)
+                                         1-800-535-5053 (North America)
+
+                                               2. HAZARDS IDENTIFICATION
+ Appearance Light Pink                                 Physical State Liquid                           Odor Baby Powder
+
+ Classification
+
+ Skin Corrosion/Irritation                                                                  Category 3
+ Serious Eye Damage/Eye Irritation                                                          Category 2
+ Sensitization – Skin                                                                       Category 1
+
+Signal Word
+Warning
+
+Hazard Statements
+Causes mild skin irritation.
+Causes serious eye irritation.
+May cause an allergic skin reaction
+
+Precautionary Statements - Prevention
+Wash face, hands and any exposed skin thoroughly after handling. Do not touch eyes.
+Wear eye protection/face protection.
+Avoid breathing dust/fume/gas/mist/vapors/spray.
+Contaminated work clothing should not be allowed out of the workplace.
+Wear protective gloves.
+
+Precautionary Statements - Response
+IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. If
+eye irritation persists: Get medical help.
+IF ON SKIN: Wash with plenty of water. Take off contaminated clothing and wash it before reuse. If skin irritation or rash occurs:
+Get medical help.
+SPECIFIC TREATMENT: Remove from exposure and treat symptoms.
+
+Precautionary Statements - Storage
+No other specific measures identified.
+
+Precautionary Statements - Disposal
+Dispose of contents/container to an approved waste disposal plant.
+
+Other Hazards
+
+                                                            Page 1 / 6
+ WePak Spray Buff                                                                                Revision/Review Date: 21-Oct-2022
+
+None known.
+
+Unknown Acute Toxicity
+None known.
+
+
+                                 3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+                   Chemical Name                                    CAS No                                   Weight-%
+              Alcohols, C9-11 ethoxylated                          68439-46-3                                  1-5
+                    Butoxydiglycol                                  112-34-5                                   1-5
+
+**If Chemical Name/CAS No is "proprietary" and/or Weight-% is listed as a range, the specific chemical identity and/or percentage of
+composition has been withheld as a trade secret. **
+
+                                                  4. FIRST-AID MEASURES
+
+ First Aid Measures
+
+ Eye Contact                            Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes.
+                                        Seek medical attention.
+
+ Skin Contact                           Wash off immediately with plenty of water. Seek medical attention if irritation persists.
+
+ Inhalation                             Remove to fresh air.
+
+ Ingestion                             Clean mouth with water and drink afterwards plenty of water. If any discomfort persists,
+                                        obtain medical attention.
+
+ Most Important Symptoms and Effects
+
+  Symptoms                              Prolonged or repeated exposure can remove natural skin oils and may produce irritation.
+
+ Indication of Any Immediate Medical Attention and Special Treatment Needed
+
+  Notes to Physician                    Treat symptomatically. May aggravate pre-existing skin disorders.
+
+                                               5. FIRE-FIGHTING MEASURES
+
+ Suitable Extinguishing Media
+ Water spray (fog). Carbon dioxide (CO2). Water. Foam.
+
+ Unsuitable Extinguishing Media
+ Not determined.
+
+ Specific Hazards Arising from the Chemical
+ None known.
+
+ Hazardous Combustion Products
+ Normal products of combustion.
+
+ Protective Equipment and Precautions for Firefighters
+ As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH (approved or equivalent) and full
+ protective gear.
+
+                                         6. ACCIDENTAL RELEASE MEASURES
+
+ Personal Precautions, Protective Equipment and Emergency Procedures
+
+     Personal Precautions               Wear protective clothing as described in Section 8 of this safety data sheet.
+
+     Environmental Precautions          Prevent from entering into soil, ditches, sewers, waterways, and/or groundwater. See
+                                        Section 12, Ecological Information. See Section 13, Disposal Considerations, for additional
+                                        information. See Section 12 for additional Ecological Information.
+
+                                                           Page 2 / 6
+WePak Spray Buff                                                                            Revision/Review Date: 21-Oct-2022
+
+Methods and Material for Containment and Cleaning Up
+
+   Methods for Containment          Prevent from spreading or entering drains, ditches, or rivers by using sand, earth, or other
+                                    appropriate barriers.
+
+   Methods for Clean-Up             Contain and collect with an inert absorbent and place into an appropriate container for
+                                    disposal. Rinse area with clean water and dry before permitting traffic.
+
+                                           7. HANDLING AND STORAGE
+
+Precautions for Safe Handling
+
+    Advice on Safe Handling         Handle in accordance with good industrial hygiene and safety practice. Use personal
+                                    protection recommended in Section 8. For industrial and commercial use only. Avoid
+                                    contact with skin, eyes, or clothing.
+
+Conditions for Safe Storage, Including Any Incompatibilities
+
+    Storage Conditions              Keep container tightly closed and store in a cool, dry, and well-ventilated place. Protect
+                                    from freezing. Keep out of the reach of children.
+
+    Incompatible Materials          Alkali’s, acids.
+
+                               8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+Exposure Guidelines
+
+          Chemical Name                      ACGIH TLV                         OSHA PEL                    NIOSH IDLH
+            None Listed                          -                                -                            -
+
+
+Appropriate Engineering Controls
+
+Engineering Controls               Ensure adequate ventilation, especially in confined areas. Good general room ventilation
+                                    should be adequate under normal conditions.
+
+Individual Protection Measures, such as Personal Protective Equipment
+
+Eye/Face Protection                Eye protection should be used.
+
+Skin and Body Protection            Wear protective gloves when handling this product.
+
+ Respiratory Protection             Under normal conditions, respirator is not normally required.
+
+ General Hygiene Considerations     Handle in accordance with good industrial hygiene and safety practice.
+
+                                   9. PHYSICAL AND CHEMICAL PROPERTIES
+
+Information on Basic Physical and Chemical Properties
+
+Physical State                      Liquid
+Appearance                          Clear                                      Odor                    Baby Powder
+Color                               Light Pink                                 Odor Threshold          Not determined
+
+
+Property                                               Values                               Remarks • Method
+pH (concentrate)                                       4.0-6.0
+Melting Point/Freezing Point                           Approximately 32°F
+Boiling Point/Boiling Range                            Approximately 212°F
+Flash Point                                            Not applicable
+Evaporation Rate                                       Not determined
+Flammability (Solid, Gas)                              Liquid-not applicable
+Upper Flammability Limits                              Not applicable
+Lower Flammability Limit                               Not applicable
+
+
+                                                         Page 3 / 6
+WePak Spray Buff                                                                            Revision/Review Date: 21-Oct-2022
+
+Vapor Pressure                                          Not determined
+Vapor Density                                           Not determined
+Specific Gravity                                        1.0
+Water Solubility                                        Completely soluble
+Solubility in other solvents                            Not determined
+Partition Coefficient                                   Not determined
+Auto-ignition Temperature                               Not determined
+Decomposition Temperature                               Not determined
+Kinematic Viscosity                                     Not determined
+Dynamic Viscosity                                       Not determined
+Explosive Properties                                    Not an explosive
+Oxidizing Properties                                    Not determined
+
+                                             10. STABILITY AND REACTIVITY
+
+Reactivity
+Not reactive under normal conditions.
+
+Chemical Stability
+Stable under recommended storage conditions.
+
+Possibility of Hazardous Reactions
+None under normal processing.
+
+Hazardous Polymerization
+Hazardous polymerization does not occur.
+
+Conditions to Avoid
+Keep out of reach of children. Keep from freezing.
+
+Incompatible Materials
+Alkali’s, acids.
+
+Hazardous Decomposition Products
+Thermal decomposition may produce oxides of carbon.
+
+                                          11. TOXICOLOGICAL INFORMATION
+
+Information on Likely Routes of Exposure
+
+ Product Information
+
+ Eye Contact                            Avoid contact with eyes.
+
+ Skin Contact                           Avoid contact with skin.
+
+ Inhalation                             Avoid breathing vapors or mists.
+
+ Ingestion                              Do not taste or swallow.
+
+Component Information
+
+           Chemical Name                       Oral LD50                   Dermal LD50              Inhalation LC50
+      Alcohols, C9-11 ethoxylated
+                                           > 2000 mg/kg (Rat)       > 2000 mg/kg (Rabbit)                  -
+              68439-46-3
+              Butoxydiglycol
+                                           2410 mg/kg (Mouse)       = 2764 mg/kg (Rabbit)                  -
+                112-34-5
+
+
+Information on Physical, Chemical and Toxicological Effects
+
+Symptoms                                Please see section 4 of this SDS for symptoms.
+
+Delayed and Immediate Effects as well as Chronic Effects from Short and Long-Term Exposure
+
+
+                                                           Page 4 / 6
+ WePak Spray Buff                                                                                       Revision/Review Date: 21-Oct-2022
+
+ Carcinogenicity                            This product does not contain any carcinogens or potential carcinogens as listed by OSHA,
+                                            IARC or NTP.
+
+ Numerical Measures of Toxicity
+ Not determined
+
+                                                  12. ECOLOGICAL INFORMATION
+
+ Ecotoxicity
+ The product is not classified as environmentally hazardous. However, this does not exclude the possibility that large or frequent
+ spills can have a harmful or damaging effect on the environment.
+
+ Component Information
+
+                                                                                                    Toxicity to
+        Chemical Name            Algae/aquatic plants                      Fish                                             Crustacea
+                                                                                                  microorganisms
+           Butoxydiglycol                                    LC50: 1300 mg/L (96 h) Lepomis                            EC50: 4950 mg/L (48 h)
+                                            -                                                             -
+             112-34-5                                                 macrochirus                                         Daphnia magna
+
+ Persistence/Degradability
+ Not expected to persist.
+
+ Bioaccumulation
+ Not expected to bioaccumulate.
+
+ Mobility
+ Not determined
+
+ Other Adverse Effects
+ Not determined
+
+                                                 13. DISPOSAL CONSIDERATIONS
+
+ Waste Treatment Methods
+
+  Disposal of Wastes                        Disposal should be in accordance with applicable regional, national, and local laws
+                                            and regulations.
+
+  Contaminated Packaging                    Disposal should be in accordance with applicable regional, national, and local laws
+                                            and regulations.
+
+                                                   14. TRANSPORT INFORMATION
+
+ Note                                       Please see current shipping paper for most up to date shipping information, including
+                                            exemptions and special circumstances.
+
+ DOT                                        Not regulated. (NOI Non-Hazardous)
+
+ IATA                                        Not regulated.
+
+ IMDG                                       Not regulated.
+
+                                                 15. REGULATORY INFORMATION
+
+ International Inventories
+Canada – Domestic Substances List (DSL)                               All ingredients are listed or exempt.
+TSCA (Toxic Substances Control Act)                                   All ingredients are listed or exempt.
+
+ Legend:
+    TSCA - United States Toxic Substances Control Act Section 8(b) Inventory
+    DSL/NDSL - Canadian Domestic Substances List/Non-Domestic Substances List
+
+
+ US Federal Regulations
+
+ CERCLA
+
+                                                                  Page 5 / 6
+ WePak Spray Buff                                                                                     Revision/Review Date: 21-Oct-2022
+
+ None Listed
+
+ SARA 311/312 Hazard Categories
+ Immediate (Acute) Health.
+
+ SARA 313
+ Section 313 of Title III of the Superfund Amendments and Reauthorization Act of 1986 (SARA). This product contains a chemical
+ or chemicals which are subject to the reporting requirements of the Act and Title 40 of the Code of Federal Regulations, Part 372
+
+                                                                                                                  SARA 313 - Threshold
+                    Chemical Name                                CAS No                       Weight-%
+                                                                                                                       Values %
+                     Butoxydiglycol                             112-34-5                        1-5                        1.0
+
+
+ CWA (Clean Water Act)
+ None known.
+
+ US State Regulations
+ None known
+
+ California Proposition 65
+ This product does not contain any Proposition 65 chemicals.
+
+ U.S. State Right-to-Know Regulations
+ The following ingredients appear on various state right to know lists and/or California’s Proposition 65 List:
+          Chemical Name                                                          State List
+            None Known
+
+
+ AZ- Arizona Ambient Air Quality Guidelines                                  IL- Illinois Toxic Air Contaminate- Carcinogenic
+ CT- Connecticut Hazardous Air Pollutants                                    MA- Massachusetts Right to Know List
+ CA- California Director's List of Hazardous Substances                      MN- Minnesota Hazardous Substances List
+ CAP65- California Prop65                                                    NJ- New Jersey Right to Know List
+ FL- Florida Substances List                                                 PA- Pennsylvania Right to Know List
+ ID- Idaho Non-Carcinogen Toxic Air Pollutants                               RI- Rhode Island Hazardous Substances List
+
+
+                                                   16. OTHER INFORMATION
+
+
+ NFPA                       Health Hazards             Flammability                Instability                  Special Hazards
+                            Not determined             Not determined                Not determined             Not determined
+ HMIS                       Health Hazards             Flammability                Physical Hazards             Personal Protection
+                                   1                          0                              0                  Glasses, Gloves
+
+ Issue Date                              19-Jul-2022
+ Revision/Review Date:                   25-Jan-2023
+ Revision Note                           Version 1.2
+
+
+ Disclaimer
+ The information provided in this Safety Data Sheet is correct to the best of our knowledge, information, and belief at the
+ date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+ transportation, disposal, and release and is not to be considered a warranty or quality specification. The information
+ relates only to the specific material designated and may not be valid for such material used in combination with any other
+ materials or in any process, unless specified in the text.
+
+Keep Out of Reach of Children. For Industrial and Institutional Use Only.
+
+*Denotes changes from last version.
+
+                                                       End of Safety Data Sheet
+
+
+
+
+                                                             Page 6 / 6
+
