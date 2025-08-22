@@ -10,3 +10,5 @@ wheels/
 .venv
 data/sds_text/
 chroma_store/
+.env
+data/
