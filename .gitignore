@@ -12,3 +12,4 @@ data/sds_text/
 chroma_store/
 .env
 data/
+chroma_store_pdf/

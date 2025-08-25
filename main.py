@@ -4,14 +4,15 @@ load_dotenv()
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from app.loader import load_sds_documents
-from app.retriever import make_vectordb_and_retriever as create_retriever
-from app.qa_engine import get_rag_chain
+from app.loader_pdf import load_sds_documents
+from app.retriever import make_vectordb_and_retriever
 import logging
 from app.section_picker import choose_relevant_section
+import logging
 from openai import OpenAI
 
 app = FastAPI()
+logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
 # Allow React frontend origin
@@ -30,17 +31,19 @@ app.add_middleware(
 class QueryRequest(BaseModel):
     question: str
 
-docs = load_sds_documents()
-vectordb, retriever = create_retriever(docs)
+# ---- Build/load vector store from PDFs ----
+PDF_DIR = "data/sds_pdf"
+PERSIST_DIR = "chroma_store_pdf"
 
-def extract_section_verbatim(docs, target_heading):
-    for doc in docs:
-        if doc.metadata.get("section") == target_heading:
-            return doc.page_content, doc.metadata
-    return None, None
+docs = load_sds_documents(pdf_dir=PDF_DIR)   # returns List[Document]
+vectordb, retriever = make_vectordb_and_retriever(
+    documents=docs,
+    persist_directory=PERSIST_DIR,
+    data_path=PDF_DIR,
+    collection_name="sds"
+)
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
 PRODUCT_SYNONYMS = {
     "AURION CWFS Gelatin": ["CWFS Gelatin", "Aurion Gelatin 40%", "AURION CWFS Gelatin (40%)"],
     "India Ink Control": ["India Ink", "Ink Control Sample"],
@@ -79,12 +82,10 @@ def extract_product_hint_llm(query: str):
     except Exception as e:
         logging.error("LLM product extraction failed: %s", str(e))
         return None
-    
 
 @app.post("/query")
 def query_sds(req: QueryRequest):
     query = req.question
-
     # Pass 1: Try synonym-based hinting
     product_hint = extract_product_hint(query)
     logging.info("Extracted product hint: %s", product_hint)
@@ -110,8 +111,11 @@ def query_sds(req: QueryRequest):
         # ❓ OPTION 2: Force user to refine question instead
         # return {"answer": "I couldn’t identify the product from your question. Please mention the product name."}
 
-    logging.info("Retrieved %d candidates for query=%s", len(candidates), query)
+    if not candidates:
+        return {"answer": "ANSWER NOT FOUND IN SDS", "source": None}
 
+    logging.info("Retrieved %d candidates for query=%s", len(candidates), query)
+    
     for i, doc in enumerate(candidates, start=1):
         logging.info(
             "Candidate %d: section=%s, product=%s, source=%s",
@@ -120,17 +124,14 @@ def query_sds(req: QueryRequest):
             doc.metadata.get("product", "UNKNOWN"),
             doc.metadata.get("source", "UNKNOWN"),
         )
-
-    if not candidates:
-        return {"answer": "ANSWER NOT FOUND IN SDS", "source": None}
-
+        
     section = choose_relevant_section(query, candidates)
-    logging.info("LLM picked section=%s", section)
+    logger.info("LLM picked section=%s", section)
 
-    # Extract verbatim
+    # Return the exact chunk matching that section, verbatim
     for doc in candidates:
         if doc.metadata.get("section") == section:
             return {"answer": doc.page_content, "source": doc.metadata}
 
-    # fallback
+    # Fallback: top chunk
     return {"answer": candidates[0].page_content, "source": candidates[0].metadata}
